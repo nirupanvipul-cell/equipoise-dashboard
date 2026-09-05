@@ -1,0 +1,63 @@
+<!doctype html><html><head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width,initial-scale=1'>
+<title>Equipoise build</title><style>
+body{font-family:-apple-system,system-ui,sans-serif;margin:0;padding:1rem;background:#fafaf7;color:#1a1a1a;max-width:44rem;margin:auto}h1{font-size:1.3rem}h2{font-size:1.05rem;margin-top:1.6rem}.row{margin:.45rem 0}.lbl{font-size:.85rem}.track{background:#e4e2da;border-radius:4px;height:12px;overflow:hidden}.fill{background:#2f6f4f;height:12px}.sub{font-size:.75rem;color:#555}.stage{padding:.4rem 0;border-bottom:1px solid #eee;font-size:.85rem}.st-running{color:#8a5a00;font-weight:600}.st-done{color:#2f6f4f;font-weight:600}.st-not{color:#777}table{border-collapse:collapse;width:100%;font-size:.8rem}td,th{text-align:left;padding:.3rem .4rem;border-bottom:1px solid #eee;vertical-align:top}footer{margin-top:2rem;font-size:.72rem;color:#777}</style></head><body>
+<!--FRESHNESS-->
+<h1>Equipoise — build state</h1>
+<h2>Coverage</h2>
+<div class="row"><div class="lbl">Owner checklist LIVE: 1 of 15</div><div class="track"><div class="fill" style="width:6%"></div></div><div class="sub"></div></div>
+<div class="row"><div class="lbl">Technical rows LIVE: 90 of 263</div><div class="track"><div class="fill" style="width:34%"></div></div><div class="sub"></div></div>
+<h2>Stages</h2>
+<div class='stage'><span class='st-running'>RUNNING</span> · <b>S0</b> P-78 recompute (running)<div class='sub'>machine (forecast vs measured): measured at block end · owner minutes (forecast vs measured): 30 vs — · read r3 (the seed read for the read-sampling rule) · released by P-78</div></div>
+<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S1</b> SHEET-9/SHEET-10 amendments<div class='sub'>machine (forecast vs measured): 2–4 h · owner minutes (forecast vs measured): 12 vs — · two sheets, one slot each</div></div>
+<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S2</b> R4/R6 generalised into the engine<div class='sub'>machine (forecast vs measured): 1–2 blocks · owner minutes (forecast vs measured): 0 vs — · —</div></div>
+<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S3</b> R1 outcome register<div class='sub'>machine (forecast vs measured): 1–2 blocks · owner minutes (forecast vs measured): ~25 vs — · one three-way sheet: seed 10 + disagreements only</div></div>
+<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S4</b> R2 misuse detectors<div class='sub'>machine (forecast vs measured): 1–2 blocks · owner minutes (forecast vs measured): ~25 vs — · one three-way confirmation sheet (mined moves against cases)</div></div>
+<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S5</b> Remaining upstream checklist items<div class='sub'>machine (forecast vs measured): 2–3 blocks · owner minutes (forecast vs measured): ~25 vs — · one three-way sheet across items</div></div>
+<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S6</b> Other four sections recomputed<div class='sub'>machine (forecast vs measured): 1 block each · owner minutes (forecast vs measured): ~30 total vs — · one seeded read of the four (rule 4), not four reads</div></div>
+<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S7</b> R3 reasoning drift<div class='sub'>machine (forecast vs measured): 1–2 blocks · owner minutes (forecast vs measured): 0 vs — · —</div></div>
+<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S8</b> Full-text programme<div class='sub'>machine (forecast vs measured): machine small; calendar-bound · owner minutes (forecast vs measured): 15 vs — · one high-consequence ruling (D129): send the batch</div></div>
+<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S9</b> Site + watchers (step 8)<div class='sub'>machine (forecast vs measured): 1–2 blocks · owner minutes (forecast vs measured): ~20 vs — · one seeded read</div></div>
+<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S10</b> Steps 9–10<div class='sub'>machine (forecast vs measured): blocked · owner minutes (forecast vs measured): 0 now vs — · librarians (external)</div></div>
+<h2>On Nirupan</h2><table><tr><th>Item</th><th>Type</th><th>~min</th><th>Unblocks</th></tr>
+<tr><td>status/SHEET-10-sitting-schedule.md</td><td>sheet</td><td>2</td><td>confirms your sitting schedule</td></tr>
+<tr><td>status/SHEET-12-permission-batch.md</td><td>ruling</td><td>15</td><td>releases the permission batch (held; high-consequence)</td></tr>
+<tr><td>status/SHEET-9-R4-R6-build-specs.md</td><td>sheet</td><td>10</td><td>locks the R4-R6 specs the recompute ran on</td></tr>
+<tr><td>status/SHEET-8-openevidence-stems.md</td><td>sheet</td><td>45</td><td>the OpenEvidence arm of the tool-divergence census</td></tr>
+</table>
+<h2 style='color:#999'>Appendix (not expected reading — D142)</h2><table>
+<tr><td>urology anchor replies (the two urologists)</td><td>external</td><td>urology anchors entering the registry</td></tr>
+</table>
+<h2>Corpora</h2><table><tr><th>Corpus</th><th>Anchors</th><th>Recompute-grade sections</th><th>State</th></tr>
+<tr><td>anaesthesia</td><td>108</td><td>1</td><td>EQ-0301 at recompute grade; 4 older renderings from the superseded engine</td></tr>
+<tr><td>urology</td><td>5</td><td>0</td><td>candidates await the two urologists</td></tr>
+<tr><td>haematology</td><td>0</td><td>0</td><td>not started</td></tr>
+<tr><td>oncology</td><td>0</td><td>0</td><td>not started</td></tr>
+</table><div class='sub'>per-anchor forecasts populate from measured figures as sections land (P-82)</div>
+<h2>Quality</h2>
+<div class='stage'>Verifier stability, non-style failures per pass (r3, passes a→f): <b>no runs yet</b> — falling is converging</div>
+<div class='stage'>Calibration: linkage 20/20 on SHEET-6 (D131); migration 50/50 owner-confirmed (D139); proxy trust not yet measured — first three-way sheet pending (D142)</div>
+<div class='stage'>Defect classes, all-time (ledger): SELF 12, PRES 10, VOCAB 9, WIRE 7, SAMP 7, SEL 6</div>
+<h2>Learning loop</h2>
+<div class='stage'>Clusters by lifecycle: {&quot;live&quot;: 3} · predictions recorded: 1 · renderings in the register: 2</div>
+<h2>Publications</h2><table><tr><th>Paper</th><th>Inputs</th><th>Gates</th><th>Forecast to preprint</th></tr>
+<tr><td>Meta paper (the engine and its verification layer)</td><td>the decision record, the defect ledger, the stability record</td><td>owner scoping ruling; no inputs registered yet</td><td>not forecast until scoped</td></tr>
+<tr><td>Urology paper</td><td>urology anchors + sections</td><td>the two urologists' review; sections built</td><td>not forecast until anchors enter</td></tr>
+</table>
+<h2>TDM — texts to retrieve</h2>
+<div class='stage'>26 unread full texts for EQ-0301, ranked and paste-ready on SHEET-11; rank 1 is one library session (~30 min) and upgrades every claim-bearing cell</div>
+<h2>Risks</h2>
+<div class='stage'>Library licensing unanswered — steps 9-10 and the full-text programme are calendar-bound on it <span class='sub'>(NEXT.md blocked table)</span></div>
+<div class='stage'>Verifier rationale instability on synthesis-grade claims — converges on real defects but rotates phrasings across passes <span class='sub'>(ledger 122)</span></div>
+<div class='stage'>Single rendering family (Anthropic) — error-independence rests on the verifier and census layers <span class='sub'>(INDEPENDENCE-ARCHITECTURE note)</span></div>
+<div class='stage'>26 of the recompute&#x27;s 30 trials have no openly readable full text — the map is abstract-grade until SHEET-11/SHEET-12 move <span class='sub'>(SHEET-11)</span></div>
+<div class='stage'>Urology anchors blocked on external reviewers <span class='sub'>(NEXT.md blocked table)</span></div>
+<h2>Changed since the previous generation</h2>
+<div class='stage'>recompute_spend: $8.93 → $9.19</div>
+<h2>Spend</h2>
+<div class="row"><div class="lbl">Rebuild (P-68, D123)</div><div class="track"><div class="fill" style="width:57%"></div></div><div class="sub">$34.39 of $60.00</div></div>
+<div class="row"><div class="lbl">Stage reviews (P-69, D126)</div><div class="track"><div class="fill" style="width:3%"></div></div><div class="sub">$0.80 of $25.00</div></div>
+<div class="row"><div class="lbl">Verifier programme (P-72, D130)</div><div class="track"><div class="fill" style="width:3%"></div></div><div class="sub">$0.69 of $20.00</div></div>
+<div class="row"><div class="lbl">Recompute (P-75/P-78, D137/D140)</div><div class="track"><div class="fill" style="width:30%"></div></div><div class="sub">$9.19 of $30.00</div></div>
+<div class="row"><div class="lbl">Tool census (per-pass default, D132)</div><div class="track"><div class="fill" style="width:36%"></div></div><div class="sub">$1.81 of $5.00/pass</div></div>
+<footer>Generated 2026-09-05 10:23 · on top of commit cf7b47f · rendered by equipoise.dashboard from the coverage matrix, ROADMAP.md, the awaiting registry and the recorded ceilings — nothing typed by hand (P-80/D141)</footer></body></html>

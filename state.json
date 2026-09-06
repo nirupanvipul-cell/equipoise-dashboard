@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-06T13:16:02.139883+00:00",
+ "generated": "2026-09-06T13:42:15.467177+00:00",
  "commit": "9202387",
- "generation_file": "dashboard-d7b77c4e.html",
+ "generation_file": "dashboard-e9c434c6.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D143 \u2014 the recompute's terminal state; the r3 standing conditional (P-78, 5 September 2",
   "D144 \u2014 P-82: the emission block, the citation ruling, the sheets, the denominator",
   "D145 \u2014 the synthesis-gate question: seven passes measured, the ruling is the owner's (P",
   "D146 \u2014 P-83: the synthesis ruling applied; the dashboard published",
@@ -46,7 +45,8 @@
   "D149 \u2014 SHEET-12 amended and the permission package prepared, not sent (P)",
   "D150 \u2014 the dashboard as the review channel (P-86)",
   "D151 \u2014 dashboard: machine snapshot, plain-text report, per-generation URL (P-86 addendu",
-  "D152 \u2014 P-87: routing B; the fast path to the first site; the paced TDM sheet"
+  "D152 \u2014 P-87: routing B; the fast path to the first site; the paced TDM sheet",
+  "D153 \u2014 P-87 addendum: A1 as listed; browser settings corrected; the corpus-wide sweep's"
  ],
  "recent_ledger": [
   "119 \u2014 The rendering states corpus-bounded findings as literature-level facts \u2014 \"the tr",

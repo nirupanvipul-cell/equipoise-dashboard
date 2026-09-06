@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-06T10:09:02.001027+00:00",
- "commit": "d8e3748",
- "generation_file": "dashboard-5b2041fb.html",
+ "generated": "2026-09-06T10:13:12.874561+00:00",
+ "commit": "f7fbb40",
+ "generation_file": "dashboard-7c38ef4a.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -10,10 +10,10 @@
  },
  "running": [
   {
-   "name": "intake extraction (25 trial PDFs, caffeinated)",
-   "started": "2026-09-06 05:20",
-   "last_line": "local model extracting; 15+ of 25 staged",
-   "waiting_on": "nothing \u2014 runs to completion, then map re-derive + ruled pass"
+   "name": "intake residue re-run (8 PDFs, fixed matcher+schema-filter, caffeinated)",
+   "started": "2026-09-06 06:15",
+   "last_line": "17 staged from prior passes; re-running the 8 that were refused/failed",
+   "waiting_on": "nothing \u2014 then map re-derive + hypothesis re-test + ruled pass"
   }
  ],
  "decisions_pending": [],
@@ -33,6 +33,10 @@
   {
    "when": "2026-09-06 09:40",
    "what": "dashboard Pages republish had silently failed for 7 commits (macOS timeout + GIT_DIR leak); fixed, backlog pushed (ledger 126)"
+  },
+  {
+   "when": "2026-09-06 06:12",
+   "what": "extraction pass: 3 trials failed on model-output shape (timeout/JSON/stray-prose), 3 refused as ambiguous by pre-margin matcher; both fixed (ledger 127), residue re-running"
   }
  ],
  "recent_decisions": [
@@ -48,7 +52,6 @@
   "D151 \u2014 dashboard: machine snapshot, plain-text report, per-generation URL (P-86 addendu"
  ],
  "recent_ledger": [
-  "117 \u2014 Two claims in DOC-EQ-0301 rest on things neither the document nor the profile st",
   "118 \u2014 The first SHEET-7 draft graded \"no findable origin\" as a failure in open mode, s",
   "119 \u2014 The rendering states corpus-bounded findings as literature-level facts \u2014 \"the tr",
   "120 \u2014 Landscape outcome labels render truncated and unidentifiable \u2014 \"paco\", \"spo\", \"i",
@@ -57,7 +60,8 @@
   "123 \u2014 SHEET-11 declared all 26 unread trials \"open routes exhausted\"; the owner retrie",
   "124 \u2014 The intake matcher identified the iPROVE paper as IMPROVE at \"100% title match\" ",
   "125 \u2014 The intake matcher's ambiguity guard (ledger 124) over-fired, refusing PROTHOR's",
-  "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev"
+  "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev",
+  "127 \u2014 The intake extractor failed three of the last eight trials on model-output shape"
  ],
  "spend": {
   "rebuild_spend": 34.39,

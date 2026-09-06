@@ -1,22 +1,26 @@
-P-85..P-86 · 2026-09-06 08:15 · DOC-EQ-0301-r3 EMITTED
+P-87 · 2026-09-06 · THE SITE IS LIVE; the twenty picked; the residue paced
 
-FOR NIRUPAN: The ventilation-strategy appraisal you asked for at P-76 now exists
-as a real emitted document, DOC-EQ-0301-r3 — clinician layer first, every one of
-30 trials named in a bundle map, per-outcome tables by factorial cell, a
-walkthrough that arrives at the question behind the common one, your hypothesis
-tested per fingerprint, next-study value with its EVSI citation, then the methods
-layer. It rests on read full text for 22 of the 30 trials (three stay
-abstract-grade: two unreadable 2008 scans and Brower, which you did not retrieve).
-The full texts confirmed the abstract-built map — no direction flipped; they added
-per-arm counts and confirmed Amato as a full-bundle trial. One decision waits: how
-free-to-read full texts should be extracted going forward (routing fix, ledger 128)
-— option B keeps the sound verified data and changes nothing about this document.
+FOR NIRUPAN: Your ruling landed and the plan changed shape the same day. The site
+now exists: https://nirupanvipul-cell.github.io/equipoise-site/ serves the
+ventilation appraisal as one public page — the document a clinician would land on,
+rendered only from the emitted, verified text, with a guard that refuses to
+publish anything superseded, altered since verification, or carrying institutional
+content. Routing B is recorded: the intake folder now has free/ and licensed/
+subfolders, class comes from the folder, LICENSED.txt is retired, and an unclassed
+PDF in the root is refused. The corpus-wide access census ran on every linked
+trial paper: 334 papers, 221 free to a machine (66%), 113 residue. SHEET-13 ranks
+the twenty cheapest anchors from it (with a warning column showing which are cheap
+only because unlinked), and SHEET-14 pass 1 gives you 111 plain links, unpaced —
+downloads go to intake/free/. The engine work (S2) has started: the clinician-layer
+renderer is now general code that reproduces r3 exactly from a specification.
 
-VERIFICATION: r3 cleared its ruled pass at zero majority blockers in BOTH modes
-under the P-83-amended verifier, after nine fix-and-repass rounds that each caught
-a genuine overreach and drove the count 14 to 0. The emission ran the full gate:
-floor re-run, both merged verifier modes, output standards, prediction reference,
-membership, cluster contract — all pass; it reads RENDERING, not stale, supersedes
-r2, carries a 432-line diff. The routing defect (all 22 tuples went local) was
-confirmed from each tuple's recorded model, not memory; the data was verified
-against abstract and registry before staging. Verifier spend this block ~$45 of $50.
+VERIFICATION: The public page returns HTTP 200 at 47.5 KB and its content audit
+found zero forbidden markers and zero quoted spans of 80+ characters. The census
+covered 334 of 334 distinct linked results-papers; its states sum exactly
+(133+48+33 aggregator-free, +7 free at the publisher's own page, +113 residue of
+which 2 lack DOIs and are excluded from the sheet's 111 lines). Every "not free"
+row carries a recorded landing attempt per the P-85 rule. The engine parity drill
+returns IDENTICAL at 15,054 characters; the intake drills pass 29 assertions
+including folder-classing and root-refusal. Not verified: the anchor ranking is a
+census floor — linked papers, not enumerations — and the calendar forecast and
+sitting pace are ASSERTED, replaced by measured figures as the work runs.

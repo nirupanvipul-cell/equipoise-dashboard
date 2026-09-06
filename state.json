@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-06T12:43:56.683729+00:00",
- "commit": "7c41e5f",
- "generation_file": "dashboard-e4d62971.html",
+ "generated": "2026-09-06T13:15:13.124125+00:00",
+ "commit": "15d1ead",
+ "generation_file": "dashboard-9c3ce64f.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D142 \u2014 owner load: the standing rules (P-81, 5 September 2026)",
   "D143 \u2014 the recompute's terminal state; the r3 standing conditional (P-78, 5 September 2",
   "D144 \u2014 P-82: the emission block, the citation ruling, the sheets, the denominator",
   "D145 \u2014 the synthesis-gate question: seven passes measured, the ruling is the owner's (P",
@@ -46,7 +45,8 @@
   "D148 \u2014 the open layer redefined; the census corrected (P-85)",
   "D149 \u2014 SHEET-12 amended and the permission package prepared, not sent (P)",
   "D150 \u2014 the dashboard as the review channel (P-86)",
-  "D151 \u2014 dashboard: machine snapshot, plain-text report, per-generation URL (P-86 addendu"
+  "D151 \u2014 dashboard: machine snapshot, plain-text report, per-generation URL (P-86 addendu",
+  "D152 \u2014 P-87: routing B; the fast path to the first site; the paced TDM sheet"
  ],
  "recent_ledger": [
   "119 \u2014 The rendering states corpus-bounded findings as literature-level facts \u2014 \"the tr",
@@ -68,6 +68,6 @@
   "census_spend": 1.81
  },
  "last_report": {
-  "header": "P-85..P-86 \u00b7 2026-09-06 08:15 \u00b7 DOC-EQ-0301-r3 EMITTED"
+  "header": "P-87 \u00b7 2026-09-06 \u00b7 THE SITE IS LIVE; the twenty picked; the residue paced"
  }
 }

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-06T10:08:23.907358+00:00",
- "commit": "52dfc25",
- "generation_file": "dashboard-6fea6d16.html",
+ "generated": "2026-09-06T10:09:02.001027+00:00",
+ "commit": "d8e3748",
+ "generation_file": "dashboard-5b2041fb.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -36,7 +36,6 @@
   }
  ],
  "recent_decisions": [
-  "D141 \u2014 the roadmap and the dashboard (P-79, P-80)",
   "D142 \u2014 owner load: the standing rules (P-81, 5 September 2026)",
   "D143 \u2014 the recompute's terminal state; the r3 standing conditional (P-78, 5 September 2",
   "D144 \u2014 P-82: the emission block, the citation ruling, the sheets, the denominator",
@@ -45,7 +44,8 @@
   "D147 \u2014 P-84: the intake extractor built, local-model ruling recorded",
   "D148 \u2014 the open layer redefined; the census corrected (P-85)",
   "D149 \u2014 SHEET-12 amended and the permission package prepared, not sent (P)",
-  "D150 \u2014 the dashboard as the review channel (P-86)"
+  "D150 \u2014 the dashboard as the review channel (P-86)",
+  "D151 \u2014 dashboard: machine snapshot, plain-text report, per-generation URL (P-86 addendu"
  ],
  "recent_ledger": [
   "117 \u2014 Two claims in DOC-EQ-0301 rest on things neither the document nor the profile st",
@@ -67,6 +67,6 @@
   "census_spend": 1.81
  },
  "last_report": {
-  "header": "P-85 \u00b7 2026-09-06 05:30"
+  "header": "P-86+ \u00b7 2026-09-06 06:10"
  }
 }

@@ -1,19 +1,17 @@
-P-85 · 2026-09-06 05:30
+P-86+ · 2026-09-06 06:10
 
-FOR NIRUPAN: You were right and the machine was wrong — 18 of the 26 trials I
-declared "open routes exhausted" were free without credentials, because my
-acquisition asked one aggregator and read its silence as the literature's
-silence. The open layer is now three tagged classes (licensed-OA, free-to-read,
-institutional), the degrade operation strips institutional alone, and the
-corrected 990-review census moves the affirmatively-free layer from 46% to 71%.
-Nothing waits on you but the PDF drop; the route identifies each file from its
-own pages, sorts the seven institutional ones to the local model, extracts,
-verifies, tags, deletes, and logs.
+FOR NIRUPAN: The dashboard now publishes three things beside the page — a
+machine-readable state.json, the last report as last-report.txt, and a fresh
+per-generation URL dashboard-<hash>.html linked from the top of the index. When
+your fetcher serves a stale cached copy, open the per-generation link instead:
+it is a URL that has never existed before, so nothing can have cached it. All
+three regenerate with the page on every commit and every background-task change,
+and republish to the public dashboard repo.
 
-VERIFICATION: The 18-trial diagnosis is reconstructed from the run's own recorded
-outputs, not memory; the landing-page probe was smoke-tested against a known-free
-JAMA article and honestly returned blocked (publishers 403 scripts); the census
-re-run touched only the rows needing reclassification and preserved the old file
-beside the new. All intake drills pass. Spend $0 external. Not verified: the 84
-blocked and 99 unclear rows' true status — the census says exactly that rather
-than guessing.
+VERIFICATION: All four artefacts were confirmed tracked on the dashboard repo's
+origin (index.html, state.json, last-report.txt, and per-generation files), and
+state.json was scanned clean of any key or institutional marker. Two hook bugs
+were found and fixed in the process — the per-generation copy and the git add
+were both missing — each caught by inspecting the published repo, not assumed.
+The private main repo is never queried from the public page; the STALE banner
+and the per-gen URL together cover the caches the page cannot see into.

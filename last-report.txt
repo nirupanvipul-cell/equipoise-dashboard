@@ -1,26 +1,30 @@
-P-87 · 2026-09-06 · THE SITE IS LIVE; the twenty picked; the residue paced
+P-87 + addendum · 2026-09-06 · site live; corrected enumeration base for all 108
 
-FOR NIRUPAN: Your ruling landed and the plan changed shape the same day. The site
-now exists: https://nirupanvipul-cell.github.io/equipoise-site/ serves the
-ventilation appraisal as one public page — the document a clinician would land on,
-rendered only from the emitted, verified text, with a guard that refuses to
-publish anything superseded, altered since verification, or carrying institutional
-content. Routing B is recorded: the intake folder now has free/ and licensed/
-subfolders, class comes from the folder, LICENSED.txt is retired, and an unclassed
-PDF in the root is refused. The corpus-wide access census ran on every linked
-trial paper: 334 papers, 221 free to a machine (66%), 113 residue. SHEET-13 ranks
-the twenty cheapest anchors from it (with a warning column showing which are cheap
-only because unlinked), and SHEET-14 pass 1 gives you 111 plain links, unpaced —
-downloads go to intake/free/. The engine work (S2) has started: the clinician-layer
-renderer is now general code that reproduces r3 exactly from a specification.
+FOR NIRUPAN: The site is live (nirupanvipul-cell.github.io/equipoise-site) and
+SHEET-13 is closed as you ruled — A1, as listed, your words in the answer slot.
+SHEET-14's header now carries your corrected browser settings: Chrome downloads
+straight to intake/free/ with "Open PDFs in Chrome" off; the proxy is pass 2
+only, in Safari, downloading to intake/licensed/. The corpus-wide enumeration
+re-ran under the P-85 routes for all 108 anchors — ClinicalTrials.gov
+field-scoped, RCT publications, the pre-registration era, ISRCTN, with ANZCTR
+trials arriving through their papers — and every anchor now starts from that
+corrected base. The before/after table is status/enum108-before-after.md: the
+corpus had linked a few dozen trials at best per anchor, against candidate
+universes in the thousands. The coverage test ran on the biggest non-ventilation
+anchor, perioperative fluid therapy: 45,845 distinct identities enumerable at
+registry grade, of which the corpus held 0.5% before this pass and 2.4% after —
+now a standing dashboard metric, re-measured per anchor at build launch.
 
-VERIFICATION: The public page returns HTTP 200 at 47.5 KB and its content audit
-found zero forbidden markers and zero quoted spans of 80+ characters. The census
-covered 334 of 334 distinct linked results-papers; its states sum exactly
-(133+48+33 aggregator-free, +7 free at the publisher's own page, +113 residue of
-which 2 lack DOIs and are excluded from the sheet's 111 lines). Every "not free"
-row carries a recorded landing attempt per the P-85 rule. The engine parity drill
-returns IDENTICAL at 15,054 characters; the intake drills pass 29 assertions
-including folder-classing and root-refusal. Not verified: the anchor ranking is a
-census floor — linked papers, not enumerations — and the calendar forecast and
-sitting pace are ASSERTED, replaced by measured figures as the work runs.
+VERIFICATION: All 108 anchor records exist on disk with zero route errors; the
+four route counts come from the services' own totals, not from fetched pages.
+The coverage test's arithmetic self-checks: the pre-registration layer dedupes
+exactly into the publications layer (28,178 + 17,667 = 45,845 distinct), which
+is what the construction predicts. The "after" fraction is bounded by the
+sweep's 300-identities-per-route storage cap — counts are exact, stored
+identities are capped, and the fraction says so. SHEET-13's answer slot carries
+the owner's verdict verbatim in both repo and iCloud copies; the regenerated
+SHEET-14 header was read back from disk. The published dashboard carries the
+new metric (verified from the public repo's raw content). Not verified: the
+candidate universes are field-scoped term matches, deliberately over-inclusive
+at this grade; the per-anchor build narrows them by assignment, and no claim is
+made that they are final trial sets.

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-06T13:42:15.467177+00:00",
- "commit": "9202387",
- "generation_file": "dashboard-e9c434c6.html",
+ "generated": "2026-09-06T13:42:50.985943+00:00",
+ "commit": "0fd98f5",
+ "generation_file": "dashboard-da05b82a.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -68,6 +68,6 @@
   "census_spend": 1.81
  },
  "last_report": {
-  "header": "P-87 \u00b7 2026-09-06 \u00b7 THE SITE IS LIVE; the twenty picked; the residue paced"
+  "header": "P-87 + addendum \u00b7 2026-09-06 \u00b7 site live; corrected enumeration base for all 108"
  }
 }

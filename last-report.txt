@@ -1,0 +1,19 @@
+P-85 · 2026-09-06 05:30
+
+FOR NIRUPAN: You were right and the machine was wrong — 18 of the 26 trials I
+declared "open routes exhausted" were free without credentials, because my
+acquisition asked one aggregator and read its silence as the literature's
+silence. The open layer is now three tagged classes (licensed-OA, free-to-read,
+institutional), the degrade operation strips institutional alone, and the
+corrected 990-review census moves the affirmatively-free layer from 46% to 71%.
+Nothing waits on you but the PDF drop; the route identifies each file from its
+own pages, sorts the seven institutional ones to the local model, extracts,
+verifies, tags, deletes, and logs.
+
+VERIFICATION: The 18-trial diagnosis is reconstructed from the run's own recorded
+outputs, not memory; the landing-page probe was smoke-tested against a known-free
+JAMA article and honestly returned blocked (publishers 403 scripts); the census
+re-run touched only the rows needing reclassification and preserved the old file
+beside the new. All intake drills pass. Spend $0 external. Not verified: the 84
+blocked and 99 unclear rows' true status — the census says exactly that rather
+than guessing.

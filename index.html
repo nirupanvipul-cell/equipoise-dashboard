@@ -3,6 +3,29 @@
 <title>Equipoise build</title><style>
 body{font-family:-apple-system,system-ui,sans-serif;margin:0;padding:1rem;background:#fafaf7;color:#1a1a1a;max-width:44rem;margin:auto}h1{font-size:1.3rem}h2{font-size:1.05rem;margin-top:1.6rem}.row{margin:.45rem 0}.lbl{font-size:.85rem}.track{background:#e4e2da;border-radius:4px;height:12px;overflow:hidden}.fill{background:#2f6f4f;height:12px}.sub{font-size:.75rem;color:#555}.stage{padding:.4rem 0;border-bottom:1px solid #eee;font-size:.85rem}.st-running{color:#8a5a00;font-weight:600}.st-done{color:#2f6f4f;font-weight:600}.st-not{color:#777}table{border-collapse:collapse;width:100%;font-size:.8rem}td,th{text-align:left;padding:.3rem .4rem;border-bottom:1px solid #eee;vertical-align:top}footer{margin-top:2rem;font-size:.72rem;color:#777}</style></head><body>
 <!--FRESHNESS-->
+<div id='stale-banner' style='display:none;background:#b3261e;color:#fff;padding:.6rem;font-weight:700;text-align:center'>STALE — a newer version has been published; you are viewing a cached copy. Reload.</div>
+<script>
+    (function() {
+      var GEN = "2026-09-06T09:49:18.670087+00:00";
+      var API = "https://api.github.com/repos/nirupanvipul-cell/"
+              + "equipoise-dashboard/commits?per_page=1";
+      try {
+        fetch(API, {cache: "no-store"}).then(function(r) {
+          return r.ok ? r.json() : null;
+        }).then(function(j) {
+          if (!j || !j.length) return;
+          var pub = j[0].commit && j[0].commit.committer
+                    && j[0].commit.committer.date;
+          // a page's own publish commits a few seconds after GEN; only a
+          // publish more than 2 minutes newer means a real later generation
+          if (pub && (new Date(pub) - new Date(GEN)) > 120000) {
+            var el = document.getElementById("stale-banner");
+            if (el) el.style.display = "block";
+          }
+        }).catch(function() {});
+      } catch (e) {}
+    })();
+    </script>
 <h1>Equipoise — build state</h1>
 <h2>Coverage</h2>
 <div class="row"><div class="lbl">Owner checklist LIVE: 1 of 15</div><div class="track"><div class="fill" style="width:6%"></div></div><div class="sub"></div></div>
@@ -20,8 +43,6 @@ body{font-family:-apple-system,system-ui,sans-serif;margin:0;padding:1rem;backgr
 <div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S9</b> Site + watchers (step 8)<div class='sub'>machine (forecast vs measured): 1–2 blocks · owner minutes (forecast vs measured): ~20 vs — · one seeded read</div></div>
 <div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S10</b> Steps 9–10<div class='sub'>machine (forecast vs measured): blocked · owner minutes (forecast vs measured): 0 now vs — · librarians (external)</div></div>
 <h2>On Nirupan</h2><table><tr><th>Item</th><th>Type</th><th>~min</th><th>Unblocks</th></tr>
-<tr><td>status/SHEET-10-sitting-schedule.md</td><td>sheet</td><td>2</td><td>confirms your sitting schedule</td></tr>
-<tr><td>status/SHEET-9-R4-R6-build-specs.md</td><td>sheet</td><td>10</td><td>locks the R4-R6 specs the recompute ran on</td></tr>
 <tr><td>status/intake-check-23902482.md</td><td>sheet</td><td>—</td><td>1 unfilled answer slot(s)</td></tr>
 <tr><td>status/intake-check-35995638.md</td><td>sheet</td><td>—</td><td>1 unfilled answer slot(s)</td></tr>
 <tr><td>status/SHEET-8-openevidence-stems.md</td><td>sheet</td><td>45</td><td>the OpenEvidence arm of the tool-divergence census</td></tr>
@@ -61,4 +82,4 @@ body{font-family:-apple-system,system-ui,sans-serif;margin:0;padding:1rem;backgr
 <div class="row"><div class="lbl">Verifier programme (P-72, D130)</div><div class="track"><div class="fill" style="width:3%"></div></div><div class="sub">$0.69 of $20.00</div></div>
 <div class="row"><div class="lbl">Recompute (P-75/P-78, D137/D140)</div><div class="track"><div class="fill" style="width:28%"></div></div><div class="sub">$8.68 of $30.00</div></div>
 <div class="row"><div class="lbl">Tool census (per-pass default, D132)</div><div class="track"><div class="fill" style="width:36%"></div></div><div class="sub">$1.81 of $5.00/pass</div></div>
-<footer>Generated 2026-09-06 05:42 · on top of commit 7e96e15 · rendered by equipoise.dashboard from the coverage matrix, ROADMAP.md, the awaiting registry and the recorded ceilings — nothing typed by hand (P-80/D141)</footer></body></html>
+<footer>Generated 2026-09-06 05:49 · on top of commit 7e96e15 · rendered by equipoise.dashboard from the coverage matrix, ROADMAP.md, the awaiting registry and the recorded ceilings — nothing typed by hand (P-80/D141)</footer></body></html>

@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-06T12:41:38.974870+00:00",
- "commit": "772c019",
- "generation_file": "dashboard-ed98f341.html",
+ "generated": "2026-09-06T12:43:56.683729+00:00",
+ "commit": "7c41e5f",
+ "generation_file": "dashboard-e4d62971.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "name": "cell-map re-derive at full-text grade + hypothesis re-test + ruled pass",
-   "started": "2026-09-06 07:40",
-   "last_line": "22 trials full-text; merging tuples into the map",
-   "waiting_on": "nothing"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {
@@ -37,6 +30,10 @@
   {
    "when": "2026-09-06 06:12",
    "what": "extraction pass: 3 trials failed on model-output shape (timeout/JSON/stray-prose), 3 refused as ambiguous by pre-margin matcher; both fixed (ledger 127), residue re-running"
+  },
+  {
+   "when": "2026-09-06 08:15",
+   "what": "DOC-EQ-0301-r3 emitted through the full gate (0 blockers both modes); routing defect ledger 128 fixed"
   }
  ],
  "recent_decisions": [
@@ -67,10 +64,10 @@
   "rebuild_spend": 34.39,
   "review_spend": 0.8,
   "verifier_spend": 0.69,
-  "recompute_spend": 8.9,
+  "recompute_spend": 9.01,
   "census_spend": 1.81
  },
  "last_report": {
-  "header": "P-86+ \u00b7 2026-09-06 06:10"
+  "header": "P-85..P-86 \u00b7 2026-09-06 08:15 \u00b7 DOC-EQ-0301-r3 EMITTED"
  }
 }

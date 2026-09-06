@@ -1,17 +1,22 @@
-P-86+ · 2026-09-06 06:10
+P-85..P-86 · 2026-09-06 08:15 · DOC-EQ-0301-r3 EMITTED
 
-FOR NIRUPAN: The dashboard now publishes three things beside the page — a
-machine-readable state.json, the last report as last-report.txt, and a fresh
-per-generation URL dashboard-<hash>.html linked from the top of the index. When
-your fetcher serves a stale cached copy, open the per-generation link instead:
-it is a URL that has never existed before, so nothing can have cached it. All
-three regenerate with the page on every commit and every background-task change,
-and republish to the public dashboard repo.
+FOR NIRUPAN: The ventilation-strategy appraisal you asked for at P-76 now exists
+as a real emitted document, DOC-EQ-0301-r3 — clinician layer first, every one of
+30 trials named in a bundle map, per-outcome tables by factorial cell, a
+walkthrough that arrives at the question behind the common one, your hypothesis
+tested per fingerprint, next-study value with its EVSI citation, then the methods
+layer. It rests on read full text for 22 of the 30 trials (three stay
+abstract-grade: two unreadable 2008 scans and Brower, which you did not retrieve).
+The full texts confirmed the abstract-built map — no direction flipped; they added
+per-arm counts and confirmed Amato as a full-bundle trial. One decision waits: how
+free-to-read full texts should be extracted going forward (routing fix, ledger 128)
+— option B keeps the sound verified data and changes nothing about this document.
 
-VERIFICATION: All four artefacts were confirmed tracked on the dashboard repo's
-origin (index.html, state.json, last-report.txt, and per-generation files), and
-state.json was scanned clean of any key or institutional marker. Two hook bugs
-were found and fixed in the process — the per-generation copy and the git add
-were both missing — each caught by inspecting the published repo, not assumed.
-The private main repo is never queried from the public page; the STALE banner
-and the per-gen URL together cover the caches the page cannot see into.
+VERIFICATION: r3 cleared its ruled pass at zero majority blockers in BOTH modes
+under the P-83-amended verifier, after nine fix-and-repass rounds that each caught
+a genuine overreach and drove the count 14 to 0. The emission ran the full gate:
+floor re-run, both merged verifier modes, output standards, prediction reference,
+membership, cluster contract — all pass; it reads RENDERING, not stale, supersedes
+r2, carries a 432-line diff. The routing defect (all 22 tuples went local) was
+confirmed from each tuple's recorded model, not memory; the data was verified
+against abstract and registry before staging. Verifier spend this block ~$45 of $50.

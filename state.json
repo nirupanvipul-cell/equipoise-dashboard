@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-06T13:42:50.985943+00:00",
- "commit": "0fd98f5",
- "generation_file": "dashboard-da05b82a.html",
+ "generated": "2026-09-06T13:50:40.046795+00:00",
+ "commit": "2ff45fb",
+ "generation_file": "dashboard-d5599a07.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D144 \u2014 P-82: the emission block, the citation ruling, the sheets, the denominator",
   "D145 \u2014 the synthesis-gate question: seven passes measured, the ruling is the owner's (P",
   "D146 \u2014 P-83: the synthesis ruling applied; the dashboard published",
   "D147 \u2014 P-84: the intake extractor built, local-model ruling recorded",
@@ -46,7 +45,8 @@
   "D150 \u2014 the dashboard as the review channel (P-86)",
   "D151 \u2014 dashboard: machine snapshot, plain-text report, per-generation URL (P-86 addendu",
   "D152 \u2014 P-87: routing B; the fast path to the first site; the paced TDM sheet",
-  "D153 \u2014 P-87 addendum: A1 as listed; browser settings corrected; the corpus-wide sweep's"
+  "D153 \u2014 P-87 addendum: A1 as listed; browser settings corrected; the corpus-wide sweep's",
+  "D154 \u2014 the coverage test completed by estimation; caps lifted to full sets"
  ],
  "recent_ledger": [
   "119 \u2014 The rendering states corpus-bounded findings as literature-level facts \u2014 \"the tr",

@@ -13,7 +13,13 @@ corpus had linked a few dozen trials at best per anchor, against candidate
 universes in the thousands. The coverage test ran on the biggest non-ventilation
 anchor, perioperative fluid therapy: 45,845 distinct identities enumerable at
 registry grade, of which the corpus held 0.5% before this pass and 2.4% after —
-now a standing dashboard metric, re-measured per anchor at build launch.
+now completed by estimation: a seeded draw of 200 candidates was classified
+subject-versus-background (8 kept, every verdict stored), putting the true
+fluid-therapy trial set near 1,834 — so the corpus held about 12% of it before
+the sweep and about 61% after, both upper bounds. That ratio is the standing
+dashboard metric. The per-route storage caps are lifted and the full-set
+re-sweep is running, so each anchor build will hold its complete enumerated
+identity list.
 
 VERIFICATION: All 108 anchor records exist on disk with zero route errors; the
 four route counts come from the services' own totals, not from fetched pages.

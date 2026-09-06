@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-06T11:40:50.209305+00:00",
- "commit": "182d1ec",
- "generation_file": "dashboard-0e7645c5.html",
+ "generated": "2026-09-06T12:41:38.974870+00:00",
+ "commit": "772c019",
+ "generation_file": "dashboard-ed98f341.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -52,7 +52,6 @@
   "D151 \u2014 dashboard: machine snapshot, plain-text report, per-generation URL (P-86 addendu"
  ],
  "recent_ledger": [
-  "118 \u2014 The first SHEET-7 draft graded \"no findable origin\" as a failure in open mode, s",
   "119 \u2014 The rendering states corpus-bounded findings as literature-level facts \u2014 \"the tr",
   "120 \u2014 Landscape outcome labels render truncated and unidentifiable \u2014 \"paco\", \"spo\", \"i",
   "121 \u2014 Two renderer boilerplate sentences carried the corpus-versus-literature overclai",
@@ -61,13 +60,14 @@
   "124 \u2014 The intake matcher identified the iPROVE paper as IMPROVE at \"100% title match\" ",
   "125 \u2014 The intake matcher's ambiguity guard (ledger 124) over-fired, refusing PROTHOR's",
   "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev",
-  "127 \u2014 The intake extractor failed three of the last eight trials on model-output shape"
+  "127 \u2014 The intake extractor failed three of the last eight trials on model-output shape",
+  "128 \u2014 All 22 extracted trials \u2014 the 16 free-to-read as well as the 6 institutional \u2014 w"
  ],
  "spend": {
   "rebuild_spend": 34.39,
   "review_spend": 0.8,
   "verifier_spend": 0.69,
-  "recompute_spend": 8.68,
+  "recompute_spend": 8.9,
   "census_spend": 1.81
  },
  "last_report": {

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-06T11:30:53.907921+00:00",
- "commit": "71085d4",
- "generation_file": "dashboard-6d0499a5.html",
+ "generated": "2026-09-06T11:40:50.209305+00:00",
+ "commit": "182d1ec",
+ "generation_file": "dashboard-0e7645c5.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -10,10 +10,10 @@
  },
  "running": [
   {
-   "name": "intake residue-2 (DOI-all-pages fix, caffeinated)",
-   "started": "2026-09-06 07:00",
-   "last_line": "18 staged; re-running the DOI-hidden PDFs (PROTHOR/ART/LOVS/EXPRESS) + 2 JSON/timeout retries",
-   "waiting_on": "nothing \u2014 then map re-derive proceeds regardless of the last stragglers"
+   "name": "cell-map re-derive at full-text grade + hypothesis re-test + ruled pass",
+   "started": "2026-09-06 07:40",
+   "last_line": "22 trials full-text; merging tuples into the map",
+   "waiting_on": "nothing"
   }
  ],
  "decisions_pending": [],

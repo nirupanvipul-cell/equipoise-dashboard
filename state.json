@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T22:35:56.953171+00:00",
- "commit": "7ccc6f2",
- "generation_file": "dashboard-6a9f8671.html",
+ "generated": "2026-09-07T23:52:05.102541+00:00",
+ "commit": "4985e0e",
+ "generation_file": "dashboard-745645eb.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D160 \u2014 the spend meter: a first-class ledger, erring high",
   "D161 \u2014 the Ventilation \u00b7 ICU family proposed; the split survey ruled A1",
   "D162 \u2014 P-97: pass 1 done; the browser engine becomes the landing standard",
   "D163 \u2014 SHEET-8: 20 run, stems flagged, ten rewritten, the 108 name audit",
@@ -46,7 +45,8 @@
   "D166 \u2014 P-99: registration-first identity; the mis-identification resolved",
   "D167 \u2014 P-100: the last open intake sheet resolved; three rules from it",
   "D168 \u2014 B2 and B3 opened under the cap",
-  "D169 \u2014 the 300-paper calibration ran; the verdict waits on ground truth"
+  "D169 \u2014 the 300-paper calibration ran; the verdict waits on ground truth",
+  "D170 \u2014 B2 live; the restore test PASSED; the global cap LIFTS"
  ],
  "recent_ledger": [
   "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev",

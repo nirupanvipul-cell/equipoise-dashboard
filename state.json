@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T17:03:20.247691+00:00",
- "commit": "5438d79",
- "generation_file": "dashboard-9f0ce6df.html",
+ "generated": "2026-09-07T18:59:37.303320+00:00",
+ "commit": "80dba2c",
+ "generation_file": "dashboard-0ad461ce.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D155 \u2014 P-90: the eight standing lessons, consolidated",
   "D156 \u2014 P-95: backup executed; standing conditionals; the global cap",
   "D157 \u2014 P-96: the owner's seeded read of r3; R6 amendments; the split rule",
   "D158 \u2014 P-92: the engine cost and latency programme",
@@ -46,11 +45,10 @@
   "D161 \u2014 the Ventilation \u00b7 ICU family proposed; the split survey ruled A1",
   "D162 \u2014 P-97: pass 1 done; the browser engine becomes the landing standard",
   "D163 \u2014 SHEET-8: 20 run, stems flagged, ten rewritten, the 108 name audit",
-  "D164 \u2014 pass 1 retired; the browser engine's paywall verdict is calibrated and trusted"
+  "D164 \u2014 pass 1 retired; the browser engine's paywall verdict is calibrated and trusted",
+  "D165 \u2014 P-98: the three keeps applied; verification hardened on the owner's eight ruling"
  ],
  "recent_ledger": [
-  "123 \u2014 SHEET-11 declared all 26 unread trials \"open routes exhausted\"; the owner retrie",
-  "124 \u2014 The intake matcher identified the iPROVE paper as IMPROVE at \"100% title match\" ",
   "125 \u2014 The intake matcher's ambiguity guard (ledger 124) over-fired, refusing PROTHOR's",
   "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev",
   "127 \u2014 The intake extractor failed three of the last eight trials on model-output shape",
@@ -58,7 +56,9 @@
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",
   "130 \u2014 The three moves from the owner's r3 read were filed as M-47\u201349, numbers already ",
   "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were",
-  "132 \u2014 The set-1 ingest was committed and logged as \"15/15 staged\" when the truth was 1"
+  "132 \u2014 The set-1 ingest was committed and logged as \"15/15 staged\" when the truth was 1",
+  "133 \u2014 SHEET-14 carried unanchored papers: the trial-paper census covered every RESULTS",
+  "134 \u2014 Three check sheets shared one cause \u2014 the registration string, not the data"
  ],
  "spend": {
   "rebuild_spend": 34.39,

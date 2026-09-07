@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T21:59:52.094267+00:00",
+ "generated": "2026-09-07T21:59:55.210260+00:00",
  "commit": "4ca9688",
- "generation_file": "dashboard-f8b9bd37.html",
+ "generation_file": "dashboard-819fd8f4.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -50,7 +50,6 @@
   }
  ],
  "recent_decisions": [
-  "D158 \u2014 P-92: the engine cost and latency programme",
   "D159 \u2014 P-88: pre-warm everything, extract anesthesia now",
   "D160 \u2014 the spend meter: a first-class ledger, erring high",
   "D161 \u2014 the Ventilation \u00b7 ICU family proposed; the split survey ruled A1",
@@ -59,7 +58,8 @@
   "D164 \u2014 pass 1 retired; the browser engine's paywall verdict is calibrated and trusted",
   "D165 \u2014 P-98: the three keeps applied; verification hardened on the owner's eight ruling",
   "D166 \u2014 P-99: registration-first identity; the mis-identification resolved",
-  "D167 \u2014 P-100: the last open intake sheet resolved; three rules from it"
+  "D167 \u2014 P-100: the last open intake sheet resolved; three rules from it",
+  "D168 \u2014 B2 and B3 opened under the cap"
  ],
  "recent_ledger": [
   "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev",

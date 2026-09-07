@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T11:54:23.648813+00:00",
+ "generated": "2026-09-07T11:55:04.223655+00:00",
  "commit": "a67d69f",
- "generation_file": "dashboard-9667ef15.html",
+ "generation_file": "dashboard-a047bd6a.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -62,7 +62,6 @@
   "D163 \u2014 SHEET-8: 20 run, stems flagged, ten rewritten, the 108 name audit"
  ],
  "recent_ledger": [
-  "121 \u2014 Two renderer boilerplate sentences carried the corpus-versus-literature overclai",
   "122 \u2014 The r3 clinician layer went through five three-run verification passes; every pa",
   "123 \u2014 SHEET-11 declared all 26 unread trials \"open routes exhausted\"; the owner retrie",
   "124 \u2014 The intake matcher identified the iPROVE paper as IMPROVE at \"100% title match\" ",
@@ -71,7 +70,8 @@
   "127 \u2014 The intake extractor failed three of the last eight trials on model-output shape",
   "128 \u2014 All 22 extracted trials \u2014 the 16 free-to-read as well as the 6 institutional \u2014 w",
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",
-  "130 \u2014 The three moves from the owner's r3 read were filed as M-47\u201349, numbers already "
+  "130 \u2014 The three moves from the owner's r3 read were filed as M-47\u201349, numbers already ",
+  "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were"
  ],
  "spend": {
   "rebuild_spend": 34.39,

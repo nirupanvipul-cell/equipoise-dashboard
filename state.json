@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T10:22:33.071646+00:00",
- "commit": "e76cc72",
- "generation_file": "dashboard-c5a7d5cb.html",
+ "generated": "2026-09-07T10:23:44.973156+00:00",
+ "commit": "990b213",
+ "generation_file": "dashboard-528848b2.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D150 \u2014 the dashboard as the review channel (P-86)",
   "D151 \u2014 dashboard: machine snapshot, plain-text report, per-generation URL (P-86 addendu",
   "D152 \u2014 P-87: routing B; the fast path to the first site; the paced TDM sheet",
   "D153 \u2014 P-87 addendum: A1 as listed; browser settings corrected; the corpus-wide sweep's",
@@ -46,7 +45,8 @@
   "D156 \u2014 P-95: backup executed; standing conditionals; the global cap",
   "D157 \u2014 P-96: the owner's seeded read of r3; R6 amendments; the split rule",
   "D158 \u2014 P-92: the engine cost and latency programme",
-  "D159 \u2014 P-88: pre-warm everything, extract anesthesia now"
+  "D159 \u2014 P-88: pre-warm everything, extract anesthesia now",
+  "D160 \u2014 the spend meter: a first-class ledger, erring high"
  ],
  "recent_ledger": [
   "119 \u2014 The rendering states corpus-bounded findings as literature-level facts \u2014 \"the tr",

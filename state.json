@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T17:01:59.153897+00:00",
- "commit": "7a1cd99",
- "generation_file": "dashboard-594e8476.html",
+ "generated": "2026-09-07T17:03:20.247691+00:00",
+ "commit": "5438d79",
+ "generation_file": "dashboard-9f0ce6df.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -49,7 +49,6 @@
   "D164 \u2014 pass 1 retired; the browser engine's paywall verdict is calibrated and trusted"
  ],
  "recent_ledger": [
-  "122 \u2014 The r3 clinician layer went through five three-run verification passes; every pa",
   "123 \u2014 SHEET-11 declared all 26 unread trials \"open routes exhausted\"; the owner retrie",
   "124 \u2014 The intake matcher identified the iPROVE paper as IMPROVE at \"100% title match\" ",
   "125 \u2014 The intake matcher's ambiguity guard (ledger 124) over-fired, refusing PROTHOR's",
@@ -58,7 +57,8 @@
   "128 \u2014 All 22 extracted trials \u2014 the 16 free-to-read as well as the 6 institutional \u2014 w",
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",
   "130 \u2014 The three moves from the owner's r3 read were filed as M-47\u201349, numbers already ",
-  "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were"
+  "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were",
+  "132 \u2014 The set-1 ingest was committed and logged as \"15/15 staged\" when the truth was 1"
  ],
  "spend": {
   "rebuild_spend": 34.39,

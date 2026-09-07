@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T22:01:36.706592+00:00",
+ "generated": "2026-09-07T22:02:38.418320+00:00",
  "commit": "7320a63",
- "generation_file": "dashboard-22ffec26.html",
+ "generation_file": "dashboard-d4a116aa.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,12 +14,6 @@
    "label": "calib300 stage 1: select+fetch PMC-OA texts",
    "note": "",
    "started": "2026-09-07 17:58"
-  },
-  {
-   "pid": 52810,
-   "label": "calib300 pilot: 10 papers x 3 models",
-   "note": "",
-   "started": "2026-09-07 17:59"
   }
  ],
  "decisions_pending": [],

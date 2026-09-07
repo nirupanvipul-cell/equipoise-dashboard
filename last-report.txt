@@ -1,36 +1,27 @@
-P-87 + addendum · 2026-09-06 · site live; corrected enumeration base for all 108
+P-88/90/92/95/96 · 2026-09-07 · backed up, capped, ruled, and re-planned
 
-FOR NIRUPAN: The site is live (nirupanvipul-cell.github.io/equipoise-site) and
-SHEET-13 is closed as you ruled — A1, as listed, your words in the answer slot.
-SHEET-14's header now carries your corrected browser settings: Chrome downloads
-straight to intake/free/ with "Open PDFs in Chrome" off; the proxy is pass 2
-only, in Safari, downloading to intake/licensed/. The corpus-wide enumeration
-re-ran under the P-85 routes for all 108 anchors — ClinicalTrials.gov
-field-scoped, RCT publications, the pre-registration era, ISRCTN, with ANZCTR
-trials arriving through their papers — and every anchor now starts from that
-corrected base. The before/after table is status/enum108-before-after.md: the
-corpus had linked a few dozen trials at best per anchor, against candidate
-universes in the thousands. The coverage test ran on the biggest non-ventilation
-anchor, perioperative fluid therapy: 45,845 distinct identities enumerable at
-registry grade, of which the corpus held 0.5% before this pass and 2.4% after —
-now completed by estimation: a seeded draw of 200 candidates was classified
-subject-versus-background (8 kept, every verdict stored), putting the true
-fluid-therapy trial set near 1,834 — so the corpus held about 12% of it before
-the sweep and about 61% after, both upper bounds. That ratio is the standing
-dashboard metric. The per-route storage caps are lifted and the full-set
-re-sweep is running, so each anchor build will hold its complete enumerated
-identity list.
+FOR NIRUPAN: Your five pastes are all recorded and the plan is re-sequenced.
+The backup ran first as you ordered: a 178 MB timestamped zip in iCloud,
+verified error-free, with keys and every PDF excluded — one correction, three
+refused publisher PDFs ARE retained in the intake folder, so they are excluded
+from every copy that leaves the machine. The global $1,000 cap is live on the
+dashboard (current external spend well under $100), the eight standing lessons
+are a RULES section there, the B2 sync script is armed and waits only for a
+key, and your decision A sends the 200 fluid-therapy verdicts to the next
+calibration sheet. From your r3 read: the five additions are now binding spec
+for every section, the extraction schema carries the haemodynamic fields, and
+the split survey of all 108 anchors is on your desk — eight candidates beyond
+ventilation, nothing splitting without your letters. Next machine blocks:
+engine cost profiling ($150), the anesthesia pre-warm with its 300-paper
+calibration, then the two ventilation documents through the full gate.
 
-VERIFICATION: All 108 anchor records exist on disk with zero route errors; the
-four route counts come from the services' own totals, not from fetched pages.
-The coverage test's arithmetic self-checks: the pre-registration layer dedupes
-exactly into the publications layer (28,178 + 17,667 = 45,845 distinct), which
-is what the construction predicts. The "after" fraction is bounded by the
-sweep's 300-identities-per-route storage cap — counts are exact, stored
-identities are capped, and the fraction says so. SHEET-13's answer slot carries
-the owner's verdict verbatim in both repo and iCloud copies; the regenerated
-SHEET-14 header was read back from disk. The published dashboard carries the
-new metric (verified from the public repo's raw content). Not verified: the
-candidate universes are field-scoped term matches, deliberately over-inclusive
-at this grade; the per-anchor build narrows them by assignment, and no claim is
-made that they are final trial sets.
+VERIFICATION: The zip tests clean (no errors, 53,448 files, zero keys, zero
+PDFs — grep of the archive listing); the register, the cache and the new
+enumeration sets are all present in it. The storage statement's figures are
+du/git measurements from disk; projections are labelled ASSERTED. The cap bar
+sums the recorded spend keys and turns on a $900 threshold flag. The schema
+change is drilled (29 assertions pass). Not verified: the split-survey
+candidates are the assistant's clinical-judgement scan, deliberately awaiting
+your confirmation; the storage projections; and the D157 dependency note that
+haemodynamic extraction needs the full texts back (they were deleted after
+tuple extraction, as designed).

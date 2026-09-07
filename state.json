@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T11:55:04.223655+00:00",
- "commit": "a67d69f",
- "generation_file": "dashboard-a047bd6a.html",
+ "generated": "2026-09-07T11:58:38.949714+00:00",
+ "commit": "9356770",
+ "generation_file": "dashboard-985c6ead.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -9,12 +9,6 @@
   "technical_total": 263
  },
  "running": [
-  {
-   "pid": 47177,
-   "label": "browser-engine landing pass (retry of the 59 non-verdicts)",
-   "note": "P-97 item 4",
-   "started": "2026-09-07 07:54"
-  },
   {
    "pid": 46625,
    "label": "pass-1 extraction of the 11 free PDFs (local model, D162)",

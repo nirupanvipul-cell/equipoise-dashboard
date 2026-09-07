@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-07T16:26:31.755734+00:00",
- "commit": "d94c735",
- "generation_file": "dashboard-ec312f6a.html",
+ "generated": "2026-09-07T17:01:36.866089+00:00",
+ "commit": "7a1cd99",
+ "generation_file": "dashboard-8dd25713.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 49441,
-   "label": "set-1 extraction: 15 licensed PDFs (local, institutional)",
-   "note": "",
-   "started": "2026-09-07 12:26"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

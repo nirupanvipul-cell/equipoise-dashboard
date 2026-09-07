@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T12:01:13.415127+00:00",
- "commit": "d7c3f22",
- "generation_file": "dashboard-c5f70fd0.html",
+ "generated": "2026-09-07T13:47:19.108613+00:00",
+ "commit": "067c1ee",
+ "generation_file": "dashboard-72255e07.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D154 \u2014 the coverage test completed by estimation; caps lifted to full sets",
   "D155 \u2014 P-90: the eight standing lessons, consolidated",
   "D156 \u2014 P-95: backup executed; standing conditionals; the global cap",
   "D157 \u2014 P-96: the owner's seeded read of r3; R6 amendments; the split rule",
@@ -46,7 +45,8 @@
   "D160 \u2014 the spend meter: a first-class ledger, erring high",
   "D161 \u2014 the Ventilation \u00b7 ICU family proposed; the split survey ruled A1",
   "D162 \u2014 P-97: pass 1 done; the browser engine becomes the landing standard",
-  "D163 \u2014 SHEET-8: 20 run, stems flagged, ten rewritten, the 108 name audit"
+  "D163 \u2014 SHEET-8: 20 run, stems flagged, ten rewritten, the 108 name audit",
+  "D164 \u2014 pass 1 retired; the browser engine's paywall verdict is calibrated and trusted"
  ],
  "recent_ledger": [
   "122 \u2014 The r3 clinician layer went through five three-run verification passes; every pa",

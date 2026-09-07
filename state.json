@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-07T11:58:38.949714+00:00",
- "commit": "9356770",
- "generation_file": "dashboard-985c6ead.html",
+ "generated": "2026-09-07T12:01:13.415127+00:00",
+ "commit": "d7c3f22",
+ "generation_file": "dashboard-c5f70fd0.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 46625,
-   "label": "pass-1 extraction of the 11 free PDFs (local model, D162)",
-   "note": "P-97 item 1",
-   "started": "2026-09-07 07:54"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

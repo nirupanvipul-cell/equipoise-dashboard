@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T19:18:20.172400+00:00",
- "commit": "d919392",
- "generation_file": "dashboard-594849c6.html",
+ "generated": "2026-09-07T19:40:09.208616+00:00",
+ "commit": "d5af3ed",
+ "generation_file": "dashboard-09868a83.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D157 \u2014 P-96: the owner's seeded read of r3; R6 amendments; the split rule",
   "D158 \u2014 P-92: the engine cost and latency programme",
   "D159 \u2014 P-88: pre-warm everything, extract anesthesia now",
   "D160 \u2014 the spend meter: a first-class ledger, erring high",
@@ -46,7 +45,8 @@
   "D163 \u2014 SHEET-8: 20 run, stems flagged, ten rewritten, the 108 name audit",
   "D164 \u2014 pass 1 retired; the browser engine's paywall verdict is calibrated and trusted",
   "D165 \u2014 P-98: the three keeps applied; verification hardened on the owner's eight ruling",
-  "D166 \u2014 P-99: registration-first identity; the mis-identification resolved"
+  "D166 \u2014 P-99: registration-first identity; the mis-identification resolved",
+  "D167 \u2014 P-100: the last open intake sheet resolved; three rules from it"
  ],
  "recent_ledger": [
   "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev",

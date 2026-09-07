@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T10:23:44.973156+00:00",
- "commit": "990b213",
- "generation_file": "dashboard-528848b2.html",
+ "generated": "2026-09-07T10:34:20.831745+00:00",
+ "commit": "45a000e",
+ "generation_file": "dashboard-7e2eac40.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -49,7 +49,6 @@
   "D160 \u2014 the spend meter: a first-class ledger, erring high"
  ],
  "recent_ledger": [
-  "119 \u2014 The rendering states corpus-bounded findings as literature-level facts \u2014 \"the tr",
   "120 \u2014 Landscape outcome labels render truncated and unidentifiable \u2014 \"paco\", \"spo\", \"i",
   "121 \u2014 Two renderer boilerplate sentences carried the corpus-versus-literature overclai",
   "122 \u2014 The r3 clinician layer went through five three-run verification passes; every pa",
@@ -58,7 +57,8 @@
   "125 \u2014 The intake matcher's ambiguity guard (ledger 124) over-fired, refusing PROTHOR's",
   "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev",
   "127 \u2014 The intake extractor failed three of the last eight trials on model-output shape",
-  "128 \u2014 All 22 extracted trials \u2014 the 16 free-to-read as well as the 6 institutional \u2014 w"
+  "128 \u2014 All 22 extracted trials \u2014 the 16 free-to-read as well as the 6 institutional \u2014 w",
+  "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe"
  ],
  "spend": {
   "rebuild_spend": 34.39,

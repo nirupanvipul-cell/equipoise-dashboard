@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T21:59:55.210260+00:00",
- "commit": "4ca9688",
- "generation_file": "dashboard-819fd8f4.html",
+ "generated": "2026-09-07T22:01:19.179390+00:00",
+ "commit": "7320a63",
+ "generation_file": "dashboard-166ff550.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -20,6 +20,12 @@
    "label": "calib300 pilot: 10 papers x 3 models",
    "note": "",
    "started": "2026-09-07 17:59"
+  },
+  {
+   "pid": 52932,
+   "label": "B2: mini mutation test (6 real defects)",
+   "note": "",
+   "started": "2026-09-07 18:01"
   }
  ],
  "decisions_pending": [],

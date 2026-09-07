@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-07T23:52:05.102541+00:00",
- "commit": "4985e0e",
- "generation_file": "dashboard-745645eb.html",
+ "generated": "2026-09-07T23:59:29.058700+00:00",
+ "commit": "feb6114",
+ "generation_file": "dashboard-ac173ff8.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 55203,
+   "label": "set-2 ingest: 14 PDFs by class",
+   "note": "",
+   "started": "2026-09-07 19:59"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

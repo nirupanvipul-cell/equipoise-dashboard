@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T18:59:37.303320+00:00",
- "commit": "80dba2c",
- "generation_file": "dashboard-0ad461ce.html",
+ "generated": "2026-09-07T19:18:20.172400+00:00",
+ "commit": "d919392",
+ "generation_file": "dashboard-594849c6.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D156 \u2014 P-95: backup executed; standing conditionals; the global cap",
   "D157 \u2014 P-96: the owner's seeded read of r3; R6 amendments; the split rule",
   "D158 \u2014 P-92: the engine cost and latency programme",
   "D159 \u2014 P-88: pre-warm everything, extract anesthesia now",
@@ -46,10 +45,10 @@
   "D162 \u2014 P-97: pass 1 done; the browser engine becomes the landing standard",
   "D163 \u2014 SHEET-8: 20 run, stems flagged, ten rewritten, the 108 name audit",
   "D164 \u2014 pass 1 retired; the browser engine's paywall verdict is calibrated and trusted",
-  "D165 \u2014 P-98: the three keeps applied; verification hardened on the owner's eight ruling"
+  "D165 \u2014 P-98: the three keeps applied; verification hardened on the owner's eight ruling",
+  "D166 \u2014 P-99: registration-first identity; the mis-identification resolved"
  ],
  "recent_ledger": [
-  "125 \u2014 The intake matcher's ambiguity guard (ledger 124) over-fired, refusing PROTHOR's",
   "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev",
   "127 \u2014 The intake extractor failed three of the last eight trials on model-output shape",
   "128 \u2014 All 22 extracted trials \u2014 the 16 free-to-read as well as the 6 institutional \u2014 w",
@@ -58,7 +57,8 @@
   "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were",
   "132 \u2014 The set-1 ingest was committed and logged as \"15/15 staged\" when the truth was 1",
   "133 \u2014 SHEET-14 carried unanchored papers: the trial-paper census covered every RESULTS",
-  "134 \u2014 Three check sheets shared one cause \u2014 the registration string, not the data"
+  "134 \u2014 Three check sheets shared one cause \u2014 the registration string, not the data",
+  "135 \u2014 Ledger 124's failure mode recurred as paperwork rather than data: the iPROVE che"
  ],
  "spend": {
   "rebuild_spend": 34.39,

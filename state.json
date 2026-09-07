@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T10:34:20.831745+00:00",
- "commit": "45a000e",
- "generation_file": "dashboard-7e2eac40.html",
+ "generated": "2026-09-07T10:43:46.404004+00:00",
+ "commit": "5243beb",
+ "generation_file": "dashboard-a8d391d1.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D151 \u2014 dashboard: machine snapshot, plain-text report, per-generation URL (P-86 addendu",
   "D152 \u2014 P-87: routing B; the fast path to the first site; the paced TDM sheet",
   "D153 \u2014 P-87 addendum: A1 as listed; browser settings corrected; the corpus-wide sweep's",
   "D154 \u2014 the coverage test completed by estimation; caps lifted to full sets",
@@ -46,10 +45,10 @@
   "D157 \u2014 P-96: the owner's seeded read of r3; R6 amendments; the split rule",
   "D158 \u2014 P-92: the engine cost and latency programme",
   "D159 \u2014 P-88: pre-warm everything, extract anesthesia now",
-  "D160 \u2014 the spend meter: a first-class ledger, erring high"
+  "D160 \u2014 the spend meter: a first-class ledger, erring high",
+  "D161 \u2014 the Ventilation \u00b7 ICU family proposed; the split survey ruled A1"
  ],
  "recent_ledger": [
-  "120 \u2014 Landscape outcome labels render truncated and unidentifiable \u2014 \"paco\", \"spo\", \"i",
   "121 \u2014 Two renderer boilerplate sentences carried the corpus-versus-literature overclai",
   "122 \u2014 The r3 clinician layer went through five three-run verification passes; every pa",
   "123 \u2014 SHEET-11 declared all 26 unread trials \"open routes exhausted\"; the owner retrie",
@@ -58,7 +57,8 @@
   "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev",
   "127 \u2014 The intake extractor failed three of the last eight trials on model-output shape",
   "128 \u2014 All 22 extracted trials \u2014 the 16 free-to-read as well as the 6 institutional \u2014 w",
-  "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe"
+  "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",
+  "130 \u2014 The three moves from the owner's r3 read were filed as M-47\u201349, numbers already "
  ],
  "spend": {
   "rebuild_spend": 34.39,

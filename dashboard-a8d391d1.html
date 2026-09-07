@@ -6,7 +6,7 @@ body{font-family:-apple-system,system-ui,sans-serif;margin:0;padding:1rem;backgr
 <div id='stale-banner' style='display:none;background:#b3261e;color:#fff;padding:.6rem;font-weight:700;text-align:center'>STALE — a newer version has been published; you are viewing a cached copy. Reload.</div>
 <script>
     (function() {
-      var GEN = "2026-09-06T10:09:02.001027+00:00";
+      var GEN = "2026-09-07T10:43:46.404004+00:00";
       var API = "https://api.github.com/repos/nirupanvipul-cell/"
               + "equipoise-dashboard/commits?per_page=1";
       try {
@@ -27,22 +27,11 @@ body{font-family:-apple-system,system-ui,sans-serif;margin:0;padding:1rem;backgr
     })();
     </script>
 <h1>Equipoise — build state</h1>
-<div class='sub'>This generation: <a href='dashboard-5b2041fb.html'>dashboard-5b2041fb.html</a> · machine snapshot: <a href='state.json'>state.json</a> · last report: <a href='last-report.txt'>last-report.txt</a><br>(a fresh per-generation URL defeats stale caches — link, not the index, when a cached copy is suspected)</div>
+<div class='sub'>This generation: <a href='dashboard-a8d391d1.html'>dashboard-a8d391d1.html</a> · machine snapshot: <a href='state.json'>state.json</a> · last report: <a href='last-report.txt'>last-report.txt</a><br>(a fresh per-generation URL defeats stale caches — link, not the index, when a cached copy is suspected)</div>
 <h2>Coverage</h2>
 <div class="row"><div class="lbl">Owner checklist LIVE: 1 of 15</div><div class="track"><div class="fill" style="width:6%"></div></div><div class="sub"></div></div>
 <div class="row"><div class="lbl">Technical rows LIVE: 90 of 263</div><div class="track"><div class="fill" style="width:34%"></div></div><div class="sub"></div></div>
 <h2>Stages</h2>
-<div class='stage'><span class='st-running'>RUNNING</span> · <b>S0</b> P-78 recompute (running)<div class='sub'>machine (forecast vs measured): measured at block end · owner minutes (forecast vs measured): 30 vs — · read r3 (the seed read for the read-sampling rule) · released by P-78</div></div>
-<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S1</b> SHEET-9/SHEET-10 amendments<div class='sub'>machine (forecast vs measured): 2–4 h · owner minutes (forecast vs measured): 12 vs — · two sheets, one slot each</div></div>
-<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S2</b> R4/R6 generalised into the engine<div class='sub'>machine (forecast vs measured): 1–2 blocks · owner minutes (forecast vs measured): 0 vs — · —</div></div>
-<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S3</b> R1 outcome register<div class='sub'>machine (forecast vs measured): 1–2 blocks · owner minutes (forecast vs measured): ~25 vs — · one three-way sheet: seed 10 + disagreements only</div></div>
-<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S4</b> R2 misuse detectors<div class='sub'>machine (forecast vs measured): 1–2 blocks · owner minutes (forecast vs measured): ~25 vs — · one three-way confirmation sheet (mined moves against cases)</div></div>
-<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S5</b> Remaining upstream checklist items<div class='sub'>machine (forecast vs measured): 2–3 blocks · owner minutes (forecast vs measured): ~25 vs — · one three-way sheet across items</div></div>
-<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S6</b> Other four sections recomputed<div class='sub'>machine (forecast vs measured): 1 block each · owner minutes (forecast vs measured): ~30 total vs — · one seeded read of the four (rule 4), not four reads</div></div>
-<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S7</b> R3 reasoning drift<div class='sub'>machine (forecast vs measured): 1–2 blocks · owner minutes (forecast vs measured): 0 vs — · —</div></div>
-<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S8</b> Full-text programme<div class='sub'>machine (forecast vs measured): machine small; calendar-bound · owner minutes (forecast vs measured): 15 vs — · one high-consequence ruling (D129): send the batch</div></div>
-<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S9</b> Site + watchers (step 8)<div class='sub'>machine (forecast vs measured): 1–2 blocks · owner minutes (forecast vs measured): ~20 vs — · one seeded read</div></div>
-<div class='stage'><span class='st-not'>NOT STARTED</span> · <b>S10</b> Steps 9–10<div class='sub'>machine (forecast vs measured): blocked · owner minutes (forecast vs measured): 0 now vs — · librarians (external)</div></div>
 <h2>On Nirupan</h2><table><tr><th>Item</th><th>Type</th><th>~min</th><th>Unblocks</th></tr>
 <tr><td>status/intake-check-23902482.md</td><td>sheet</td><td>—</td><td>1 unfilled answer slot(s)</td></tr>
 <tr><td>status/intake-check-35995638.md</td><td>sheet</td><td>—</td><td>1 unfilled answer slot(s)</td></tr>
@@ -52,71 +41,88 @@ body{font-family:-apple-system,system-ui,sans-serif;margin:0;padding:1rem;backgr
 <tr><td>urology anchor replies (the two urologists)</td><td>external</td><td>urology anchors entering the registry</td></tr>
 </table>
 <h2>Last report</h2>
-<div class='sub'>P-86+ · 2026-09-06 06:10</div>
-<div class='stage'><b>For Nirupan.</b> The dashboard now publishes three things beside the page — a
-machine-readable state.json, the last report as last-report.txt, and a fresh
-per-generation URL dashboard-&lt;hash&gt;.html linked from the top of the index. When
-your fetcher serves a stale cached copy, open the per-generation link instead:
-it is a URL that has never existed before, so nothing can have cached it. All
-three regenerate with the page on every commit and every background-task change,
-and republish to the public dashboard repo.</div>
-<div class='stage'><b>Verification.</b> All four artefacts were confirmed tracked on the dashboard repo&#x27;s
-origin (index.html, state.json, last-report.txt, and per-generation files), and
-state.json was scanned clean of any key or institutional marker. Two hook bugs
-were found and fixed in the process — the per-generation copy and the git add
-were both missing — each caught by inspecting the published repo, not assumed.
-The private main repo is never queried from the public page; the STALE banner
-and the per-gen URL together cover the caches the page cannot see into.</div>
+<div class='sub'>P-88/90/92/95/96 · 2026-09-07 · backed up, capped, ruled, and re-planned</div>
+<div class='stage'><b>For Nirupan.</b> Your five pastes are all recorded and the plan is re-sequenced.
+The backup ran first as you ordered: a 178 MB timestamped zip in iCloud,
+verified error-free, with keys and every PDF excluded — one correction, three
+refused publisher PDFs ARE retained in the intake folder, so they are excluded
+from every copy that leaves the machine. The global $1,000 cap is live on the
+dashboard (current external spend well under $100), the eight standing lessons
+are a RULES section there, the B2 sync script is armed and waits only for a
+key, and your decision A sends the 200 fluid-therapy verdicts to the next
+calibration sheet. From your r3 read: the five additions are now binding spec
+for every section, the extraction schema carries the haemodynamic fields, and
+the split survey of all 108 anchors is on your desk — eight candidates beyond
+ventilation, nothing splitting without your letters. Next machine blocks:
+engine cost profiling ($150), the anesthesia pre-warm with its 300-paper
+calibration, then the two ventilation documents through the full gate.</div>
+<div class='stage'><b>Verification.</b> The zip tests clean (no errors, 53,448 files, zero keys, zero
+PDFs — grep of the archive listing); the register, the cache and the new
+enumeration sets are all present in it. The storage statement&#x27;s figures are
+du/git measurements from disk; projections are labelled ASSERTED. The cap bar
+sums the recorded spend keys and turns on a $900 threshold flag. The schema
+change is drilled (29 assertions pass). Not verified: the split-survey
+candidates are the assistant&#x27;s clinical-judgement scan, deliberately awaiting
+your confirmation; the storage projections; and the D157 dependency note that
+haemodynamic extraction needs the full texts back (they were deleted after
+tuple extraction, as designed).</div>
 <h2>Running</h2>
-<div class='stage'><b>intake extraction (25 trial PDFs, caffeinated)</b><div class='sub'>started 2026-09-06 05:20 · last: local model extracting; 15+ of 25 staged · waiting on: nothing — runs to completion, then map re-derive + ruled pass</div></div>
+<div class='stage'>nothing running</div>
 <h2>Decisions pending</h2>
 <div class='stage'>none open — every sheet is resolved or sent</div>
 <h2>Recent</h2>
 <div class='sub'>Last decisions</div>
-<div class='stage'>D142 — owner load: the standing rules (P-81, 5 September 2026)</div>
-<div class='stage'>D143 — the recompute&#x27;s terminal state; the r3 standing conditional (P-78, 5 September 2026)</div>
-<div class='stage'>D144 — P-82: the emission block, the citation ruling, the sheets, the denominator</div>
-<div class='stage'>D145 — the synthesis-gate question: seven passes measured, the ruling is the owner&#x27;s (P-82 item 1</div>
-<div class='stage'>D146 — P-83: the synthesis ruling applied; the dashboard published</div>
-<div class='stage'>D147 — P-84: the intake extractor built, local-model ruling recorded</div>
-<div class='stage'>D148 — the open layer redefined; the census corrected (P-85)</div>
-<div class='stage'>D149 — SHEET-12 amended and the permission package prepared, not sent (P)</div>
-<div class='stage'>D150 — the dashboard as the review channel (P-86)</div>
-<div class='stage'>D151 — dashboard: machine snapshot, plain-text report, per-generation URL (P-86 addendum)</div>
+<div class='stage'>D152 — P-87: routing B; the fast path to the first site; the paced TDM sheet</div>
+<div class='stage'>D153 — P-87 addendum: A1 as listed; browser settings corrected; the corpus-wide sweep&#x27;s design</div>
+<div class='stage'>D154 — the coverage test completed by estimation; caps lifted to full sets</div>
+<div class='stage'>D155 — P-90: the eight standing lessons, consolidated</div>
+<div class='stage'>D156 — P-95: backup executed; standing conditionals; the global cap</div>
+<div class='stage'>D157 — P-96: the owner&#x27;s seeded read of r3; R6 amendments; the split rule</div>
+<div class='stage'>D158 — P-92: the engine cost and latency programme</div>
+<div class='stage'>D159 — P-88: pre-warm everything, extract anesthesia now</div>
+<div class='stage'>D160 — the spend meter: a first-class ledger, erring high</div>
+<div class='stage'>D161 — the Ventilation · ICU family proposed; the split survey ruled A1</div>
 <div class='sub'>Last defect-ledger entries</div>
-<div class='stage'>117 — Two claims in DOC-EQ-0301 rest on things neither the document nor the profile states: ever</div>
-<div class='stage'>118 — The first SHEET-7 draft graded &quot;no findable origin&quot; as a failure in open mode, so the corp</div>
-<div class='stage'>119 — The rendering states corpus-bounded findings as literature-level facts — &quot;the trials were </div>
-<div class='stage'>120 — Landscape outcome labels render truncated and unidentifiable — &quot;paco&quot;, &quot;spo&quot;, &quot;il&quot;, and a </div>
 <div class='stage'>121 — Two renderer boilerplate sentences carried the corpus-versus-literature overclaim past the</div>
 <div class='stage'>122 — The r3 clinician layer went through five three-run verification passes; every pass found g</div>
 <div class='stage'>123 — SHEET-11 declared all 26 unread trials &quot;open routes exhausted&quot;; the owner retrieved 18 of </div>
 <div class='stage'>124 — The intake matcher identified the iPROVE paper as IMPROVE at &quot;100% title match&quot; and extrac</div>
 <div class='stage'>125 — The intake matcher&#x27;s ambiguity guard (ledger 124) over-fired, refusing PROTHOR&#x27;s PDF that </div>
 <div class='stage'>126 — The dashboard&#x27;s GitHub Pages copy went stale for a day with no STALE banner: seven regener</div>
+<div class='stage'>127 — The intake extractor failed three of the last eight trials on model-output shape, not cont</div>
+<div class='stage'>128 — All 22 extracted trials — the 16 free-to-read as well as the 6 institutional — went throug</div>
+<div class='stage'>129 — The residue re-checker&#x27;s first run &quot;recovered&quot; 113 of 113 — 94 of them via PubMed LinkOut&#x27;</div>
+<div class='stage'>130 — The three moves from the owner&#x27;s r3 read were filed as M-47–49, numbers already held by th</div>
 <h2>Errors</h2>
 <div class='stage'>2026-09-05 23:14 — extraction run killed by idle SLEEP (not memory); fixed with caffeinate (ledger 125 diagnosis)</div>
 <div class='stage'>2026-09-05 23:44 — second extraction run killed by idle SLEEP; same cause</div>
 <div class='stage'>2026-09-06 05:15 — extraction JSONDecodeError on one PDF; retry + per-PDF isolation added, run resumed</div>
 <div class='stage'>2026-09-06 09:40 — dashboard Pages republish had silently failed for 7 commits (macOS timeout + GIT_DIR leak); fixed, backlog pushed (ledger 126)</div>
+<div class='stage'>2026-09-06 06:12 — extraction pass: 3 trials failed on model-output shape (timeout/JSON/stray-prose), 3 refused as ambiguous by pre-margin matcher; both fixed (ledger 127), residue re-running</div>
+<div class='stage'>2026-09-06 08:15 — DOC-EQ-0301-r3 emitted through the full gate (0 blockers both modes); routing defect ledger 128 fixed</div>
 <h2>Corpora</h2><table><tr><th>Corpus</th><th>Anchors</th><th>Recompute-grade sections</th><th>State</th></tr>
 <tr><td>anaesthesia</td><td>108</td><td>1</td><td>EQ-0301 at recompute grade; 4 older renderings from the superseded engine</td></tr>
 <tr><td>urology</td><td>5</td><td>0</td><td>candidates await the two urologists</td></tr>
 <tr><td>haematology</td><td>0</td><td>0</td><td>not started</td></tr>
 <tr><td>oncology</td><td>0</td><td>0</td><td>not started</td></tr>
 </table><div class='sub'>per-anchor forecasts populate from measured figures as sections land (P-82)</div>
+<h2>Pre-warm coverage (standing per-anchor metric — P-87 addendum 8)</h2>
+<div class='stage'>Perioperative fluid therapy: estimated true trial set <b>1,834</b> (95% CI 935–3,527) from a seeded 200-draw assignment (8/200 kept) over 45,845 candidates · coverage held÷true: <b>12%</b> before the sweep, <b>60%</b> after (upper bounds — held identities are unclassified); re-measured per anchor at build launch</div>
 <h2>Quality</h2>
 <div class='stage'>Verifier stability, non-style failures per pass (r3, passes a→f): <b>no runs yet</b> — falling is converging</div>
 <div class='stage'>Calibration: linkage 20/20 on SHEET-6 (D131); migration 50/50 owner-confirmed (D139); proxy trust not yet measured — first three-way sheet pending (D142)</div>
-<div class='stage'>Defect classes, all-time (ledger): SELF 12, PRES 10, VOCAB 9, SEL 8, WIRE 7, SAMP 7</div>
+<div class='stage'>Defect classes, all-time (ledger): PRES 12, SELF 12, VOCAB 9, SEL 8, WIRE 7, SAMP 7</div>
 <h2>Learning loop</h2>
-<div class='stage'>Clusters by lifecycle: {&quot;live&quot;: 3} · predictions recorded: 1 · renderings in the register: 2</div>
+<div class='stage'>Clusters by lifecycle: {&quot;live&quot;: 3} · predictions recorded: 1 · renderings in the register: 3</div>
 <h2>Publications</h2><table><tr><th>Paper</th><th>Inputs</th><th>Gates</th><th>Forecast to preprint</th></tr>
 <tr><td>Meta paper (the engine and its verification layer)</td><td>the decision record, the defect ledger, the stability record</td><td>owner scoping ruling; no inputs registered yet</td><td>not forecast until scoped</td></tr>
 <tr><td>Urology paper</td><td>urology anchors + sections</td><td>the two urologists' review; sections built</td><td>not forecast until anchors enter</td></tr>
 </table>
 <h2>TDM — texts to retrieve</h2>
-<div class='stage'>26 unread full texts for EQ-0301, ranked and paste-ready on SHEET-11; rank 1 is one library session (~30 min) and upgrades every claim-bearing cell</div>
+<div class='stage'>SHEET-14 (corpus-wide, P-87): <b>89</b> residue papers · about <b>6</b> pass-2 sets remaining · next earliest start: pass 1 is unpaced — start any time · your time remaining ≈ <b>1.1 h</b> (ASSERTED 20 links per 15-minute sitting, replaced by the measured rate as passes land)</div>
+<div class='stage'>EQ-0301's own list: 26 unread full texts, ranked and paste-ready on SHEET-11</div>
+<h2>Calendar to a twenty-anchor site (ASSERTED — P-87 item 5)</h2>
+<div class='stage'><b>Milestone 1 delivered 6 Sep:</b> the site serves the ventilation appraisal at <a href='https://nirupanvipul-cell.github.io/equipoise-site/'>nirupanvipul-cell.github.io/equipoise-site</a>. ASSERTED from r3's measured rates: S2 (the engine) lands within 2 blocks; the twenty cheapest anchors (SHEET-13) launch immediately after under the $25/anchor, $500/batch ceilings; the twenty emit over 3–6 weeks, the spread driven by each anchor's free-to-read fraction and the paced TDM sittings. Replaced by measured per-anchor figures as each lands.</div>
 <h2>Risks</h2>
 <div class='stage'>Library licensing unanswered — steps 9-10 and the full-text programme are calendar-bound on it <span class='sub'>(NEXT.md blocked table)</span></div>
 <div class='stage'>Verifier rationale instability on synthesis-grade claims — converges on real defects but rotates phrasings across passes <span class='sub'>(ledger 122)</span></div>
@@ -126,9 +132,14 @@ and the per-gen URL together cover the caches the page cannot see into.</div>
 <h2>Changed since the previous generation</h2>
 <div class='stage'>nothing tracked changed</div>
 <h2>Spend</h2>
+<div class="row"><div class="lbl">GLOBAL CAP (P-95/D156) — all external spend until the restore test first passes</div><div class="track"><div class="fill" style="width:11%"></div></div><div class="sub">$110.00 of $1,000.00 — hard stop-and-report at $900</div></div>
 <div class="row"><div class="lbl">Rebuild (P-68, D123)</div><div class="track"><div class="fill" style="width:57%"></div></div><div class="sub">$34.39 of $60.00</div></div>
 <div class="row"><div class="lbl">Stage reviews (P-69, D126)</div><div class="track"><div class="fill" style="width:3%"></div></div><div class="sub">$0.80 of $25.00</div></div>
 <div class="row"><div class="lbl">Verifier programme (P-72, D130)</div><div class="track"><div class="fill" style="width:3%"></div></div><div class="sub">$0.69 of $20.00</div></div>
-<div class="row"><div class="lbl">Recompute (P-75/P-78, D137/D140)</div><div class="track"><div class="fill" style="width:28%"></div></div><div class="sub">$8.68 of $30.00</div></div>
+<div class="row"><div class="lbl">Recompute (P-75/P-78, D137/D140)</div><div class="track"><div class="fill" style="width:30%"></div></div><div class="sub">$9.01 of $30.00</div></div>
 <div class="row"><div class="lbl">Tool census (per-pass default, D132)</div><div class="track"><div class="fill" style="width:36%"></div></div><div class="sub">$1.81 of $5.00/pass</div></div>
-<footer>Generated 2026-09-06 06:09 · on top of commit d8e3748 · rendered by equipoise.dashboard from the coverage matrix, ROADMAP.md, the awaiting registry and the recorded ceilings — nothing typed by hand (P-80/D141)</footer></body></html>
+<h2>Backup and restore</h2>
+<div class='stage'>iCloud backup zip: equipoise-backup-20260907-0617.zip, 178 MB, verified (no errors, 53,448 files, keys and PDFs excluded) · repo cache separately tarred nightly to Google Drive (status/backup.log) · <b>restore test: awaiting the B2 key</b> — monthly once it exists (D156)</div>
+<h2>RULES — the eight standing lessons (P-90/D155)</h2>
+<div class='stage'>1 sample before pricing · 2 silence is never a verdict · 3 spec before builder · 4 outside family at every boundary · 5 stability before redundancy · 6 pre-register the human · 7 mechanical over diligent · 8 attention events are the currency. Every stage-opening paste cites D155; every stage report states how each rule applied. Current stage (pre-warm + engine profiling): 1 governs P-88's 300-paper calibration and P-92's profile-first order; 2 governs every absence in the enumeration base; 5 governs the 3→1 verifier-run decision; 6 is the ICU document's owner hypothesis; 8 prices SHEET-14 and the calibration sheets.</div>
+<footer>Generated 2026-09-07 06:43 · on top of commit 5243beb · rendered by equipoise.dashboard from the coverage matrix, ROADMAP.md, the awaiting registry and the recorded ceilings — nothing typed by hand (P-80/D141)</footer></body></html>

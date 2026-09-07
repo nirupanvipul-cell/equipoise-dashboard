@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-07T10:43:46.404004+00:00",
- "commit": "5243beb",
- "generation_file": "dashboard-a8d391d1.html",
+ "generated": "2026-09-07T11:54:21.842323+00:00",
+ "commit": "a67d69f",
+ "generation_file": "dashboard-90dc08e9.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 47177,
+   "label": "browser-engine landing pass (retry of the 59 non-verdicts)",
+   "note": "P-97 item 4",
+   "started": "2026-09-07 07:54"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {
@@ -37,8 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D152 \u2014 P-87: routing B; the fast path to the first site; the paced TDM sheet",
-  "D153 \u2014 P-87 addendum: A1 as listed; browser settings corrected; the corpus-wide sweep's",
   "D154 \u2014 the coverage test completed by estimation; caps lifted to full sets",
   "D155 \u2014 P-90: the eight standing lessons, consolidated",
   "D156 \u2014 P-95: backup executed; standing conditionals; the global cap",
@@ -46,7 +51,9 @@
   "D158 \u2014 P-92: the engine cost and latency programme",
   "D159 \u2014 P-88: pre-warm everything, extract anesthesia now",
   "D160 \u2014 the spend meter: a first-class ledger, erring high",
-  "D161 \u2014 the Ventilation \u00b7 ICU family proposed; the split survey ruled A1"
+  "D161 \u2014 the Ventilation \u00b7 ICU family proposed; the split survey ruled A1",
+  "D162 \u2014 P-97: pass 1 done; the browser engine becomes the landing standard",
+  "D163 \u2014 SHEET-8: 20 run, stems flagged, ten rewritten, the 108 name audit"
  ],
  "recent_ledger": [
   "121 \u2014 Two renderer boilerplate sentences carried the corpus-versus-literature overclai",

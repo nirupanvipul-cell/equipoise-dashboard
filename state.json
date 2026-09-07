@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-07T22:18:05.303183+00:00",
+ "generated": "2026-09-07T22:18:30.183962+00:00",
  "commit": "7ccc6f2",
- "generation_file": "dashboard-66896a4f.html",
+ "generation_file": "dashboard-93de970d.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 53485,
+   "label": "calib300 batch: 290 papers x 3 models",
+   "note": "",
+   "started": "2026-09-07 18:18"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

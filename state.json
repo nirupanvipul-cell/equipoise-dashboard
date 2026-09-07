@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-07T22:14:26.608176+00:00",
- "commit": "fe36506",
- "generation_file": "dashboard-6c74f1af.html",
+ "generated": "2026-09-07T22:18:05.303183+00:00",
+ "commit": "7ccc6f2",
+ "generation_file": "dashboard-66896a4f.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 52718,
-   "label": "calib300 stage 1: select+fetch PMC-OA texts",
-   "note": "",
-   "started": "2026-09-07 17:58"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

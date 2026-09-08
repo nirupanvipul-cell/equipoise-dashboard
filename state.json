@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-08T04:25:56.997839+00:00",
+ "generated": "2026-09-08T04:27:06.821847+00:00",
  "commit": "c4e245e",
- "generation_file": "dashboard-81661410.html",
+ "generation_file": "dashboard-116665d2.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 58749,
+   "label": "head-to-head: reading 30 tool outputs",
+   "note": "",
+   "started": "2026-09-08 00:27"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

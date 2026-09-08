@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T00:13:52.136288+00:00",
- "commit": "ebde71f",
- "generation_file": "dashboard-ab94563a.html",
+ "generated": "2026-09-08T00:53:03.698840+00:00",
+ "commit": "d36ced8",
+ "generation_file": "dashboard-cb1370d2.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,8 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D164 \u2014 pass 1 retired; the browser engine's paywall verdict is calibrated and trusted",
-  "D165 \u2014 P-98: the three keeps applied; verification hardened on the owner's eight ruling",
   "D166 \u2014 P-99: registration-first identity; the mis-identification resolved",
   "D167 \u2014 P-100: the last open intake sheet resolved; three rules from it",
   "D168 \u2014 B2 and B3 opened under the cap",
@@ -53,10 +51,11 @@
   "D170 \u2014 B2 live; the restore test PASSED; the global cap LIFTS",
   "D171 \u2014 P-101: set 2 ingested; the proxied-URL defect found and fixed",
   "D172 \u2014 OWNER-HYP-EQ-ICU-ARDS-1 pre-registered",
-  "D173 \u2014 P-102: TDM sets get permanent ids; pacing computed from pull history"
+  "D173 \u2014 P-102: TDM sets get permanent ids; pacing computed from pull history",
+  "D174 \u2014 the anchor-name audit ruled in full; registry updated",
+  "D175 \u2014 the two conditional reframes, answered from the corrected base"
  ],
  "recent_ledger": [
-  "127 \u2014 The intake extractor failed three of the last eight trials on model-output shape",
   "128 \u2014 All 22 extracted trials \u2014 the 16 free-to-read as well as the 6 institutional \u2014 w",
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",
   "130 \u2014 The three moves from the owner's r3 read were filed as M-47\u201349, numbers already ",
@@ -65,7 +64,8 @@
   "133 \u2014 SHEET-14 carried unanchored papers: the trial-paper census covered every RESULTS",
   "134 \u2014 Three check sheets shared one cause \u2014 the registration string, not the data",
   "135 \u2014 Ledger 124's failure mode recurred as paperwork rather than data: the iPROVE che",
-  "136 \u2014 SHEET-14's sets were renumbered 1..N on every regeneration and their earliest-st"
+  "136 \u2014 SHEET-14's sets were renumbered 1..N on every regeneration and their earliest-st",
+  "137 \u2014 The pacing computed \"safe at 21:01\" from LWW's 13:01 PROCESSING timestamp while "
  ],
  "spend": {
   "rebuild_spend": 34.39,

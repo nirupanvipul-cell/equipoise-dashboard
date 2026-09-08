@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T22:28:10.202423+00:00",
+ "generated": "2026-09-08T22:28:48.783555+00:00",
  "commit": "ca18c90",
- "generation_file": "dashboard-ea5c8dab.html",
+ "generation_file": "dashboard-11788a7c.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D190 \u2014 P-105: the access ladder published as an instrument before any result",
   "D191 \u2014 items 11 and 12 recorded",
   "D192 \u2014 the registry floor: ~9,900 trials of public-domain arm-level evidence we own and",
   "D193 \u2014 REGISTRY-ONLY is a first-class grade, enforced at the write",
@@ -53,7 +52,8 @@
   "D196 \u2014 the ladder's four holes are built; the entitlement rung validates against ground",
   "D197 \u2014 the first S2 document is the fix-loop measurement, and it gates the other ninete",
   "D198 \u2014 S2's map builder: the outcome half works, the component half does not, and why",
-  "D199 \u2014 the unit-and-range floor: 7 real field errors across the staged set"
+  "D199 \u2014 the unit-and-range floor: 7 real field errors across the staged set",
+  "D200 \u2014 three measures, three rows, never proxies for one another"
  ],
  "recent_ledger": [
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",

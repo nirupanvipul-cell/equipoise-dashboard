@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T01:43:26.150797+00:00",
- "commit": "848f3d6",
- "generation_file": "dashboard-cb115ccf.html",
+ "generated": "2026-09-08T01:47:52.360743+00:00",
+ "commit": "4f70e31",
+ "generation_file": "dashboard-95f36187.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,6 +14,12 @@
    "label": "pre-warm: store PMC-OA texts (target 3000)",
    "note": "",
    "started": "2026-09-07 21:26"
+  },
+  {
+   "pid": 57283,
+   "label": "fabrication gate: repair pass on refused fields",
+   "note": "",
+   "started": "2026-09-07 21:47"
   }
  ],
  "decisions_pending": [],

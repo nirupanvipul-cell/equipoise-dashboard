@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T04:27:26.991558+00:00",
+ "generated": "2026-09-08T04:29:32.891406+00:00",
  "commit": "c4e245e",
- "generation_file": "dashboard-ed08c03a.html",
+ "generation_file": "dashboard-d4f251e7.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D172 \u2014 OWNER-HYP-EQ-ICU-ARDS-1 pre-registered",
   "D173 \u2014 P-102: TDM sets get permanent ids; pacing computed from pull history",
   "D174 \u2014 the anchor-name audit ruled in full; registry updated",
   "D175 \u2014 the two conditional reframes, answered from the corrected base",
@@ -46,7 +45,8 @@
   "D178 \u2014 the vocabulary audit: 47% of the enumerated corpus is off-scope; one structural ",
   "D179 \u2014 the two-family agreement rate, measured; SHEET-19 reduced to disagreements",
   "D180 \u2014 the fabrication gate, measured end to end; residual is zero by construction",
-  "D181 \u2014 the degrade operation run; the corpus by reuse class"
+  "D181 \u2014 the degrade operation run; the corpus by reuse class",
+  "D182 \u2014 the head-to-head: the instant tier FAILS its pre-registered bar and does not shi"
  ],
  "recent_ledger": [
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",

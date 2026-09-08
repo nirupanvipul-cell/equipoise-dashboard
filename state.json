@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-08T14:26:10.868504+00:00",
- "commit": "cc4a707",
- "generation_file": "dashboard-cead8f57.html",
+ "generated": "2026-09-08T14:30:46.935245+00:00",
+ "commit": "ba8e752",
+ "generation_file": "dashboard-48084a6b.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 63091,
-   "label": "registry floor: results-posted arm-level counts",
-   "note": "",
-   "started": "2026-09-08 10:25"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

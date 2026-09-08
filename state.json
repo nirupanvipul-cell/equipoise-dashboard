@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T01:11:48.980896+00:00",
+ "generated": "2026-09-08T01:12:19.274318+00:00",
  "commit": "8b7f3d1",
- "generation_file": "dashboard-7caa82d1.html",
+ "generation_file": "dashboard-604dd43c.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,6 +14,12 @@
    "label": "set-2 ingest: 14 PDFs by class",
    "note": "",
    "started": "2026-09-07 19:59"
+  },
+  {
+   "pid": 56250,
+   "label": "vocab audit: sample + title fetch",
+   "note": "",
+   "started": "2026-09-07 21:12"
   }
  ],
  "decisions_pending": [],

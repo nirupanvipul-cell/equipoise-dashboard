@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T09:29:27.967876+00:00",
+ "generated": "2026-09-08T09:32:09.470769+00:00",
  "commit": "effe8d4",
- "generation_file": "dashboard-8831d697.html",
+ "generation_file": "dashboard-28027cb2.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,8 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D174 \u2014 the anchor-name audit ruled in full; registry updated",
-  "D175 \u2014 the two conditional reframes, answered from the corrected base",
   "D176 \u2014 the OpenAI account is out of credits; the classifier moves family",
   "D177 \u2014 the calibration verdict: cheap tier picked, scored against the papers",
   "D178 \u2014 the vocabulary audit: 47% of the enumerated corpus is off-scope; one structural ",
@@ -53,7 +51,9 @@
   "D180 \u2014 the fabrication gate, measured end to end; residual is zero by construction",
   "D181 \u2014 the degrade operation run; the corpus by reuse class",
   "D182 \u2014 the head-to-head: the instant tier FAILS its pre-registered bar and does not shi",
-  "D183 \u2014 the decisiveness ranking rule, stated BEFORE it runs (P-107 item 2)"
+  "D183 \u2014 the decisiveness ranking rule, stated BEFORE it runs (P-107 item 2)",
+  "D184 \u2014 the head-to-head corrected; the instant tier reclassified",
+  "D185 \u2014 the 44 PMC papers resolved: author manuscripts, not open access"
  ],
  "recent_ledger": [
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",

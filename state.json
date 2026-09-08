@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-08T09:32:09.470769+00:00",
- "commit": "effe8d4",
- "generation_file": "dashboard-28027cb2.html",
+ "generated": "2026-09-08T09:41:34.738635+00:00",
+ "commit": "399f135",
+ "generation_file": "dashboard-6fb1f219.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 60316,
-   "label": "corpus-wide enumeration sweep",
-   "note": "",
-   "started": "2026-09-08 05:29"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

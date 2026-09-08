@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T01:13:26.114013+00:00",
+ "generated": "2026-09-08T01:13:31.126736+00:00",
  "commit": "8b7f3d1",
- "generation_file": "dashboard-308a9aa8.html",
+ "generation_file": "dashboard-fea81291.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -9,12 +9,6 @@
   "technical_total": 263
  },
  "running": [
-  {
-   "pid": 55203,
-   "label": "set-2 ingest: 14 PDFs by class",
-   "note": "",
-   "started": "2026-09-07 19:59"
-  },
   {
    "pid": 56250,
    "label": "vocab audit: scope classification",

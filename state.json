@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-08T01:14:05.162182+00:00",
- "commit": "8b7f3d1",
- "generation_file": "dashboard-1f9d11b6.html",
+ "generated": "2026-09-08T01:21:17.200818+00:00",
+ "commit": "967b577",
+ "generation_file": "dashboard-43a749c5.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 56250,
-   "label": "vocab audit: scope classification",
-   "note": "",
-   "started": "2026-09-07 21:13"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

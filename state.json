@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T01:48:45.318533+00:00",
+ "generated": "2026-09-08T01:51:53.378692+00:00",
  "commit": "4f70e31",
- "generation_file": "dashboard-d051c8ba.html",
+ "generation_file": "dashboard-22e411ff.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -18,12 +18,6 @@
   {
    "pid": 57331,
    "label": "fabrication gate: repair pass",
-   "note": "",
-   "started": "2026-09-07 21:48"
-  },
-  {
-   "pid": 57352,
-   "label": "SHEET-19: second family on 78 borderlines + 80 controls",
    "note": "",
    "started": "2026-09-07 21:48"
   }

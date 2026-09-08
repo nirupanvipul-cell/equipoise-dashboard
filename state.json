@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T15:28:37.443054+00:00",
+ "generated": "2026-09-08T15:28:59.144529+00:00",
  "commit": "05ab8f0",
- "generation_file": "dashboard-aaf90fec.html",
+ "generation_file": "dashboard-cdae5973.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D183 \u2014 the decisiveness ranking rule, stated BEFORE it runs (P-107 item 2)",
   "D184 \u2014 the head-to-head corrected; the instant tier reclassified",
   "D185 \u2014 the 44 PMC papers resolved: author manuscripts, not open access",
   "D186 \u2014 the re-run: recall is bounded by stored records, not by ranking",
@@ -46,7 +45,8 @@
   "D189 \u2014 reuse measured over the full corpus, not the linked residue",
   "D190 \u2014 P-105: the access ladder published as an instrument before any result",
   "D191 \u2014 items 11 and 12 recorded",
-  "D192 \u2014 the registry floor: ~9,900 trials of public-domain arm-level evidence we own and"
+  "D192 \u2014 the registry floor: ~9,900 trials of public-domain arm-level evidence we own and",
+  "D193 \u2014 REGISTRY-ONLY is a first-class grade, enforced at the write"
  ],
  "recent_ledger": [
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",

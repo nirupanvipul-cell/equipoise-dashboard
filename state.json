@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T19:22:58.667524+00:00",
+ "generated": "2026-09-08T19:32:07.622622+00:00",
  "commit": "99e0866",
- "generation_file": "dashboard-f46fe9be.html",
+ "generation_file": "dashboard-d0ee28c2.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D187 \u2014 SHEET-14 closed; reuse reclassified by what is stored (P-108)",
-  "D188 \u2014 the ventilation head-to-head is the accuracy page's headline result",
   "D189 \u2014 reuse measured over the full corpus, not the linked residue",
   "D190 \u2014 P-105: the access ladder published as an instrument before any result",
   "D191 \u2014 items 11 and 12 recorded",
@@ -46,7 +44,9 @@
   "D193 \u2014 REGISTRY-ONLY is a first-class grade, enforced at the write",
   "D194 \u2014 the registry layer validates the extractor: 92% agreement, 4 real items",
   "D195 \u2014 the registry layer is mined per anchor, not retrospectively",
-  "D196 \u2014 the ladder's four holes are built; the entitlement rung validates against ground"
+  "D196 \u2014 the ladder's four holes are built; the entitlement rung validates against ground",
+  "D197 \u2014 the first S2 document is the fix-loop measurement, and it gates the other ninete",
+  "D198 \u2014 S2's map builder: the outcome half works, the component half does not, and why"
  ],
  "recent_ledger": [
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",

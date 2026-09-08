@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T22:28:48.783555+00:00",
- "commit": "ca18c90",
- "generation_file": "dashboard-11788a7c.html",
+ "generated": "2026-09-08T22:43:10.509854+00:00",
+ "commit": "bd1e998",
+ "generation_file": "dashboard-6a2b2262.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,6 +14,12 @@
    "label": "pre-warm: store PMC-OA texts (target 9600)",
    "note": "",
    "started": "2026-09-08 15:51"
+  },
+  {
+   "pid": 70127,
+   "label": "storability: rungs 7 and 8",
+   "note": "",
+   "started": "2026-09-08 18:43"
   }
  ],
  "decisions_pending": [],

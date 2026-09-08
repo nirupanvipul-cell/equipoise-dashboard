@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-08T19:32:07.622622+00:00",
- "commit": "99e0866",
- "generation_file": "dashboard-d0ee28c2.html",
+ "generated": "2026-09-08T19:51:23.909966+00:00",
+ "commit": "4a5d264",
+ "generation_file": "dashboard-bcb7fb9e.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 67730,
+   "label": "pre-warm: store PMC-OA texts (target 9600)",
+   "note": "",
+   "started": "2026-09-08 15:51"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

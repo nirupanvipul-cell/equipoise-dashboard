@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-08T15:56:16.786693+00:00",
- "commit": "2cdbf36",
- "generation_file": "dashboard-d8c60013.html",
+ "generated": "2026-09-08T19:15:30.657288+00:00",
+ "commit": "ae7f226",
+ "generation_file": "dashboard-0d5f9f04.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 67281,
+   "label": "rung 0: bulk metadata (8000 papers)",
+   "note": "",
+   "started": "2026-09-08 15:15"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

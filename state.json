@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T09:44:47.433988+00:00",
+ "generated": "2026-09-08T09:45:42.587971+00:00",
  "commit": "399f135",
- "generation_file": "dashboard-ce521f9c.html",
+ "generation_file": "dashboard-e44f510b.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D176 \u2014 the OpenAI account is out of credits; the classifier moves family",
   "D177 \u2014 the calibration verdict: cheap tier picked, scored against the papers",
   "D178 \u2014 the vocabulary audit: 47% of the enumerated corpus is off-scope; one structural ",
   "D179 \u2014 the two-family agreement rate, measured; SHEET-19 reduced to disagreements",
@@ -46,7 +45,8 @@
   "D182 \u2014 the head-to-head: the instant tier FAILS its pre-registered bar and does not shi",
   "D183 \u2014 the decisiveness ranking rule, stated BEFORE it runs (P-107 item 2)",
   "D184 \u2014 the head-to-head corrected; the instant tier reclassified",
-  "D185 \u2014 the 44 PMC papers resolved: author manuscripts, not open access"
+  "D185 \u2014 the 44 PMC papers resolved: author manuscripts, not open access",
+  "D186 \u2014 the re-run: recall is bounded by stored records, not by ranking"
  ],
  "recent_ledger": [
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",

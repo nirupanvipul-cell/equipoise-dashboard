@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-08T15:28:59.144529+00:00",
- "commit": "05ab8f0",
- "generation_file": "dashboard-cdae5973.html",
+ "generated": "2026-09-08T15:55:01.400882+00:00",
+ "commit": "2cdbf36",
+ "generation_file": "dashboard-399fc61d.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 64269,
+   "label": "registry validation of paper-derived tuples",
+   "note": "",
+   "started": "2026-09-08 11:55"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

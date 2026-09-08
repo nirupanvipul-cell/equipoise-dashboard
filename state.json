@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-08T15:27:44.507845+00:00",
+ "generated": "2026-09-08T15:28:37.443054+00:00",
  "commit": "05ab8f0",
- "generation_file": "dashboard-989cbab7.html",
+ "generation_file": "dashboard-aaf90fec.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 63595,
-   "label": "registry-only yield per anchor",
-   "note": "",
-   "started": "2026-09-08 11:27"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

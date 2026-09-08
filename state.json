@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T19:15:30.657288+00:00",
+ "generated": "2026-09-08T19:15:52.983728+00:00",
  "commit": "ae7f226",
- "generation_file": "dashboard-0d5f9f04.html",
+ "generation_file": "dashboard-c30847b0.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D186 \u2014 the re-run: recall is bounded by stored records, not by ranking",
   "D187 \u2014 SHEET-14 closed; reuse reclassified by what is stored (P-108)",
   "D188 \u2014 the ventilation head-to-head is the accuracy page's headline result",
   "D189 \u2014 reuse measured over the full corpus, not the linked residue",
@@ -53,7 +52,8 @@
   "D192 \u2014 the registry floor: ~9,900 trials of public-domain arm-level evidence we own and",
   "D193 \u2014 REGISTRY-ONLY is a first-class grade, enforced at the write",
   "D194 \u2014 the registry layer validates the extractor: 92% agreement, 4 real items",
-  "D195 \u2014 the registry layer is mined per anchor, not retrospectively"
+  "D195 \u2014 the registry layer is mined per anchor, not retrospectively",
+  "D196 \u2014 the ladder's four holes are built; the entitlement rung validates against ground"
  ],
  "recent_ledger": [
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",

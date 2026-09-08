@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-08T09:42:31.103153+00:00",
+ "generated": "2026-09-08T09:44:47.433988+00:00",
  "commit": "399f135",
- "generation_file": "dashboard-406b503b.html",
+ "generation_file": "dashboard-ce521f9c.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 60748,
-   "label": "decisiveness enrichment (registry + OpenAlex)",
-   "note": "",
-   "started": "2026-09-08 05:42"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

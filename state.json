@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T01:41:15.158083+00:00",
+ "generated": "2026-09-08T01:43:26.150797+00:00",
  "commit": "848f3d6",
- "generation_file": "dashboard-9d370789.html",
+ "generation_file": "dashboard-cb115ccf.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D168 \u2014 B2 and B3 opened under the cap",
   "D169 \u2014 the 300-paper calibration ran; the verdict waits on ground truth",
   "D170 \u2014 B2 live; the restore test PASSED; the global cap LIFTS",
   "D171 \u2014 P-101: set 2 ingested; the proxied-URL defect found and fixed",
@@ -53,7 +52,8 @@
   "D174 \u2014 the anchor-name audit ruled in full; registry updated",
   "D175 \u2014 the two conditional reframes, answered from the corrected base",
   "D176 \u2014 the OpenAI account is out of credits; the classifier moves family",
-  "D177 \u2014 the calibration verdict: cheap tier picked, scored against the papers"
+  "D177 \u2014 the calibration verdict: cheap tier picked, scored against the papers",
+  "D178 \u2014 the vocabulary audit: 47% of the enumerated corpus is off-scope; one structural "
  ],
  "recent_ledger": [
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T01:57:46.401494+00:00",
- "commit": "0d9bced",
- "generation_file": "dashboard-3d445a62.html",
+ "generated": "2026-09-08T02:39:13.104888+00:00",
+ "commit": "69a2ae5",
+ "generation_file": "dashboard-e37a7f00.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D171 \u2014 P-101: set 2 ingested; the proxied-URL defect found and fixed",
   "D172 \u2014 OWNER-HYP-EQ-ICU-ARDS-1 pre-registered",
   "D173 \u2014 P-102: TDM sets get permanent ids; pacing computed from pull history",
   "D174 \u2014 the anchor-name audit ruled in full; registry updated",
@@ -53,7 +52,8 @@
   "D177 \u2014 the calibration verdict: cheap tier picked, scored against the papers",
   "D178 \u2014 the vocabulary audit: 47% of the enumerated corpus is off-scope; one structural ",
   "D179 \u2014 the two-family agreement rate, measured; SHEET-19 reduced to disagreements",
-  "D180 \u2014 the fabrication gate, measured end to end; residual is zero by construction"
+  "D180 \u2014 the fabrication gate, measured end to end; residual is zero by construction",
+  "D181 \u2014 the degrade operation run; the corpus by reuse class"
  ],
  "recent_ledger": [
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",

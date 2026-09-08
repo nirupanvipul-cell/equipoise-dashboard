@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T00:04:12.510517+00:00",
- "commit": "4c3ce43",
- "generation_file": "dashboard-ec7ec52f.html",
+ "generated": "2026-09-08T00:13:52.136288+00:00",
+ "commit": "ebde71f",
+ "generation_file": "dashboard-ab94563a.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D163 \u2014 SHEET-8: 20 run, stems flagged, ten rewritten, the 108 name audit",
   "D164 \u2014 pass 1 retired; the browser engine's paywall verdict is calibrated and trusted",
   "D165 \u2014 P-98: the three keeps applied; verification hardened on the owner's eight ruling",
   "D166 \u2014 P-99: registration-first identity; the mis-identification resolved",
@@ -53,10 +52,10 @@
   "D169 \u2014 the 300-paper calibration ran; the verdict waits on ground truth",
   "D170 \u2014 B2 live; the restore test PASSED; the global cap LIFTS",
   "D171 \u2014 P-101: set 2 ingested; the proxied-URL defect found and fixed",
-  "D172 \u2014 OWNER-HYP-EQ-ICU-ARDS-1 pre-registered"
+  "D172 \u2014 OWNER-HYP-EQ-ICU-ARDS-1 pre-registered",
+  "D173 \u2014 P-102: TDM sets get permanent ids; pacing computed from pull history"
  ],
  "recent_ledger": [
-  "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev",
   "127 \u2014 The intake extractor failed three of the last eight trials on model-output shape",
   "128 \u2014 All 22 extracted trials \u2014 the 16 free-to-read as well as the 6 institutional \u2014 w",
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",
@@ -65,7 +64,8 @@
   "132 \u2014 The set-1 ingest was committed and logged as \"15/15 staged\" when the truth was 1",
   "133 \u2014 SHEET-14 carried unanchored papers: the trial-paper census covered every RESULTS",
   "134 \u2014 Three check sheets shared one cause \u2014 the registration string, not the data",
-  "135 \u2014 Ledger 124's failure mode recurred as paperwork rather than data: the iPROVE che"
+  "135 \u2014 Ledger 124's failure mode recurred as paperwork rather than data: the iPROVE che",
+  "136 \u2014 SHEET-14's sets were renumbered 1..N on every regeneration and their earliest-st"
  ],
  "spend": {
   "rebuild_spend": 34.39,

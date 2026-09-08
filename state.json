@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-07T23:59:29.058700+00:00",
+ "generated": "2026-09-08T00:01:15.202347+00:00",
  "commit": "feb6114",
- "generation_file": "dashboard-ac173ff8.html",
+ "generation_file": "dashboard-2004036f.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D161 \u2014 the Ventilation \u00b7 ICU family proposed; the split survey ruled A1",
   "D162 \u2014 P-97: pass 1 done; the browser engine becomes the landing standard",
   "D163 \u2014 SHEET-8: 20 run, stems flagged, ten rewritten, the 108 name audit",
   "D164 \u2014 pass 1 retired; the browser engine's paywall verdict is calibrated and trusted",
@@ -53,7 +52,8 @@
   "D167 \u2014 P-100: the last open intake sheet resolved; three rules from it",
   "D168 \u2014 B2 and B3 opened under the cap",
   "D169 \u2014 the 300-paper calibration ran; the verdict waits on ground truth",
-  "D170 \u2014 B2 live; the restore test PASSED; the global cap LIFTS"
+  "D170 \u2014 B2 live; the restore test PASSED; the global cap LIFTS",
+  "D171 \u2014 P-101: set 2 ingested; the proxied-URL defect found and fixed"
  ],
  "recent_ledger": [
   "126 \u2014 The dashboard's GitHub Pages copy went stale for a day with no STALE banner: sev",

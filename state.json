@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T12:25:18.353058+00:00",
+ "generated": "2026-09-08T12:26:07.792076+00:00",
  "commit": "a27ae8f",
- "generation_file": "dashboard-88312fb2.html",
+ "generation_file": "dashboard-3a434406.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D179 \u2014 the two-family agreement rate, measured; SHEET-19 reduced to disagreements",
   "D180 \u2014 the fabrication gate, measured end to end; residual is zero by construction",
   "D181 \u2014 the degrade operation run; the corpus by reuse class",
   "D182 \u2014 the head-to-head: the instant tier FAILS its pre-registered bar and does not shi",
@@ -46,7 +45,8 @@
   "D185 \u2014 the 44 PMC papers resolved: author manuscripts, not open access",
   "D186 \u2014 the re-run: recall is bounded by stored records, not by ranking",
   "D187 \u2014 SHEET-14 closed; reuse reclassified by what is stored (P-108)",
-  "D188 \u2014 the ventilation head-to-head is the accuracy page's headline result"
+  "D188 \u2014 the ventilation head-to-head is the accuracy page's headline result",
+  "D189 \u2014 reuse measured over the full corpus, not the linked residue"
  ],
  "recent_ledger": [
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",

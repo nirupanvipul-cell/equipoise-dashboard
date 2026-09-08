@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-08T12:22:55.014128+00:00",
- "commit": "a3afcb1",
- "generation_file": "dashboard-c47fed59.html",
+ "generated": "2026-09-08T12:23:16.857799+00:00",
+ "commit": "a27ae8f",
+ "generation_file": "dashboard-6cd39e5f.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 62079,
-   "label": "corpus-wide reuse sample (400 papers)",
-   "note": "",
-   "started": "2026-09-08 08:15"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

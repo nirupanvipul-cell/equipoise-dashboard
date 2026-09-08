@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T01:36:44.758672+00:00",
- "commit": "a319ddb",
- "generation_file": "dashboard-b97a6c3c.html",
+ "generated": "2026-09-08T01:41:15.158083+00:00",
+ "commit": "848f3d6",
+ "generation_file": "dashboard-9d370789.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -9,12 +9,6 @@
   "technical_total": 263
  },
  "running": [
-  {
-   "pid": 56541,
-   "label": "vocab audit: scope classification",
-   "note": "",
-   "started": "2026-09-07 21:22"
-  },
   {
    "pid": 56659,
    "label": "pre-warm: store PMC-OA texts (target 3000)",

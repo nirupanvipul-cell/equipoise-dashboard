@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09T10:32:07.657813+00:00",
+ "generated": "2026-09-09T10:32:22.139630+00:00",
  "commit": "41ace44",
- "generation_file": "dashboard-8a42f2a4.html",
+ "generation_file": "dashboard-770f8fae.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -11,6 +11,12 @@
  "running": [
   {
    "pid": 82775,
+   "label": "registry floor: results-posted arm-level counts",
+   "note": "",
+   "started": "2026-09-09 06:32"
+  },
+  {
+   "pid": 82815,
    "label": "registry floor: results-posted arm-level counts",
    "note": "",
    "started": "2026-09-09 06:32"

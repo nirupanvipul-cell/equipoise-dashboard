@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-09T10:52:22.550937+00:00",
+ "generated": "2026-09-09T16:45:39.225023+00:00",
  "commit": "1b85480",
- "generation_file": "dashboard-a9dee63f.html",
+ "generation_file": "dashboard-7f440f74.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 84188,
-   "label": "store fetch, all routes (target 16400)",
-   "note": "",
-   "started": "2026-09-09 06:52"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

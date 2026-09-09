@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T22:55:15.328131+00:00",
- "commit": "bd1e998",
- "generation_file": "dashboard-00379ebb.html",
+ "generated": "2026-09-09T00:53:04.054194+00:00",
+ "commit": "1b7c0d2",
+ "generation_file": "dashboard-5f86c8fa.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,6 +14,12 @@
    "label": "pre-warm: store PMC-OA texts (target 9600)",
    "note": "",
    "started": "2026-09-08 15:51"
+  },
+  {
+   "pid": 72275,
+   "label": "store fetch, all routes (target 16400)",
+   "note": "",
+   "started": "2026-09-08 20:53"
   }
  ],
  "decisions_pending": [],

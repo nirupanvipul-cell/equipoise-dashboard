@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09T10:33:55.625779+00:00",
+ "generated": "2026-09-09T10:34:43.702547+00:00",
  "commit": "41ace44",
- "generation_file": "dashboard-8e4c9e33.html",
+ "generation_file": "dashboard-d4bf90a9.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,18 +14,6 @@
    "label": "registry floor: results-posted arm-level counts",
    "note": "",
    "started": "2026-09-09 06:32"
-  },
-  {
-   "pid": 82815,
-   "label": "registry floor: results-posted arm-level counts",
-   "note": "",
-   "started": "2026-09-09 06:32"
-  },
-  {
-   "pid": 82844,
-   "label": "registry floor: results-posted arm-level counts",
-   "note": "",
-   "started": "2026-09-09 06:33"
   },
   {
    "pid": 82932,
@@ -62,7 +50,6 @@
   }
  ],
  "recent_decisions": [
-  "D194 \u2014 the registry layer validates the extractor: 92% agreement, 4 real items",
   "D195 \u2014 the registry layer is mined per anchor, not retrospectively",
   "D196 \u2014 the ladder's four holes are built; the entitlement rung validates against ground",
   "D197 \u2014 the first S2 document is the fix-loop measurement, and it gates the other ninete",
@@ -71,10 +58,10 @@
   "D200 \u2014 three measures, three rows, never proxies for one another",
   "D201 \u2014 storability with every rung counted: 31%, and the browser adds almost nothing",
   "D202 \u2014 the axes ARE derivable from the literature: it finds the owner's three unaided",
-  "D203 \u2014 P-117: approved work never idles, enforced by the task registry"
+  "D203 \u2014 P-117: approved work never idles, enforced by the task registry",
+  "D204 \u2014 P-118: approved work is queued at the moment of approval, and every report state"
  ],
  "recent_ledger": [
-  "130 \u2014 The three moves from the owner's r3 read were filed as M-47\u201349, numbers already ",
   "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were",
   "132 \u2014 The set-1 ingest was committed and logged as \"15/15 staged\" when the truth was 1",
   "133 \u2014 SHEET-14 carried unanchored papers: the trial-paper census covered every RESULTS",
@@ -83,7 +70,8 @@
   "136 \u2014 SHEET-14's sets were renumbered 1..N on every regeneration and their earliest-st",
   "137 \u2014 The pacing computed \"safe at 21:01\" from LWW's 13:01 PROCESSING timestamp while ",
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",
-  "139 \u2014 The machine idled 89.3 hours of a 105.7-hour window (85%) while approved work wa"
+  "139 \u2014 The machine idled 89.3 hours of a 105.7-hour window (85%) while approved work wa",
+  "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff"
  ],
  "spend": {
   "rebuild_spend": 34.39,

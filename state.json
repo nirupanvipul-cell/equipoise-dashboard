@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09T00:53:57.347937+00:00",
+ "generated": "2026-09-09T00:56:55.256860+00:00",
  "commit": "1b7c0d2",
- "generation_file": "dashboard-3e1647ba.html",
+ "generation_file": "dashboard-59dc82c1.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -56,7 +56,6 @@
   }
  ],
  "recent_decisions": [
-  "D192 \u2014 the registry floor: ~9,900 trials of public-domain arm-level evidence we own and",
   "D193 \u2014 REGISTRY-ONLY is a first-class grade, enforced at the write",
   "D194 \u2014 the registry layer validates the extractor: 92% agreement, 4 real items",
   "D195 \u2014 the registry layer is mined per anchor, not retrospectively",
@@ -65,7 +64,8 @@
   "D198 \u2014 S2's map builder: the outcome half works, the component half does not, and why",
   "D199 \u2014 the unit-and-range floor: 7 real field errors across the staged set",
   "D200 \u2014 three measures, three rows, never proxies for one another",
-  "D201 \u2014 storability with every rung counted: 31%, and the browser adds almost nothing"
+  "D201 \u2014 storability with every rung counted: 31%, and the browser adds almost nothing",
+  "D202 \u2014 the axes ARE derivable from the literature: it finds the owner's three unaided"
  ],
  "recent_ledger": [
   "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",

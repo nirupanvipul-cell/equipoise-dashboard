@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09T02:50:39.268101+00:00",
+ "generated": "2026-09-09T03:13:31.686020+00:00",
  "commit": "0f0836a",
- "generation_file": "dashboard-b6715fd6.html",
+ "generation_file": "dashboard-d75a73f6.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,12 +14,6 @@
    "label": "pre-warm: store PMC-OA texts (target 9600)",
    "note": "",
    "started": "2026-09-08 15:51"
-  },
-  {
-   "pid": 72369,
-   "label": "extraction of the store (7207 papers)",
-   "note": "",
-   "started": "2026-09-08 20:53"
   }
  ],
  "decisions_pending": [],

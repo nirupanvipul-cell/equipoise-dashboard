@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09T03:19:16.713532+00:00",
+ "generated": "2026-09-09T10:24:34.064585+00:00",
  "commit": "0f0836a",
- "generation_file": "dashboard-cb7b54ad.html",
+ "generation_file": "dashboard-ed04c6fe.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D193 \u2014 REGISTRY-ONLY is a first-class grade, enforced at the write",
   "D194 \u2014 the registry layer validates the extractor: 92% agreement, 4 real items",
   "D195 \u2014 the registry layer is mined per anchor, not retrospectively",
   "D196 \u2014 the ladder's four holes are built; the entitlement rung validates against ground",
@@ -46,10 +45,10 @@
   "D199 \u2014 the unit-and-range floor: 7 real field errors across the staged set",
   "D200 \u2014 three measures, three rows, never proxies for one another",
   "D201 \u2014 storability with every rung counted: 31%, and the browser adds almost nothing",
-  "D202 \u2014 the axes ARE derivable from the literature: it finds the owner's three unaided"
+  "D202 \u2014 the axes ARE derivable from the literature: it finds the owner's three unaided",
+  "D203 \u2014 P-117: approved work never idles, enforced by the task registry"
  ],
  "recent_ledger": [
-  "129 \u2014 The residue re-checker's first run \"recovered\" 113 of 113 \u2014 94 of them via PubMe",
   "130 \u2014 The three moves from the owner's r3 read were filed as M-47\u201349, numbers already ",
   "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were",
   "132 \u2014 The set-1 ingest was committed and logged as \"15/15 staged\" when the truth was 1",
@@ -58,7 +57,8 @@
   "135 \u2014 Ledger 124's failure mode recurred as paperwork rather than data: the iPROVE che",
   "136 \u2014 SHEET-14's sets were renumbered 1..N on every regeneration and their earliest-st",
   "137 \u2014 The pacing computed \"safe at 21:01\" from LWW's 13:01 PROCESSING timestamp while ",
-  "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu"
+  "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",
+  "139 \u2014 The machine idled 89.3 hours of a 105.7-hour window (85%) while approved work wa"
  ],
  "spend": {
   "rebuild_spend": 34.39,

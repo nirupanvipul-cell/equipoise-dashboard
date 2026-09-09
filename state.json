@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-09T10:33:12.939536+00:00",
+ "generated": "2026-09-09T10:33:55.625779+00:00",
  "commit": "41ace44",
- "generation_file": "dashboard-5175649d.html",
+ "generation_file": "dashboard-8e4c9e33.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -24,6 +24,12 @@
   {
    "pid": 82844,
    "label": "registry floor: results-posted arm-level counts",
+   "note": "",
+   "started": "2026-09-09 06:33"
+  },
+  {
+   "pid": 82932,
+   "label": "rung 0: bulk metadata (22000 papers)",
    "note": "",
    "started": "2026-09-09 06:33"
   }

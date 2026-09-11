@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T14:52:27.166041+00:00",
+ "generated": "2026-09-11T14:53:48.820602+00:00",
  "commit": "9730aa1",
- "generation_file": "dashboard-d696a72d.html",
+ "generation_file": "dashboard-83fb294a.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -20,6 +20,12 @@
    "label": "anchor build EQ-VITC",
    "note": "",
    "started": "2026-09-11 10:52"
+  },
+  {
+   "pid": 58135,
+   "label": "component extraction (49 trials)",
+   "note": "",
+   "started": "2026-09-11 10:53"
   }
  ],
  "decisions_pending": [],

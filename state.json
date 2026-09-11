@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T18:10:09.017897+00:00",
+ "generated": "2026-09-11T18:10:10.759928+00:00",
  "commit": "14db1df",
- "generation_file": "dashboard-acab02ab.html",
+ "generation_file": "dashboard-f8493ae9.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -12,6 +12,12 @@
   {
    "pid": 67383,
    "label": "component re-test at full retained n + local-model validation",
+   "note": "",
+   "started": "2026-09-11 14:10"
+  },
+  {
+   "pid": 67383,
+   "label": "local component classification (7 institutional excerpts)",
    "note": "",
    "started": "2026-09-11 14:10"
   }

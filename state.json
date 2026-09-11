@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T03:19:54.128190+00:00",
- "commit": "6e3a9a7",
- "generation_file": "dashboard-d3f19cce.html",
+ "generated": "2026-09-11T04:06:34.275576+00:00",
+ "commit": "d93a851",
+ "generation_file": "dashboard-d8413d5a.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D203 \u2014 P-117: approved work never idles, enforced by the task registry",
   "D204 \u2014 P-118: approved work is queued at the moment of approval, and every report state",
   "D205 \u2014 the small-n re-test is INCONCLUSIVE, and says so",
   "D206 \u2014 two standing comparison rules, from recurrences",
@@ -53,19 +52,20 @@
   "D209 \u2014 the derivation surfaced an axis the owner's hypothesis did not name",
   "D210 \u2014 P-122: the missing 23 are all SUBSCRIBED, not unavailable",
   "D211 \u2014 the three corrections applied",
-  "D212 \u2014 P-123: one failed attempt is not a verdict"
+  "D212 \u2014 P-123: one failed attempt is not a verdict",
+  "D213 \u2014 P-124: the six retries came back; ALVEOLI is a census correction"
  ],
  "recent_ledger": [
-  "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were",
-  "132 \u2014 The set-1 ingest was committed and logged as \"15/15 staged\" when the truth was 1",
-  "133 \u2014 SHEET-14 carried unanchored papers: the trial-paper census covered every RESULTS",
   "134 \u2014 Three check sheets shared one cause \u2014 the registration string, not the data",
   "135 \u2014 Ledger 124's failure mode recurred as paperwork rather than data: the iPROVE che",
   "136 \u2014 SHEET-14's sets were renumbered 1..N on every regeneration and their earliest-st",
   "137 \u2014 The pacing computed \"safe at 21:01\" from LWW's 13:01 PROCESSING timestamp while ",
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",
   "139 \u2014 The machine idled 89.3 hours of a 105.7-hour window (85%) while approved work wa",
-  "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff"
+  "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",
+  "141 \u2014 The kernel porting proof's reference implementation was kept in a session scratc",
+  "142 \u2014 Only 3 of 120 \"no free copy\" verdicts rested on actually observing a paywall.",
+  "143 \u2014 Two drills pinned a moment rather than an invariant and went red as the project "
  ],
  "spend": {
   "rebuild_spend": 34.39,

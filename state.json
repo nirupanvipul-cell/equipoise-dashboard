@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T04:44:54.143362+00:00",
+ "generated": "2026-09-11T04:45:09.656185+00:00",
  "commit": "e0fc296",
- "generation_file": "dashboard-7aaf6bf1.html",
+ "generation_file": "dashboard-f0ba04a4.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D204 \u2014 P-118: approved work is queued at the moment of approval, and every report state",
   "D205 \u2014 the small-n re-test is INCONCLUSIVE, and says so",
   "D206 \u2014 two standing comparison rules, from recurrences",
   "D207 \u2014 retention ruled: A plus B, implemented",
@@ -53,7 +52,8 @@
   "D210 \u2014 P-122: the missing 23 are all SUBSCRIBED, not unavailable",
   "D211 \u2014 the three corrections applied",
   "D212 \u2014 P-123: one failed attempt is not a verdict",
-  "D213 \u2014 P-124: the six retries came back; ALVEOLI is a census correction"
+  "D213 \u2014 P-124: the six retries came back; ALVEOLI is a census correction",
+  "D214 \u2014 P-124 item C1: the porting proof, replaced by something better, and what it foun"
  ],
  "recent_ledger": [
   "135 \u2014 Ledger 124's failure mode recurred as paperwork rather than data: the iPROVE che",

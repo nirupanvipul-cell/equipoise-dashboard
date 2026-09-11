@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T00:26:38.218341+00:00",
+ "generated": "2026-09-11T00:42:43.259988+00:00",
  "commit": "1b85480",
- "generation_file": "dashboard-51cd1c53.html",
+ "generation_file": "dashboard-ecaaffe0.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D195 \u2014 the registry layer is mined per anchor, not retrospectively",
   "D196 \u2014 the ladder's four holes are built; the entitlement rung validates against ground",
   "D197 \u2014 the first S2 document is the fix-loop measurement, and it gates the other ninete",
   "D198 \u2014 S2's map builder: the outcome half works, the component half does not, and why",
@@ -53,7 +52,8 @@
   "D201 \u2014 storability with every rung counted: 31%, and the browser adds almost nothing",
   "D202 \u2014 the axes ARE derivable from the literature: it finds the owner's three unaided",
   "D203 \u2014 P-117: approved work never idles, enforced by the task registry",
-  "D204 \u2014 P-118: approved work is queued at the moment of approval, and every report state"
+  "D204 \u2014 P-118: approved work is queued at the moment of approval, and every report state",
+  "D205 \u2014 the small-n re-test is INCONCLUSIVE, and says so"
  ],
  "recent_ledger": [
   "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were",

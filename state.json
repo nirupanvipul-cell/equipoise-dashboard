@@ -1,27 +1,14 @@
 {
- "generated": "2026-09-11T18:10:20.283746+00:00",
- "commit": "14db1df",
- "generation_file": "dashboard-2a3f4645.html",
+ "generated": "2026-09-11T18:12:45.203982+00:00",
+ "commit": "d0ba3ef",
+ "generation_file": "dashboard-55d13272.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 67383,
-   "label": "component re-test at full retained n + local-model validation",
-   "note": "",
-   "started": "2026-09-11 14:10"
-  },
-  {
-   "pid": 67383,
-   "label": "local component classification (7 institutional excerpts)",
-   "note": "",
-   "started": "2026-09-11 14:10"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

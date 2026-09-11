@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T04:38:37.752571+00:00",
+ "generated": "2026-09-11T04:44:54.143362+00:00",
  "commit": "e0fc296",
- "generation_file": "dashboard-133f34d8.html",
+ "generation_file": "dashboard-7aaf6bf1.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,12 +14,6 @@
    "label": "SHEET-22 ingest (21 papers)",
    "note": "",
    "started": "2026-09-10 22:54"
-  },
-  {
-   "pid": 44928,
-   "label": "access re-check (unsettled not-free verdicts)",
-   "note": "",
-   "started": "2026-09-11 00:38"
   }
  ],
  "decisions_pending": [],
@@ -62,7 +56,6 @@
   "D213 \u2014 P-124: the six retries came back; ALVEOLI is a census correction"
  ],
  "recent_ledger": [
-  "134 \u2014 Three check sheets shared one cause \u2014 the registration string, not the data",
   "135 \u2014 Ledger 124's failure mode recurred as paperwork rather than data: the iPROVE che",
   "136 \u2014 SHEET-14's sets were renumbered 1..N on every regeneration and their earliest-st",
   "137 \u2014 The pacing computed \"safe at 21:01\" from LWW's 13:01 PROCESSING timestamp while ",
@@ -71,7 +64,8 @@
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",
   "141 \u2014 The kernel porting proof's reference implementation was kept in a session scratc",
   "142 \u2014 Only 3 of 120 \"no free copy\" verdicts rested on actually observing a paywall.",
-  "143 \u2014 Two drills pinned a moment rather than an invariant and went red as the project "
+  "143 \u2014 Two drills pinned a moment rather than an invariant and went red as the project ",
+  "144 \u2014 Every standard deviation the registry posts was silently dropped, because Clinic"
  ],
  "spend": {
   "rebuild_spend": 34.39,

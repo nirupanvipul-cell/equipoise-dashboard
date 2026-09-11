@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T04:45:09.656185+00:00",
- "commit": "e0fc296",
- "generation_file": "dashboard-f0ba04a4.html",
+ "generated": "2026-09-11T04:53:53.380377+00:00",
+ "commit": "0f47fba",
+ "generation_file": "dashboard-9cc183bf.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D205 \u2014 the small-n re-test is INCONCLUSIVE, and says so",
   "D206 \u2014 two standing comparison rules, from recurrences",
   "D207 \u2014 retention ruled: A plus B, implemented",
   "D208 \u2014 retention A implemented and backfilled; SHEET-22 issued",
@@ -53,10 +52,10 @@
   "D211 \u2014 the three corrections applied",
   "D212 \u2014 P-123: one failed attempt is not a verdict",
   "D213 \u2014 P-124: the six retries came back; ALVEOLI is a census correction",
-  "D214 \u2014 P-124 item C1: the porting proof, replaced by something better, and what it foun"
+  "D214 \u2014 P-124 item C1: the porting proof, replaced by something better, and what it foun",
+  "D215 \u2014 the replacement kernel proof: what it establishes, and what it does not"
  ],
  "recent_ledger": [
-  "135 \u2014 Ledger 124's failure mode recurred as paperwork rather than data: the iPROVE che",
   "136 \u2014 SHEET-14's sets were renumbered 1..N on every regeneration and their earliest-st",
   "137 \u2014 The pacing computed \"safe at 21:01\" from LWW's 13:01 PROCESSING timestamp while ",
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",
@@ -65,7 +64,8 @@
   "141 \u2014 The kernel porting proof's reference implementation was kept in a session scratc",
   "142 \u2014 Only 3 of 120 \"no free copy\" verdicts rested on actually observing a paywall.",
   "143 \u2014 Two drills pinned a moment rather than an invariant and went red as the project ",
-  "144 \u2014 Every standard deviation the registry posts was silently dropped, because Clinic"
+  "144 \u2014 Every standard deviation the registry posts was silently dropped, because Clinic",
+  "145 \u2014 The registry parser invented a direction for every posted effect estimate."
  ],
  "spend": {
   "rebuild_spend": 34.39,

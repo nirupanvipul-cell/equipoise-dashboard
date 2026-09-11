@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T00:52:30.165218+00:00",
- "commit": "9668b95",
- "generation_file": "dashboard-85bd3732.html",
+ "generated": "2026-09-11T01:32:17.702410+00:00",
+ "commit": "ca3a614",
+ "generation_file": "dashboard-ed4186cd.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,6 +14,12 @@
    "label": "component extraction (2000 trials)",
    "note": "",
    "started": "2026-09-10 20:26"
+  },
+  {
+   "pid": 39828,
+   "label": "retention A backfill (9358 texts)",
+   "note": "",
+   "started": "2026-09-10 21:32"
   }
  ],
  "decisions_pending": [],

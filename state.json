@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T01:32:28.426350+00:00",
+ "generated": "2026-09-11T01:33:23.781931+00:00",
  "commit": "ca3a614",
- "generation_file": "dashboard-e81bd01b.html",
+ "generation_file": "dashboard-9c6b65f4.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,8 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D198 \u2014 S2's map builder: the outcome half works, the component half does not, and why",
-  "D199 \u2014 the unit-and-range floor: 7 real field errors across the staged set",
   "D200 \u2014 three measures, three rows, never proxies for one another",
   "D201 \u2014 storability with every rung counted: 31%, and the browser adds almost nothing",
   "D202 \u2014 the axes ARE derivable from the literature: it finds the owner's three unaided",
@@ -53,7 +51,9 @@
   "D204 \u2014 P-118: approved work is queued at the moment of approval, and every report state",
   "D205 \u2014 the small-n re-test is INCONCLUSIVE, and says so",
   "D206 \u2014 two standing comparison rules, from recurrences",
-  "D207 \u2014 retention ruled: A plus B, implemented"
+  "D207 \u2014 retention ruled: A plus B, implemented",
+  "D208 \u2014 retention A implemented and backfilled; SHEET-22 issued",
+  "D209 \u2014 the derivation surfaced an axis the owner's hypothesis did not name"
  ],
  "recent_ledger": [
   "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were",

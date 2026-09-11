@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T14:29:22.260967+00:00",
+ "generated": "2026-09-11T14:33:50.743513+00:00",
  "commit": "bf9e3f2",
- "generation_file": "dashboard-deb6a3a0.html",
+ "generation_file": "dashboard-87407fba.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -20,6 +20,12 @@
    "label": "component extraction (28 trials)",
    "note": "",
    "started": "2026-09-11 10:29"
+  },
+  {
+   "pid": 57349,
+   "label": "anchor build EQ-ABX-PROPH",
+   "note": "",
+   "started": "2026-09-11 10:33"
   }
  ],
  "decisions_pending": [],

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T14:47:06.678165+00:00",
+ "generated": "2026-09-11T14:51:10.914709+00:00",
  "commit": "9730aa1",
- "generation_file": "dashboard-146d02b3.html",
+ "generation_file": "dashboard-b0300dc6.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -9,12 +9,6 @@
   "technical_total": 263
  },
  "running": [
-  {
-   "pid": 57349,
-   "label": "anchor build EQ-VITC",
-   "note": "",
-   "started": "2026-09-11 10:41"
-  },
   {
    "pid": 58135,
    "label": "anchor build EQ-ABX-PROPH",
@@ -26,12 +20,6 @@
    "label": "component extraction (61 trials)",
    "note": "",
    "started": "2026-09-11 10:44"
-  },
-  {
-   "pid": 57349,
-   "label": "component extraction (49 trials)",
-   "note": "",
-   "started": "2026-09-11 10:47"
   }
  ],
  "decisions_pending": [],

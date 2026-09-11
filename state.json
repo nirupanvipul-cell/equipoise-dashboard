@@ -1,27 +1,14 @@
 {
- "generated": "2026-09-11T15:09:20.978996+00:00",
- "commit": "9730aa1",
- "generation_file": "dashboard-e0e9cace.html",
+ "generated": "2026-09-11T15:15:12.007229+00:00",
+ "commit": "f13080a",
+ "generation_file": "dashboard-7df1aad9.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 58135,
-   "label": "anchor build EQ-VITC",
-   "note": "",
-   "started": "2026-09-11 10:52"
-  },
-  {
-   "pid": 58135,
-   "label": "component extraction (49 trials)",
-   "note": "",
-   "started": "2026-09-11 10:53"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

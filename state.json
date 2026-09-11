@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T13:14:54.026522+00:00",
- "commit": "39710b8",
- "generation_file": "dashboard-699ee01f.html",
+ "generated": "2026-09-11T14:14:53.799512+00:00",
+ "commit": "8694083",
+ "generation_file": "dashboard-393d92ad.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D212 \u2014 P-123: one failed attempt is not a verdict",
   "D213 \u2014 P-124: the six retries came back; ALVEOLI is a census correction",
   "D214 \u2014 P-124 item C1: the porting proof, replaced by something better, and what it foun",
   "D215 \u2014 the replacement kernel proof: what it establishes, and what it does not",
@@ -46,7 +45,8 @@
   "D218 \u2014 B1: the variance probe's first run, and what it found for r3",
   "D219 \u2014 ledger 147: the sheet links were the defect, not the access",
   "D220 \u2014 P-127: every measurement states the question it actually answers",
-  "D221 \u2014 P-127 at the external boundary: the accuracy page"
+  "D221 \u2014 P-127 at the external boundary: the accuracy page",
+  "D222 \u2014 the authoring model is provenance, and it is Fable by default"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

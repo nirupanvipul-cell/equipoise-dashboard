@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T04:06:34.275576+00:00",
- "commit": "d93a851",
- "generation_file": "dashboard-d8413d5a.html",
+ "generated": "2026-09-11T04:38:37.752571+00:00",
+ "commit": "e0fc296",
+ "generation_file": "dashboard-133f34d8.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,6 +14,12 @@
    "label": "SHEET-22 ingest (21 papers)",
    "note": "",
    "started": "2026-09-10 22:54"
+  },
+  {
+   "pid": 44928,
+   "label": "access re-check (unsettled not-free verdicts)",
+   "note": "",
+   "started": "2026-09-11 00:38"
   }
  ],
  "decisions_pending": [],

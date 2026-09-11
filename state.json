@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T02:54:35.090355+00:00",
+ "generated": "2026-09-11T02:55:03.819130+00:00",
  "commit": "cd82c40",
- "generation_file": "dashboard-c1df51ac.html",
+ "generation_file": "dashboard-06ed80af.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -50,8 +50,6 @@
   }
  ],
  "recent_decisions": [
-  "D200 \u2014 three measures, three rows, never proxies for one another",
-  "D201 \u2014 storability with every rung counted: 31%, and the browser adds almost nothing",
   "D202 \u2014 the axes ARE derivable from the literature: it finds the owner's three unaided",
   "D203 \u2014 P-117: approved work never idles, enforced by the task registry",
   "D204 \u2014 P-118: approved work is queued at the moment of approval, and every report state",
@@ -59,7 +57,9 @@
   "D206 \u2014 two standing comparison rules, from recurrences",
   "D207 \u2014 retention ruled: A plus B, implemented",
   "D208 \u2014 retention A implemented and backfilled; SHEET-22 issued",
-  "D209 \u2014 the derivation surfaced an axis the owner's hypothesis did not name"
+  "D209 \u2014 the derivation surfaced an axis the owner's hypothesis did not name",
+  "D210 \u2014 P-122: the missing 23 are all SUBSCRIBED, not unavailable",
+  "D211 \u2014 the three corrections applied"
  ],
  "recent_ledger": [
   "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were",

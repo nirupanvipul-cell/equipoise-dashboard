@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T10:38:53.606085+00:00",
- "commit": "e73443a",
- "generation_file": "dashboard-30faeb0c.html",
+ "generated": "2026-09-11T10:42:51.596444+00:00",
+ "commit": "fc89530",
+ "generation_file": "dashboard-266514bf.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D209 \u2014 the derivation surfaced an axis the owner's hypothesis did not name",
   "D210 \u2014 P-122: the missing 23 are all SUBSCRIBED, not unavailable",
   "D211 \u2014 the three corrections applied",
   "D212 \u2014 P-123: one failed attempt is not a verdict",
@@ -46,10 +45,10 @@
   "D215 \u2014 the replacement kernel proof: what it establishes, and what it does not",
   "D216 \u2014 P-125: a value that matched nothing must never look like no value",
   "D217 \u2014 P-126: the same rule at the model boundary",
-  "D218 \u2014 B1: the variance probe's first run, and what it found for r3"
+  "D218 \u2014 B1: the variance probe's first run, and what it found for r3",
+  "D219 \u2014 ledger 147: the sheet links were the defect, not the access"
  ],
  "recent_ledger": [
-  "137 \u2014 The pacing computed \"safe at 21:01\" from LWW's 13:01 PROCESSING timestamp while ",
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",
   "139 \u2014 The machine idled 89.3 hours of a 105.7-hour window (85%) while approved work wa",
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",
@@ -58,7 +57,8 @@
   "143 \u2014 Two drills pinned a moment rather than an invariant and went red as the project ",
   "144 \u2014 Every standard deviation the registry posts was silently dropped, because Clinic",
   "145 \u2014 The registry parser invented a direction for every posted effect estimate.",
-  "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of"
+  "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",
+  "147 \u2014 Every proxied link on a sheet was percent-encoded, so EZproxy passed the request"
  ],
  "spend": {
   "rebuild_spend": 34.39,

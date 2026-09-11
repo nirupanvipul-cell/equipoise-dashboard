@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T02:55:03.819130+00:00",
- "commit": "cd82c40",
- "generation_file": "dashboard-06ed80af.html",
+ "generated": "2026-09-11T03:12:50.764002+00:00",
+ "commit": "6e3a9a7",
+ "generation_file": "dashboard-8f8d0927.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -9,12 +9,6 @@
   "technical_total": 263
  },
  "running": [
-  {
-   "pid": 38869,
-   "label": "component extraction (2000 trials)",
-   "note": "",
-   "started": "2026-09-10 20:26"
-  },
   {
    "pid": 40881,
    "label": "SHEET-22 ingest (21 papers)",

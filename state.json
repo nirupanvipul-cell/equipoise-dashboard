@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T00:42:43.259988+00:00",
- "commit": "1b85480",
- "generation_file": "dashboard-ecaaffe0.html",
+ "generated": "2026-09-11T00:51:17.717485+00:00",
+ "commit": "9668b95",
+ "generation_file": "dashboard-2c572cc0.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,6 +14,12 @@
    "label": "component extraction (2000 trials)",
    "note": "",
    "started": "2026-09-10 20:26"
+  },
+  {
+   "pid": 39328,
+   "label": "ARDS document: enumerate, map, axes",
+   "note": "",
+   "started": "2026-09-10 20:51"
   }
  ],
  "decisions_pending": [],

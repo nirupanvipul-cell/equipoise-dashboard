@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T14:51:12.541888+00:00",
+ "generated": "2026-09-11T14:51:14.219660+00:00",
  "commit": "9730aa1",
- "generation_file": "dashboard-d473ef86.html",
+ "generation_file": "dashboard-21134d30.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -20,6 +20,12 @@
    "label": "component extraction (61 trials)",
    "note": "",
    "started": "2026-09-11 10:44"
+  },
+  {
+   "pid": 57349,
+   "label": "anchor build EQ-CBD",
+   "note": "",
+   "started": "2026-09-11 10:51"
   }
  ],
  "decisions_pending": [],

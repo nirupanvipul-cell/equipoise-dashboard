@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-11T15:15:13.573080+00:00",
+ "generated": "2026-09-11T15:15:15.111376+00:00",
  "commit": "f13080a",
- "generation_file": "dashboard-1b6ba889.html",
+ "generation_file": "dashboard-0b6c85f6.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 58135,
+   "label": "anchor build EQ-CBD",
+   "note": "",
+   "started": "2026-09-11 11:15"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

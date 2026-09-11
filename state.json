@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-11T08:42:42.038011+00:00",
+ "generated": "2026-09-11T08:43:16.031930+00:00",
  "commit": "d5fbb2a",
- "generation_file": "dashboard-0092c46c.html",
+ "generation_file": "dashboard-10b1c211.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 48282,
-   "label": "extraction of the store (9 papers)",
-   "note": "",
-   "started": "2026-09-11 04:42"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

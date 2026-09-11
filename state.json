@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T10:33:48.837855+00:00",
- "commit": "d8a5fab",
- "generation_file": "dashboard-141168a8.html",
+ "generated": "2026-09-11T10:38:53.606085+00:00",
+ "commit": "e73443a",
+ "generation_file": "dashboard-30faeb0c.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D208 \u2014 retention A implemented and backfilled; SHEET-22 issued",
   "D209 \u2014 the derivation surfaced an axis the owner's hypothesis did not name",
   "D210 \u2014 P-122: the missing 23 are all SUBSCRIBED, not unavailable",
   "D211 \u2014 the three corrections applied",
@@ -46,7 +45,8 @@
   "D214 \u2014 P-124 item C1: the porting proof, replaced by something better, and what it foun",
   "D215 \u2014 the replacement kernel proof: what it establishes, and what it does not",
   "D216 \u2014 P-125: a value that matched nothing must never look like no value",
-  "D217 \u2014 P-126: the same rule at the model boundary"
+  "D217 \u2014 P-126: the same rule at the model boundary",
+  "D218 \u2014 B1: the variance probe's first run, and what it found for r3"
  ],
  "recent_ledger": [
   "137 \u2014 The pacing computed \"safe at 21:01\" from LWW's 13:01 PROCESSING timestamp while ",

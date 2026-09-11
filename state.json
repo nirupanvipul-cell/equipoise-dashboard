@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-11T05:05:00.583101+00:00",
+ "generated": "2026-09-11T05:27:15.034694+00:00",
  "commit": "d5fbb2a",
- "generation_file": "dashboard-d56c4e5f.html",
+ "generation_file": "dashboard-ab4f5cba.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 45961,
-   "label": "SHEET-23 ingest (6 papers)",
-   "note": "",
-   "started": "2026-09-11 01:05"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

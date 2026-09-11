@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T04:53:53.380377+00:00",
- "commit": "0f47fba",
- "generation_file": "dashboard-9cc183bf.html",
+ "generated": "2026-09-11T05:05:00.547075+00:00",
+ "commit": "d5fbb2a",
+ "generation_file": "dashboard-88eaa7ce.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -10,10 +10,10 @@
  },
  "running": [
   {
-   "pid": 40881,
-   "label": "SHEET-22 ingest (21 papers)",
+   "pid": 45961,
+   "label": "SHEET-23 ingest (6 papers)",
    "note": "",
-   "started": "2026-09-10 22:54"
+   "started": "2026-09-11 01:05"
   }
  ],
  "decisions_pending": [],

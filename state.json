@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T03:12:50.764002+00:00",
+ "generated": "2026-09-11T03:19:54.128190+00:00",
  "commit": "6e3a9a7",
- "generation_file": "dashboard-8f8d0927.html",
+ "generation_file": "dashboard-d3f19cce.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D202 \u2014 the axes ARE derivable from the literature: it finds the owner's three unaided",
   "D203 \u2014 P-117: approved work never idles, enforced by the task registry",
   "D204 \u2014 P-118: approved work is queued at the moment of approval, and every report state",
   "D205 \u2014 the small-n re-test is INCONCLUSIVE, and says so",
@@ -53,7 +52,8 @@
   "D208 \u2014 retention A implemented and backfilled; SHEET-22 issued",
   "D209 \u2014 the derivation surfaced an axis the owner's hypothesis did not name",
   "D210 \u2014 P-122: the missing 23 are all SUBSCRIBED, not unavailable",
-  "D211 \u2014 the three corrections applied"
+  "D211 \u2014 the three corrections applied",
+  "D212 \u2014 P-123: one failed attempt is not a verdict"
  ],
  "recent_ledger": [
   "131 \u2014 The dashboard's RUNNING feed showed running: [] while two background shells were",

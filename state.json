@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T14:41:43.191115+00:00",
+ "generated": "2026-09-11T14:43:29.889019+00:00",
  "commit": "b915fd9",
- "generation_file": "dashboard-70f9bcba.html",
+ "generation_file": "dashboard-6bb77d7b.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,6 +14,12 @@
    "label": "anchor build EQ-VITC",
    "note": "",
    "started": "2026-09-11 10:41"
+  },
+  {
+   "pid": 58135,
+   "label": "anchor build EQ-ABX-PROPH",
+   "note": "",
+   "started": "2026-09-11 10:43"
   }
  ],
  "decisions_pending": [],

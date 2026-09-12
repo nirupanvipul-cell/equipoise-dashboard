@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-12T19:01:42.678061+00:00",
+ "generated": "2026-09-12T19:01:44.000450+00:00",
  "commit": "6beda0b",
- "generation_file": "dashboard-bede6805.html",
+ "generation_file": "dashboard-0291b0ce.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 21352,
+   "label": "anchor build EQ-SPINAL-GA-HIP",
+   "note": "",
+   "started": "2026-09-12 15:01"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

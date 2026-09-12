@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-11T21:42:19.814621+00:00",
- "commit": "35153b3",
- "generation_file": "dashboard-02acb6c6.html",
+ "generated": "2026-09-12T00:41:01.836720+00:00",
+ "commit": "b51edc0",
+ "generation_file": "dashboard-42def48f.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D215 \u2014 the replacement kernel proof: what it establishes, and what it does not",
   "D216 \u2014 P-125: a value that matched nothing must never look like no value",
   "D217 \u2014 P-126: the same rule at the model boundary",
   "D218 \u2014 B1: the variance probe's first run, and what it found for r3",
@@ -46,7 +45,8 @@
   "D221 \u2014 P-127 at the external boundary: the accuracy page",
   "D222 \u2014 the authoring model is provenance, and it is Fable by default",
   "D223 \u2014 the fix loop hit D197's line; the authoring rules it produced",
-  "D224 \u2014 the owner's two re-test items: results, stated separately"
+  "D224 \u2014 the owner's two re-test items: results, stated separately",
+  "D225 \u2014 the outside-family review of every block report"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-12T00:41:01.836720+00:00",
- "commit": "b51edc0",
- "generation_file": "dashboard-42def48f.html",
+ "generated": "2026-09-12T17:53:56.335602+00:00",
+ "commit": "f61a2dc",
+ "generation_file": "dashboard-4a7c64fa.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D216 \u2014 P-125: a value that matched nothing must never look like no value",
   "D217 \u2014 P-126: the same rule at the model boundary",
   "D218 \u2014 B1: the variance probe's first run, and what it found for r3",
   "D219 \u2014 ledger 147: the sheet links were the defect, not the access",
@@ -46,7 +45,8 @@
   "D222 \u2014 the authoring model is provenance, and it is Fable by default",
   "D223 \u2014 the fix loop hit D197's line; the authoring rules it produced",
   "D224 \u2014 the owner's two re-test items: results, stated separately",
-  "D225 \u2014 the outside-family review of every block report"
+  "D225 \u2014 the outside-family review of every block report",
+  "D226 \u2014 batch selection corrected: demand, never cost (owner, 12 Sep 2026)"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-12T22:56:17.386247+00:00",
+ "generated": "2026-09-12T22:56:17.835774+00:00",
  "commit": "6beda0b",
- "generation_file": "dashboard-85b8a8ad.html",
+ "generation_file": "dashboard-bc8b9521.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -30,6 +30,12 @@
   {
    "pid": 31859,
    "label": "component extraction (85 trials)",
+   "note": "",
+   "started": "2026-09-12 18:56"
+  },
+  {
+   "pid": 31861,
+   "label": "component extraction (27 trials)",
    "note": "",
    "started": "2026-09-12 18:56"
   }

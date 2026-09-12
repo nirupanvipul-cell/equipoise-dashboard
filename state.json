@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-12T18:27:02.842560+00:00",
+ "generated": "2026-09-12T18:27:04.188294+00:00",
  "commit": "6beda0b",
- "generation_file": "dashboard-e764cf1c.html",
+ "generation_file": "dashboard-cc93ecb4.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 21352,
+   "label": "anchor build EQ-TXA-NONCARDIAC",
+   "note": "",
+   "started": "2026-09-12 14:27"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

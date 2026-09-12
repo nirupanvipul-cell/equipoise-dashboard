@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-12T22:55:21.311250+00:00",
+ "generated": "2026-09-12T22:56:06.292815+00:00",
  "commit": "6beda0b",
- "generation_file": "dashboard-600f5e1e.html",
+ "generation_file": "dashboard-a6793777.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,6 +14,12 @@
    "label": "anchor build EQ-FLUIDS-ABDO",
    "note": "",
    "started": "2026-09-12 18:55"
+  },
+  {
+   "pid": 31865,
+   "label": "component extraction (4 trials)",
+   "note": "",
+   "started": "2026-09-12 18:56"
   }
  ],
  "decisions_pending": [],

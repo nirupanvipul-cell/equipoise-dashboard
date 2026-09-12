@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-12T19:01:44.000450+00:00",
+ "generated": "2026-09-12T19:03:03.488491+00:00",
  "commit": "6beda0b",
- "generation_file": "dashboard-0291b0ce.html",
+ "generation_file": "dashboard-191d846e.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,6 +14,12 @@
    "label": "anchor build EQ-SPINAL-GA-HIP",
    "note": "",
    "started": "2026-09-12 15:01"
+  },
+  {
+   "pid": 21352,
+   "label": "component extraction (4 trials)",
+   "note": "",
+   "started": "2026-09-12 15:03"
   }
  ],
  "decisions_pending": [],

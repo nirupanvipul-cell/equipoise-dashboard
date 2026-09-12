@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-12T22:56:33.529284+00:00",
- "commit": "6beda0b",
- "generation_file": "dashboard-4faeea87.html",
+ "generated": "2026-09-12T22:56:52.529896+00:00",
+ "commit": "a0315d3",
+ "generation_file": "dashboard-b769a86c.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -68,7 +68,6 @@
   }
  ],
  "recent_decisions": [
-  "D217 \u2014 P-126: the same rule at the model boundary",
   "D218 \u2014 B1: the variance probe's first run, and what it found for r3",
   "D219 \u2014 ledger 147: the sheet links were the defect, not the access",
   "D220 \u2014 P-127: every measurement states the question it actually answers",
@@ -77,7 +76,8 @@
   "D223 \u2014 the fix loop hit D197's line; the authoring rules it produced",
   "D224 \u2014 the owner's two re-test items: results, stated separately",
   "D225 \u2014 the outside-family review of every block report",
-  "D226 \u2014 batch selection corrected: demand, never cost (owner, 12 Sep 2026)"
+  "D226 \u2014 batch selection corrected: demand, never cost (owner, 12 Sep 2026)",
+  "D227 \u2014 the recurred blocker classes become render-time checks (owner, 12 Sep 2026)"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

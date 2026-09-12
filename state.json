@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-12T17:56:47.543484+00:00",
+ "generated": "2026-09-12T17:59:54.936859+00:00",
  "commit": "6beda0b",
- "generation_file": "dashboard-ed64663c.html",
+ "generation_file": "dashboard-b99122ba.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -14,6 +14,12 @@
    "label": "anchor build EQ-SUGAMMADEX",
    "note": "",
    "started": "2026-09-12 13:56"
+  },
+  {
+   "pid": 21352,
+   "label": "component extraction (56 trials)",
+   "note": "",
+   "started": "2026-09-12 13:59"
   }
  ],
  "decisions_pending": [],

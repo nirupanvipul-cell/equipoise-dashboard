@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-13T21:25:06.427582+00:00",
+ "generated": "2026-09-13T21:25:51.927036+00:00",
  "commit": "b0a202f",
- "generation_file": "dashboard-5a567947.html",
+ "generation_file": "dashboard-f12085b5.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D228 \u2014 the pre-read sheet before every batch gate (owner, 13 Sep 2026)",
   "D229 \u2014 ledger 148: the cap meter read itself wrong (13 Sep 2026)",
   "D230 \u2014 ledger 149: five free PDFs deleted by the intake's check path (13 Sep 2026)",
   "D233 \u2014 RC-8: a baseline value is not a result (13 Sep 2026)",
@@ -46,7 +45,8 @@
   "D234 \u2014 ledger 152: the fix reproduced the fault, one level down (13 Sep 2026)",
   "D235 \u2014 batch-2 round 1: the blocker classes, and where each was fixed (13 Sep 2026)",
   "D236 \u2014 the published documents survived a day of concurrent engine edits (13 Sep 2026)",
-  "D237 \u2014 a declared measurement that reads itself (13 Sep 2026)"
+  "D237 \u2014 a declared measurement that reads itself (13 Sep 2026)",
+  "D238 \u2014 SHEET-25 closed; the first pre-read sheet listed six papers the machine already "
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

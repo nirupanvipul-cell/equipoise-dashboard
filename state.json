@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-13T19:52:20.050097+00:00",
- "commit": "4ac66f2",
- "generation_file": "dashboard-545284ee.html",
+ "generated": "2026-09-13T19:55:15.174676+00:00",
+ "commit": "33d4793",
+ "generation_file": "dashboard-8e0cce6a.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,7 @@
   "D228 \u2014 the pre-read sheet before every batch gate (owner, 13 Sep 2026)",
   "D229 \u2014 ledger 148: the cap meter read itself wrong (13 Sep 2026)",
   "D230 \u2014 ledger 149: five free PDFs deleted by the intake's check path (13 Sep 2026)",
-  "D230 \u2014 RC-8: a baseline value is not a result (13 Sep 2026)",
+  "D233 \u2014 RC-8: a baseline value is not a result (13 Sep 2026)",
   "D231 \u2014 ledger 150: the intake check reported a missing reference as a disagreement (13 ",
   "D232 \u2014 ledger 151: the literal \"None\" in a clinical table, and a lint three composers n"
  ],

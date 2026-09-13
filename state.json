@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-13T19:56:03.774300+00:00",
+ "generated": "2026-09-13T19:57:48.478027+00:00",
  "commit": "895506c",
- "generation_file": "dashboard-70c4dc06.html",
+ "generation_file": "dashboard-f0de0af7.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D224 \u2014 the owner's two re-test items: results, stated separately",
   "D225 \u2014 the outside-family review of every block report",
   "D226 \u2014 batch selection corrected: demand, never cost (owner, 12 Sep 2026)",
   "D227 \u2014 the recurred blocker classes become render-time checks (owner, 12 Sep 2026)",
@@ -46,7 +45,8 @@
   "D230 \u2014 ledger 149: five free PDFs deleted by the intake's check path (13 Sep 2026)",
   "D233 \u2014 RC-8: a baseline value is not a result (13 Sep 2026)",
   "D231 \u2014 ledger 150: the intake check reported a missing reference as a disagreement (13 ",
-  "D232 \u2014 ledger 151: the literal \"None\" in a clinical table, and a lint three composers n"
+  "D232 \u2014 ledger 151: the literal \"None\" in a clinical table, and a lint three composers n",
+  "D234 \u2014 ledger 152: the fix reproduced the fault, one level down (13 Sep 2026)"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

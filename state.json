@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-13T19:16:48.931890+00:00",
+ "generated": "2026-09-13T19:20:06.301886+00:00",
  "commit": "b8c2721",
- "generation_file": "dashboard-0ba51282.html",
+ "generation_file": "dashboard-558377a6.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D223 \u2014 the fix loop hit D197's line; the authoring rules it produced",
   "D224 \u2014 the owner's two re-test items: results, stated separately",
   "D225 \u2014 the outside-family review of every block report",
   "D226 \u2014 batch selection corrected: demand, never cost (owner, 12 Sep 2026)",
@@ -46,7 +45,8 @@
   "D229 \u2014 ledger 148: the cap meter read itself wrong (13 Sep 2026)",
   "D230 \u2014 ledger 149: five free PDFs deleted by the intake's check path (13 Sep 2026)",
   "D230 \u2014 RC-8: a baseline value is not a result (13 Sep 2026)",
-  "D231 \u2014 ledger 150: the intake check reported a missing reference as a disagreement (13 "
+  "D231 \u2014 ledger 150: the intake check reported a missing reference as a disagreement (13 ",
+  "D232 \u2014 ledger 151: the literal \"None\" in a clinical table, and a lint three composers n"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

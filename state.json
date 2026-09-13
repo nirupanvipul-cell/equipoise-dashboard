@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-13T19:09:10.691388+00:00",
- "commit": "49d01cb",
- "generation_file": "dashboard-d6714710.html",
+ "generated": "2026-09-13T19:11:19.198765+00:00",
+ "commit": "8401725",
+ "generation_file": "dashboard-9842f3b2.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D220 \u2014 P-127: every measurement states the question it actually answers",
-  "D221 \u2014 P-127 at the external boundary: the accuracy page",
   "D222 \u2014 the authoring model is provenance, and it is Fable by default",
   "D223 \u2014 the fix loop hit D197's line; the authoring rules it produced",
   "D224 \u2014 the owner's two re-test items: results, stated separately",
@@ -46,7 +44,9 @@
   "D226 \u2014 batch selection corrected: demand, never cost (owner, 12 Sep 2026)",
   "D227 \u2014 the recurred blocker classes become render-time checks (owner, 12 Sep 2026)",
   "D228 \u2014 the pre-read sheet before every batch gate (owner, 13 Sep 2026)",
-  "D229 \u2014 ledger 148: the cap meter read itself wrong (13 Sep 2026)"
+  "D229 \u2014 ledger 148: the cap meter read itself wrong (13 Sep 2026)",
+  "D230 \u2014 ledger 149: five free PDFs deleted by the intake's check path (13 Sep 2026)",
+  "D230 \u2014 RC-8: a baseline value is not a result (13 Sep 2026)"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

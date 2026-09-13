@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-13T19:59:26.180084+00:00",
- "commit": "8037b61",
- "generation_file": "dashboard-b4f2a0e5.html",
+ "generated": "2026-09-13T19:59:56.336672+00:00",
+ "commit": "6606e3d",
+ "generation_file": "dashboard-083581a7.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D225 \u2014 the outside-family review of every block report",
   "D226 \u2014 batch selection corrected: demand, never cost (owner, 12 Sep 2026)",
   "D227 \u2014 the recurred blocker classes become render-time checks (owner, 12 Sep 2026)",
   "D228 \u2014 the pre-read sheet before every batch gate (owner, 13 Sep 2026)",
@@ -46,7 +45,8 @@
   "D233 \u2014 RC-8: a baseline value is not a result (13 Sep 2026)",
   "D231 \u2014 ledger 150: the intake check reported a missing reference as a disagreement (13 ",
   "D232 \u2014 ledger 151: the literal \"None\" in a clinical table, and a lint three composers n",
-  "D234 \u2014 ledger 152: the fix reproduced the fault, one level down (13 Sep 2026)"
+  "D234 \u2014 ledger 152: the fix reproduced the fault, one level down (13 Sep 2026)",
+  "D235 \u2014 batch-2 round 1: the blocker classes, and where each was fixed (13 Sep 2026)"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

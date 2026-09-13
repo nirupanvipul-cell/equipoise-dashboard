@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-13T22:07:04.567335+00:00",
- "commit": "b7b42e4",
- "generation_file": "dashboard-50951824.html",
+ "generated": "2026-09-13T22:07:38.002405+00:00",
+ "commit": "722b42c",
+ "generation_file": "dashboard-4925ffb9.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D230 \u2014 ledger 149: five free PDFs deleted by the intake's check path (13 Sep 2026)",
   "D233 \u2014 RC-8: a baseline value is not a result (13 Sep 2026)",
   "D231 \u2014 ledger 150: the intake check reported a missing reference as a disagreement (13 ",
   "D232 \u2014 ledger 151: the literal \"None\" in a clinical table, and a lint three composers n",
@@ -46,7 +45,8 @@
   "D236 \u2014 the published documents survived a day of concurrent engine edits (13 Sep 2026)",
   "D237 \u2014 a declared measurement that reads itself (13 Sep 2026)",
   "D238 \u2014 SHEET-25 closed; the first pre-read sheet listed six papers the machine already ",
-  "D238 \u2014 the drift check derives its own coverage, and found drift on its first run (13 S"
+  "D238 \u2014 the drift check derives its own coverage, and found drift on its first run (13 S",
+  "D239 \u2014 a document emitted, then its producer changed: fluids re-gated (13 Sep 2026)"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-13T19:14:40.406635+00:00",
+ "generated": "2026-09-13T19:14:55.207649+00:00",
  "commit": "b2906bf",
- "generation_file": "dashboard-90d97583.html",
+ "generation_file": "dashboard-2a15dddb.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D222 \u2014 the authoring model is provenance, and it is Fable by default",
   "D223 \u2014 the fix loop hit D197's line; the authoring rules it produced",
   "D224 \u2014 the owner's two re-test items: results, stated separately",
   "D225 \u2014 the outside-family review of every block report",
@@ -46,7 +45,8 @@
   "D228 \u2014 the pre-read sheet before every batch gate (owner, 13 Sep 2026)",
   "D229 \u2014 ledger 148: the cap meter read itself wrong (13 Sep 2026)",
   "D230 \u2014 ledger 149: five free PDFs deleted by the intake's check path (13 Sep 2026)",
-  "D230 \u2014 RC-8: a baseline value is not a result (13 Sep 2026)"
+  "D230 \u2014 RC-8: a baseline value is not a result (13 Sep 2026)",
+  "D231 \u2014 ledger 150: the intake check reported a missing reference as a disagreement (13 "
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

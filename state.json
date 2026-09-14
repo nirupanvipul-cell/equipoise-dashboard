@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T18:51:13.414291+00:00",
- "commit": "233843f",
- "generation_file": "dashboard-54063e88.html",
+ "generated": "2026-09-14T19:09:10.963454+00:00",
+ "commit": "6e0b520",
+ "generation_file": "dashboard-c777e6dc.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -49,7 +49,6 @@
   "D278 \u2014 the Handbook stratum's composition proves the owner's circularity point, and the"
  ],
  "recent_ledger": [
-  "139 \u2014 The machine idled 89.3 hours of a 105.7-hour window (85%) while approved work wa",
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",
   "141 \u2014 The kernel porting proof's reference implementation was kept in a session scratc",
   "142 \u2014 Only 3 of 120 \"no free copy\" verdicts rested on actually observing a paywall.",
@@ -58,7 +57,8 @@
   "145 \u2014 The registry parser invented a direction for every posted effect estimate.",
   "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",
   "147 \u2014 Every proxied link on a sheet was percent-encoded, so EZproxy passed the request",
-  "148 \u2014 An aggregation that grouped in chunks and never merged across them returned a nu"
+  "148 \u2014 An aggregation that grouped in chunks and never merged across them returned a nu",
+  "149 \u2014 A batch identifier built from content text collided and the whole batch was refu"
  ],
  "spend": {
   "rebuild_spend": 34.39,

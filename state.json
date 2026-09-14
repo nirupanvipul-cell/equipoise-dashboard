@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T20:09:45.198626+00:00",
- "commit": "bdbba9c",
- "generation_file": "dashboard-fcebed00.html",
+ "generated": "2026-09-14T21:05:15.435033+00:00",
+ "commit": "064520c",
+ "generation_file": "dashboard-3e16b728.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D272 \u2014 item 4, the size of the twin-review problem across all of medicine, measured fro",
-  "D273 \u2014 the silent half, measured: three quarters of design divergences are unexplained,",
   "D274 \u2014 the yield map: the owner's instinct about WHERE to look is right, his reason for",
   "D275 \u2014 item 4, absence by pattern: nothing clears the stated threshold, and the near-mi",
   "D276 \u2014 owner rulings A, B and C, with B's status declared BEFORE it runs (14 Sep 2026, ",
@@ -46,7 +44,9 @@
   "D278 \u2014 the Handbook stratum's composition proves the owner's circularity point, and the",
   "D279 \u2014 the twin hypothesis holds at 57% and 62% on two independent sets; and a correcti",
   "D280 \u2014 the matcher validation and the Handbook vocabulary comparison, both SPECIFIED IN",
-  "D281 \u2014 no matcher is usable, and the absence null survives all three anyway (14 Sep 202"
+  "D281 \u2014 no matcher is usable, and the absence null survives all three anyway (14 Sep 202",
+  "D282 \u2014 the union matcher, specified before it is scored, and a standing rule about sing",
+  "D283 \u2014 the union clears at 1.000 / 0.864, and item 4's null holds on all five anchors u"
  ],
  "recent_ledger": [
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",

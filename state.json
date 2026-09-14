@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T10:02:30.386299+00:00",
- "commit": "23a636e",
- "generation_file": "dashboard-c87a8a75.html",
+ "generated": "2026-09-14T10:14:21.081852+00:00",
+ "commit": "dd73dd0",
+ "generation_file": "dashboard-30179561.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D242 \u2014 the verification levers (owner, 13 Sep 2026 evening; measurement appended at clo",
   "D243 \u2014 a resolved refusal looked exactly like an open one (13 Sep 2026)",
   "D244 \u2014 the same fault a third time, and the fix for it had missed this copy (13 Sep 202",
   "D245 \u2014 gap item 1 closed: the classifier's unclear rate (13 Sep 2026)",
@@ -46,7 +45,8 @@
   "D248 \u2014 A2 calibration: the cheap tier is not adopted for closed mode (14 Sep 2026)",
   "D249 \u2014 step 3 clustering: Ward linkage replaces average linkage on embeddings (14 Sep 2",
   "D250 \u2014 step 3 clustering: spherical k-means replaces Ward (14 Sep 2026, supersedes D249",
-  "D251 \u2014 the site index dropped batch 1; the index is now derived from the register (14 S"
+  "D251 \u2014 the site index dropped batch 1; the index is now derived from the register (14 S",
+  "D252 \u2014 DOC-EQ-0301-r3 superseded by DOC-EQ-0301-OR-r1 (owner, 14 Sep 2026, A1)"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

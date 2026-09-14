@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T17:56:22.298885+00:00",
- "commit": "c420698",
- "generation_file": "dashboard-ea945fc4.html",
+ "generated": "2026-09-14T18:48:09.359931+00:00",
+ "commit": "5d9948b",
+ "generation_file": "dashboard-e3d4e1e5.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D266 \u2014 the repertoire test: critics do have small stable repertoires, and their alignme",
-  "D267 \u2014 A1, B1, C1: the derivation and gate sets move to an unbiased random pool; the ow",
   "D268 \u2014 design divergence and twin reviews: preflight correction, the two counts, and th",
   "D269 \u2014 publication date as the ordering key: measured, and the cap is fields rather tha",
   "D270 \u2014 twin reviews widened past the nine anchors: 39,919 reviews, and the screen that ",
@@ -46,10 +44,11 @@
   "D272 \u2014 item 4, the size of the twin-review problem across all of medicine, measured fro",
   "D273 \u2014 the silent half, measured: three quarters of design divergences are unexplained,",
   "D274 \u2014 the yield map: the owner's instinct about WHERE to look is right, his reason for",
-  "D275 \u2014 item 4, absence by pattern: nothing clears the stated threshold, and the near-mi"
+  "D275 \u2014 item 4, absence by pattern: nothing clears the stated threshold, and the near-mi",
+  "D276 \u2014 owner rulings A, B and C, with B's status declared BEFORE it runs (14 Sep 2026, ",
+  "D277 \u2014 the chunk-merge defect recorded as ledger 148, the standing check added, and eve"
  ],
  "recent_ledger": [
-  "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",
   "139 \u2014 The machine idled 89.3 hours of a 105.7-hour window (85%) while approved work wa",
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",
   "141 \u2014 The kernel porting proof's reference implementation was kept in a session scratc",
@@ -58,7 +57,8 @@
   "144 \u2014 Every standard deviation the registry posts was silently dropped, because Clinic",
   "145 \u2014 The registry parser invented a direction for every posted effect estimate.",
   "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",
-  "147 \u2014 Every proxied link on a sheet was percent-encoded, so EZproxy passed the request"
+  "147 \u2014 Every proxied link on a sheet was percent-encoded, so EZproxy passed the request",
+  "148 \u2014 An aggregation that grouped in chunks and never merged across them returned a nu"
  ],
  "spend": {
   "rebuild_spend": 34.39,

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T04:11:43.157346+00:00",
- "commit": "433057b",
- "generation_file": "dashboard-266a0950.html",
+ "generated": "2026-09-14T04:17:07.364634+00:00",
+ "commit": "407628a",
+ "generation_file": "dashboard-02845e93.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D238 \u2014 the drift check derives its own coverage, and found drift on its first run (13 S",
   "D239 \u2014 a document emitted, then its producer changed: fluids re-gated (13 Sep 2026)",
   "D240 \u2014 the pre-read ingest closed; the refusals are one class, not eight faults (13 Sep",
   "D241 \u2014 B1: the plausibility floor refuses the field, not the paper (owner, 13 Sep 2026)",
@@ -46,7 +45,8 @@
   "D244 \u2014 the same fault a third time, and the fix for it had missed this copy (13 Sep 202",
   "D245 \u2014 gap item 1 closed: the classifier's unclear rate (13 Sep 2026)",
   "D246 \u2014 gap item 2 triaged, fix queued: the kernel's 80 disagreements (13 Sep 2026)",
-  "D247 \u2014 numpy and scipy added as dependencies for step 3 at full scale (14 Sep 2026)"
+  "D247 \u2014 numpy and scipy added as dependencies for step 3 at full scale (14 Sep 2026)",
+  "D248 \u2014 A2 calibration: the cheap tier is not adopted for closed mode (14 Sep 2026)"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T02:23:20.599380+00:00",
- "commit": "4eef4dc",
- "generation_file": "dashboard-0a8d6218.html",
+ "generated": "2026-09-14T02:25:07.762981+00:00",
+ "commit": "1b4eb9b",
+ "generation_file": "dashboard-5bee08e4.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D235 \u2014 batch-2 round 1: the blocker classes, and where each was fixed (13 Sep 2026)",
   "D236 \u2014 the published documents survived a day of concurrent engine edits (13 Sep 2026)",
   "D237 \u2014 a declared measurement that reads itself (13 Sep 2026)",
   "D238 \u2014 SHEET-25 closed; the first pre-read sheet listed six papers the machine already ",
@@ -53,7 +52,8 @@
   "D240 \u2014 the pre-read ingest closed; the refusals are one class, not eight faults (13 Sep",
   "D241 \u2014 B1: the plausibility floor refuses the field, not the paper (owner, 13 Sep 2026)",
   "D242 \u2014 the verification levers (owner, 13 Sep 2026 evening; measurement appended at clo",
-  "D243 \u2014 a resolved refusal looked exactly like an open one (13 Sep 2026)"
+  "D243 \u2014 a resolved refusal looked exactly like an open one (13 Sep 2026)",
+  "D244 \u2014 the same fault a third time, and the fix for it had missed this copy (13 Sep 202"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

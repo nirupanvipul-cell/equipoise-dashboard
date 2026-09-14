@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T15:25:50.373442+00:00",
- "commit": "9f66eca",
- "generation_file": "dashboard-31268cb2.html",
+ "generated": "2026-09-14T15:30:37.420006+00:00",
+ "commit": "f5c16c1",
+ "generation_file": "dashboard-33d7269f.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D257 \u2014 three owner rulings recorded; the detector defect; the design competition's cost",
   "D258 \u2014 the detector defect measured: 24.3% of detected instances are not criticisms; th",
   "D259 \u2014 design competition scored blind; the Anthropic proposal leads under a self-famil",
   "D260 \u2014 attempt 2 chosen: A1 (Anthropic's design plus OpenAI's recall audit, roles assig",
@@ -46,7 +45,8 @@
   "D263 \u2014 the recall half has landed: the cue filter found 13.7% of the criticisms in its ",
   "D264 \u2014 owner rulings A1, B1, C2, and the probe-and-yield programme with its cost and ti",
   "D265 \u2014 the two qualifications on the missed mass, measured: adjusted recall is 16.1% (1",
-  "D266 \u2014 the repertoire test: critics do have small stable repertoires, and their alignme"
+  "D266 \u2014 the repertoire test: critics do have small stable repertoires, and their alignme",
+  "D267 \u2014 A1, B1, C1: the derivation and gate sets move to an unbiased random pool; the ow"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

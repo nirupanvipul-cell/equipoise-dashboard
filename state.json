@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T19:37:27.502917+00:00",
- "commit": "d23fa03",
- "generation_file": "dashboard-bf946b24.html",
+ "generated": "2026-09-14T20:09:45.198626+00:00",
+ "commit": "bdbba9c",
+ "generation_file": "dashboard-fcebed00.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D270 \u2014 twin reviews widened past the nine anchors: 39,919 reviews, and the screen that ",
-  "D271 \u2014 the divergence census counted, the coverage floor applied per anchor, and the un",
   "D272 \u2014 item 4, the size of the twin-review problem across all of medicine, measured fro",
   "D273 \u2014 the silent half, measured: three quarters of design divergences are unexplained,",
   "D274 \u2014 the yield map: the owner's instinct about WHERE to look is right, his reason for",
@@ -46,7 +44,9 @@
   "D276 \u2014 owner rulings A, B and C, with B's status declared BEFORE it runs (14 Sep 2026, ",
   "D277 \u2014 the chunk-merge defect recorded as ledger 148, the standing check added, and eve",
   "D278 \u2014 the Handbook stratum's composition proves the owner's circularity point, and the",
-  "D279 \u2014 the twin hypothesis holds at 57% and 62% on two independent sets; and a correcti"
+  "D279 \u2014 the twin hypothesis holds at 57% and 62% on two independent sets; and a correcti",
+  "D280 \u2014 the matcher validation and the Handbook vocabulary comparison, both SPECIFIED IN",
+  "D281 \u2014 no matcher is usable, and the absence null survives all three anyway (14 Sep 202"
  ],
  "recent_ledger": [
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",

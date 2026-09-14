@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T09:34:51.152866+00:00",
- "commit": "73c407e",
- "generation_file": "dashboard-7bc8fce1.html",
+ "generated": "2026-09-14T09:51:53.758924+00:00",
+ "commit": "cccd04c",
+ "generation_file": "dashboard-40f5e744.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D241 \u2014 B1: the plausibility floor refuses the field, not the paper (owner, 13 Sep 2026)",
   "D242 \u2014 the verification levers (owner, 13 Sep 2026 evening; measurement appended at clo",
   "D243 \u2014 a resolved refusal looked exactly like an open one (13 Sep 2026)",
   "D244 \u2014 the same fault a third time, and the fix for it had missed this copy (13 Sep 202",
@@ -46,7 +45,8 @@
   "D247 \u2014 numpy and scipy added as dependencies for step 3 at full scale (14 Sep 2026)",
   "D248 \u2014 A2 calibration: the cheap tier is not adopted for closed mode (14 Sep 2026)",
   "D249 \u2014 step 3 clustering: Ward linkage replaces average linkage on embeddings (14 Sep 2",
-  "D250 \u2014 step 3 clustering: spherical k-means replaces Ward (14 Sep 2026, supersedes D249"
+  "D250 \u2014 step 3 clustering: spherical k-means replaces Ward (14 Sep 2026, supersedes D249",
+  "D251 \u2014 the site index dropped batch 1; the index is now derived from the register (14 S"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

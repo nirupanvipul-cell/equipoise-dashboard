@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T17:04:04.582997+00:00",
- "commit": "2a6e8af",
- "generation_file": "dashboard-64e437cd.html",
+ "generated": "2026-09-14T17:06:25.729630+00:00",
+ "commit": "d1547ae",
+ "generation_file": "dashboard-fd401833.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D265 \u2014 the two qualifications on the missed mass, measured: adjusted recall is 16.1% (1",
   "D266 \u2014 the repertoire test: critics do have small stable repertoires, and their alignme",
   "D267 \u2014 A1, B1, C1: the derivation and gate sets move to an unbiased random pool; the ow",
   "D268 \u2014 design divergence and twin reviews: preflight correction, the two counts, and th",
@@ -46,7 +45,8 @@
   "D271 \u2014 the divergence census counted, the coverage floor applied per anchor, and the un",
   "D272 \u2014 item 4, the size of the twin-review problem across all of medicine, measured fro",
   "D273 \u2014 the silent half, measured: three quarters of design divergences are unexplained,",
-  "D274 \u2014 the yield map: the owner's instinct about WHERE to look is right, his reason for"
+  "D274 \u2014 the yield map: the owner's instinct about WHERE to look is right, his reason for",
+  "D275 \u2014 item 4, absence by pattern: nothing clears the stated threshold, and the near-mi"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

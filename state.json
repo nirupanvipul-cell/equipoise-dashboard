@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T02:09:48.063140+00:00",
- "commit": "7bbe7f9",
- "generation_file": "dashboard-4f5b769b.html",
+ "generated": "2026-09-14T02:12:16.123361+00:00",
+ "commit": "cee73af",
+ "generation_file": "dashboard-b660ca3a.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D232 \u2014 ledger 151: the literal \"None\" in a clinical table, and a lint three composers n",
   "D234 \u2014 ledger 152: the fix reproduced the fault, one level down (13 Sep 2026)",
   "D235 \u2014 batch-2 round 1: the blocker classes, and where each was fixed (13 Sep 2026)",
   "D236 \u2014 the published documents survived a day of concurrent engine edits (13 Sep 2026)",
@@ -46,7 +45,8 @@
   "D238 \u2014 the drift check derives its own coverage, and found drift on its first run (13 S",
   "D239 \u2014 a document emitted, then its producer changed: fluids re-gated (13 Sep 2026)",
   "D240 \u2014 the pre-read ingest closed; the refusals are one class, not eight faults (13 Sep",
-  "D241 \u2014 B1: the plausibility floor refuses the field, not the paper (owner, 13 Sep 2026)"
+  "D241 \u2014 B1: the plausibility floor refuses the field, not the paper (owner, 13 Sep 2026)",
+  "D242 \u2014 the verification levers (owner, 13 Sep 2026 evening; measurement appended at clo"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

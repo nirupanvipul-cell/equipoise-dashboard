@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T19:09:10.963454+00:00",
- "commit": "6e0b520",
- "generation_file": "dashboard-c777e6dc.html",
+ "generated": "2026-09-14T19:37:27.502917+00:00",
+ "commit": "d23fa03",
+ "generation_file": "dashboard-bf946b24.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D269 \u2014 publication date as the ordering key: measured, and the cap is fields rather tha",
   "D270 \u2014 twin reviews widened past the nine anchors: 39,919 reviews, and the screen that ",
   "D271 \u2014 the divergence census counted, the coverage floor applied per anchor, and the un",
   "D272 \u2014 item 4, the size of the twin-review problem across all of medicine, measured fro",
@@ -46,7 +45,8 @@
   "D275 \u2014 item 4, absence by pattern: nothing clears the stated threshold, and the near-mi",
   "D276 \u2014 owner rulings A, B and C, with B's status declared BEFORE it runs (14 Sep 2026, ",
   "D277 \u2014 the chunk-merge defect recorded as ledger 148, the standing check added, and eve",
-  "D278 \u2014 the Handbook stratum's composition proves the owner's circularity point, and the"
+  "D278 \u2014 the Handbook stratum's composition proves the owner's circularity point, and the",
+  "D279 \u2014 the twin hypothesis holds at 57% and 62% on two independent sets; and a correcti"
  ],
  "recent_ledger": [
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",

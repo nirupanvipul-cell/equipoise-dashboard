@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T09:00:01.064106+00:00",
- "commit": "caafa61",
- "generation_file": "dashboard-71ce482f.html",
+ "generated": "2026-09-14T09:04:20.012397+00:00",
+ "commit": "bb924c4",
+ "generation_file": "dashboard-ed83edba.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D240 \u2014 the pre-read ingest closed; the refusals are one class, not eight faults (13 Sep",
   "D241 \u2014 B1: the plausibility floor refuses the field, not the paper (owner, 13 Sep 2026)",
   "D242 \u2014 the verification levers (owner, 13 Sep 2026 evening; measurement appended at clo",
   "D243 \u2014 a resolved refusal looked exactly like an open one (13 Sep 2026)",
@@ -46,7 +45,8 @@
   "D246 \u2014 gap item 2 triaged, fix queued: the kernel's 80 disagreements (13 Sep 2026)",
   "D247 \u2014 numpy and scipy added as dependencies for step 3 at full scale (14 Sep 2026)",
   "D248 \u2014 A2 calibration: the cheap tier is not adopted for closed mode (14 Sep 2026)",
-  "D249 \u2014 step 3 clustering: Ward linkage replaces average linkage on embeddings (14 Sep 2"
+  "D249 \u2014 step 3 clustering: Ward linkage replaces average linkage on embeddings (14 Sep 2",
+  "D250 \u2014 step 3 clustering: spherical k-means replaces Ward (14 Sep 2026, supersedes D249"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

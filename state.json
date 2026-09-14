@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T18:48:09.359931+00:00",
- "commit": "5d9948b",
- "generation_file": "dashboard-e3d4e1e5.html",
+ "generated": "2026-09-14T18:51:13.414291+00:00",
+ "commit": "233843f",
+ "generation_file": "dashboard-54063e88.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D268 \u2014 design divergence and twin reviews: preflight correction, the two counts, and th",
   "D269 \u2014 publication date as the ordering key: measured, and the cap is fields rather tha",
   "D270 \u2014 twin reviews widened past the nine anchors: 39,919 reviews, and the screen that ",
   "D271 \u2014 the divergence census counted, the coverage floor applied per anchor, and the un",
@@ -46,7 +45,8 @@
   "D274 \u2014 the yield map: the owner's instinct about WHERE to look is right, his reason for",
   "D275 \u2014 item 4, absence by pattern: nothing clears the stated threshold, and the near-mi",
   "D276 \u2014 owner rulings A, B and C, with B's status declared BEFORE it runs (14 Sep 2026, ",
-  "D277 \u2014 the chunk-merge defect recorded as ledger 148, the standing check added, and eve"
+  "D277 \u2014 the chunk-merge defect recorded as ledger 148, the standing check added, and eve",
+  "D278 \u2014 the Handbook stratum's composition proves the owner's circularity point, and the"
  ],
  "recent_ledger": [
   "139 \u2014 The machine idled 89.3 hours of a 105.7-hour window (85%) while approved work wa",

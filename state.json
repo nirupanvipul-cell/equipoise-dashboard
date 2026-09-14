@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T11:40:09.072568+00:00",
- "commit": "4413bfc",
- "generation_file": "dashboard-edca1ce2.html",
+ "generated": "2026-09-14T12:14:36.246054+00:00",
+ "commit": "d674a3f",
+ "generation_file": "dashboard-2d29e790.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D248 \u2014 A2 calibration: the cheap tier is not adopted for closed mode (14 Sep 2026)",
-  "D249 \u2014 step 3 clustering: Ward linkage replaces average linkage on embeddings (14 Sep 2",
   "D250 \u2014 step 3 clustering: spherical k-means replaces Ward (14 Sep 2026, supersedes D249",
   "D251 \u2014 the site index dropped batch 1; the index is now derived from the register (14 S",
   "D252 \u2014 DOC-EQ-0301-r3 superseded by DOC-EQ-0301-OR-r1 (owner, 14 Sep 2026, A1)",
@@ -46,7 +44,9 @@
   "D255 \u2014 critiques reproduce at family grain: the quarantine lifts for sixteen families (",
   "D254 \u2014 protocol-set; ARDS r2 emitted as a patch revision (owner, 14 Sep 2026, A1 + B)",
   "D256 \u2014 the owner's hypothesis for the next taxonomy attempt, recorded BEFORE any propos",
-  "D257 \u2014 three owner rulings recorded; the detector defect; the design competition's cost"
+  "D257 \u2014 three owner rulings recorded; the detector defect; the design competition's cost",
+  "D258 \u2014 the detector defect measured: 24.3% of detected instances are not criticisms; th",
+  "D259 \u2014 design competition scored blind; the Anthropic proposal leads under a self-famil"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

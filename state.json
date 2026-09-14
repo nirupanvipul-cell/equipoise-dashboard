@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T12:36:40.133179+00:00",
- "commit": "384368d",
- "generation_file": "dashboard-70299af3.html",
+ "generated": "2026-09-14T14:33:59.678373+00:00",
+ "commit": "5a6be63",
+ "generation_file": "dashboard-4b803431.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D253 \u2014 step 3 at full scale: the pre-registered bar failed; the quarantine does not lif",
-  "D255 \u2014 critiques reproduce at family grain: the quarantine lifts for sixteen families (",
   "D254 \u2014 protocol-set; ARDS r2 emitted as a patch revision (owner, 14 Sep 2026, A1 + B)",
   "D256 \u2014 the owner's hypothesis for the next taxonomy attempt, recorded BEFORE any propos",
   "D257 \u2014 three owner rulings recorded; the detector defect; the design competition's cost",
@@ -46,7 +44,9 @@
   "D259 \u2014 design competition scored blind; the Anthropic proposal leads under a self-famil",
   "D260 \u2014 attempt 2 chosen: A1 (Anthropic's design plus OpenAI's recall audit, roles assig",
   "D261 \u2014 at codebook freeze: the owner's appraisal moves mapped onto the derived codebook",
-  "D262 \u2014 the gate has landed; Gate 0 cleared by OpenAI and, on a partial run, by the pair"
+  "D262 \u2014 the gate has landed; Gate 0 cleared by OpenAI and, on a partial run, by the pair",
+  "D263 \u2014 the recall half has landed: the cue filter found 13.7% of the criticisms in its ",
+  "D264 \u2014 owner rulings A1, B1, C2, and the probe-and-yield programme with its cost and ti"
  ],
  "recent_ledger": [
   "138 \u2014 Every OpenAI call failed with 429 insufficient_quota (no credits) and the vocabu",

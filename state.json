@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-14T02:22:16.883124+00:00",
- "commit": "4691b35",
- "generation_file": "dashboard-2534d064.html",
+ "generated": "2026-09-14T02:22:59.388267+00:00",
+ "commit": "4eef4dc",
+ "generation_file": "dashboard-dd69c913.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 4751,
+   "label": "component extraction (5 trials)",
+   "note": "",
+   "started": "2026-09-13 22:22"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

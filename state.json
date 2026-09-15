@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-14T22:31:36.412320+00:00",
- "commit": "666723b",
- "generation_file": "dashboard-6f032afb.html",
+ "generated": "2026-09-15T04:31:22.327379+00:00",
+ "commit": "b214bf3",
+ "generation_file": "dashboard-08ce00f6.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D276 \u2014 owner rulings A, B and C, with B's status declared BEFORE it runs (14 Sep 2026, ",
   "D277 \u2014 the chunk-merge defect recorded as ledger 148, the standing check added, and eve",
   "D278 \u2014 the Handbook stratum's composition proves the owner's circularity point, and the",
   "D279 \u2014 the twin hypothesis holds at 57% and 62% on two independent sets; and a correcti",
@@ -46,7 +45,8 @@
   "D282 \u2014 the union matcher, specified before it is scored, and a standing rule about sing",
   "D283 \u2014 the union clears at 1.000 / 0.864, and item 4's null holds on all five anchors u",
   "D284 \u2014 the twin-review redesign: the owner's prediction recorded, the blocker named, an",
-  "D285 \u2014 the twin-review redesign: overlap does not predict divergence, and two-fifths of"
+  "D285 \u2014 the twin-review redesign: overlap does not predict divergence, and two-fifths of",
+  "D286 \u2014 Gate 1 accepted as a failure; critique in this literature does not reproduce bel"
  ],
  "recent_ledger": [
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-15T10:32:12.298893+00:00",
- "commit": "b51ced1",
- "generation_file": "dashboard-796b47ca.html",
+ "generated": "2026-09-15T12:10:24.685489+00:00",
+ "commit": "da2aee1",
+ "generation_file": "dashboard-338210a9.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D285 \u2014 the twin-review redesign: overlap does not predict divergence, and two-fifths of",
   "D286 \u2014 Gate 1 accepted as a failure; critique in this literature does not reproduce bel",
   "D287 \u2014 the take-away judgement is validated before any twin figure is called a finding,",
   "D288 \u2014 the take-away judgement does NOT clear its bar, by 0.022, and the reason bounds ",
@@ -46,7 +45,8 @@
   "D291 \u2014 the take-away question split into ACTION and CERTAINTY, both bars fixed before t",
   "D292 \u2014 splitting the question does not raise the ceiling: the limit is the question, no",
   "D293 \u2014 P-130: separating FACTS rather than judgements; cost stated before items 3 and 5",
-  "D294 \u2014 P-131: the count of reachable critics, measured before any spending, with its co"
+  "D294 \u2014 P-131: the count of reachable critics, measured before any spending, with its co",
+  "D295 \u2014 facts reproduce better than judgements but do not clear the bar, and a string me"
  ],
  "recent_ledger": [
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",

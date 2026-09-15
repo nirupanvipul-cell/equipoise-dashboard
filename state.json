@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-15T10:00:12.561368+00:00",
- "commit": "47add0c",
- "generation_file": "dashboard-7abf1f8d.html",
+ "generated": "2026-09-15T10:32:12.298893+00:00",
+ "commit": "b51ced1",
+ "generation_file": "dashboard-796b47ca.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D283 \u2014 the union clears at 1.000 / 0.864, and item 4's null holds on all five anchors u",
-  "D284 \u2014 the twin-review redesign: the owner's prediction recorded, the blocker named, an",
   "D285 \u2014 the twin-review redesign: overlap does not predict divergence, and two-fifths of",
   "D286 \u2014 Gate 1 accepted as a failure; critique in this literature does not reproduce bel",
   "D287 \u2014 the take-away judgement is validated before any twin figure is called a finding,",
@@ -46,7 +44,9 @@
   "D289 \u2014 what the 40% search-failure figure rests on: almost nothing, and a fifth of it i",
   "D290 \u2014 the critique-taxonomy programme closed: what it cost and what it delivered (15 S",
   "D291 \u2014 the take-away question split into ACTION and CERTAINTY, both bars fixed before t",
-  "D292 \u2014 splitting the question does not raise the ceiling: the limit is the question, no"
+  "D292 \u2014 splitting the question does not raise the ceiling: the limit is the question, no",
+  "D293 \u2014 P-130: separating FACTS rather than judgements; cost stated before items 3 and 5",
+  "D294 \u2014 P-131: the count of reachable critics, measured before any spending, with its co"
  ],
  "recent_ledger": [
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",

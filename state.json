@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-15T13:19:53.757994+00:00",
- "commit": "8077c0c",
- "generation_file": "dashboard-364dd5c6.html",
+ "generated": "2026-09-15T14:32:17.673954+00:00",
+ "commit": "90af4a5",
+ "generation_file": "dashboard-1b65bf43.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D289 \u2014 what the 40% search-failure figure rests on: almost nothing, and a fifth of it i",
   "D290 \u2014 the critique-taxonomy programme closed: what it cost and what it delivered (15 S",
   "D291 \u2014 the take-away question split into ACTION and CERTAINTY, both bars fixed before t",
   "D292 \u2014 splitting the question does not raise the ceiling: the limit is the question, no",
@@ -46,7 +45,8 @@
   "D295 \u2014 facts reproduce better than judgements but do not clear the bar, and a string me",
   "D296 \u2014 the separation: appraisal dominates, against the owner's recorded expectation, a",
   "D297 \u2014 P-132 item 3: the 61 moves were NOT mined from a rounds archive, and no such arc",
-  "D298 \u2014 P-132 items 1 and 2: the ledger cannot be reconciled to provider billing, and sa"
+  "D298 \u2014 P-132 items 1 and 2: the ledger cannot be reconciled to provider billing, and sa",
+  "D299 \u2014 P-133 items 4 to 7: the baseline is 34, the yield map survives on it at 34 of 34"
  ],
  "recent_ledger": [
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",

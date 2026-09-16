@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T18:45:18.633201+00:00",
- "commit": "5386a98",
- "generation_file": "dashboard-5d4fe6d3.html",
+ "generated": "2026-09-16T18:52:15.092743+00:00",
+ "commit": "0f9985c",
+ "generation_file": "dashboard-671b6129.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,16 +37,16 @@
   }
  ],
  "recent_decisions": [
-  "D357 \u2014 what the emphasis layer still needs from him (16 Sep 2026, 10:44)",
-  "D358 \u2014 the gate overshot the ceiling, was cancelled unspent, and resubmitted inside it ",
-  "D359 \u2014 \"Thomas J\" is very probably several people and the collision filter missed it (1",
   "D360 \u2014 P-148 items 1\u20134: the gate resubmitted, and the breaker's batch blind spot closed",
   "D361 \u2014 P-148 items 6 and 11: THE GRAIN RULE, stated before any result is judged by it (",
   "D362 \u2014 P-148 item 13: the prescriptive-versus-reactive question, recorded and NOT run (",
   "D363 \u2014 P-148 items 7 and 8 (16 Sep 2026, 13:55)",
   "D364 \u2014 THE GRAIN RULE FAILED ITS OWN CALIBRATION, and it is not tuned (16 Sep 2026, 13:",
   "D365 \u2014 P-148 item 10: THE GRAIN FIX FAILED, and grain was not the whole story (16 Sep 2",
-  "D366 \u2014 P-148 item 12: the RoB 2 confound is recorded and cannot yet be measured (16 Sep"
+  "D366 \u2014 P-148 item 12: the RoB 2 confound is recorded and cannot yet be measured (16 Sep",
+  "D367 \u2014 P-149 A1: the one-question grain rule, pre-registered before it runs (16 Sep 202",
+  "D368 \u2014 P-149 B: THE HANDBOOK IS CLOSED (16 Sep 2026, 14:50)",
+  "D369 \u2014 THE ONE-QUESTION RULE ALSO FAILS. GRAIN CLOSES UNANSWERED (16 Sep 2026, 14:52)"
  ],
  "recent_ledger": [
   "145 \u2014 The registry parser invented a direction for every posted effect estimate.",

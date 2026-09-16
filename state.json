@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T17:58:14.649929+00:00",
- "commit": "2731fcd",
- "generation_file": "dashboard-1740b4a6.html",
+ "generated": "2026-09-16T18:44:54.269033+00:00",
+ "commit": "e11cfa2",
+ "generation_file": "dashboard-6d6ee0c5.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D355 \u2014 the buried-versus-absent test, specified and pre-registered before it runs (16 S",
-  "D356 \u2014 the buried-versus-absent test CLEARS, and more than half of these disagreements ",
   "D357 \u2014 what the emphasis layer still needs from him (16 Sep 2026, 10:44)",
   "D358 \u2014 the gate overshot the ceiling, was cancelled unspent, and resubmitted inside it ",
   "D359 \u2014 \"Thomas J\" is very probably several people and the collision filter missed it (1",
@@ -46,7 +44,9 @@
   "D361 \u2014 P-148 items 6 and 11: THE GRAIN RULE, stated before any result is judged by it (",
   "D362 \u2014 P-148 item 13: the prescriptive-versus-reactive question, recorded and NOT run (",
   "D363 \u2014 P-148 items 7 and 8 (16 Sep 2026, 13:55)",
-  "D364 \u2014 THE GRAIN RULE FAILED ITS OWN CALIBRATION, and it is not tuned (16 Sep 2026, 13:"
+  "D364 \u2014 THE GRAIN RULE FAILED ITS OWN CALIBRATION, and it is not tuned (16 Sep 2026, 13:",
+  "D365 \u2014 P-148 item 10: THE GRAIN FIX FAILED, and grain was not the whole story (16 Sep 2",
+  "D366 \u2014 P-148 item 12: the RoB 2 confound is recorded and cannot yet be measured (16 Sep"
  ],
  "recent_ledger": [
   "145 \u2014 The registry parser invented a direction for every posted effect estimate.",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-15T22:28:56.712023+00:00",
- "commit": "b3810bf",
- "generation_file": "dashboard-c362c984.html",
+ "generated": "2026-09-16T01:08:32.391204+00:00",
+ "commit": "36ae7a2",
+ "generation_file": "dashboard-551ee715.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,16 +37,16 @@
   }
  ],
  "recent_decisions": [
-  "D294 \u2014 P-131: the count of reachable critics, measured before any spending, with its co",
-  "D295 \u2014 facts reproduce better than judgements but do not clear the bar, and a string me",
-  "D296 \u2014 the separation: appraisal dominates, against the owner's recorded expectation, a",
-  "D297 \u2014 P-132 item 3: the 61 moves were NOT mined from a rounds archive, and no such arc",
   "D298 \u2014 P-132 items 1 and 2: the ledger cannot be reconciled to provider billing, and sa",
   "D299 \u2014 P-133 items 4 to 7: the baseline is 34, the yield map survives on it at 34 of 34",
   "D300 \u2014 P-133 items 8 and 9: the measure is renamed and the reconciliation is built to t",
   "D301 \u2014 P-134 items 1 and 2: what 34 of 34 rests on, and where that literature actually ",
   "D302 \u2014 P-134 item 3: P-131's residue question re-framed before the run (15 Sep 2026, 16",
-  "D303 \u2014 P-134 item 4: the ingestion is scoped, and most of it is already built and prove"
+  "D303 \u2014 P-134 item 4: the ingestion is scoped, and most of it is already built and prove",
+  "D304 \u2014 P-137 preflight: P-135 and P-136 never arrived, and two items rest on them (15 S",
+  "D305 \u2014 P-137 item 6: the separation validation, bar fixed before it runs (15 Sep 2026, ",
+  "D306 \u2014 the separation validation ran three times, and only the third was a measurement ",
+  "D307 \u2014 and the error runs one way, which unmakes the refutation (15 Sep 2026, 21:08)"
  ],
  "recent_ledger": [
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",

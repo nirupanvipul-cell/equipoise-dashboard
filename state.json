@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T13:25:56.189206+00:00",
- "commit": "bd5223b",
- "generation_file": "dashboard-c0c9bbd1.html",
+ "generated": "2026-09-16T14:12:01.122139+00:00",
+ "commit": "e9f6301",
+ "generation_file": "dashboard-577fd204.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,16 +37,16 @@
   }
  ],
  "recent_decisions": [
-  "D341 \u2014 P-144 item 4: the stability distribution at n=132, and what it does to the criti",
-  "D342 \u2014 P-144 items 1, 5 and 6: TWO INDEPENDENT DIFFS AGREE, and they agree on almost no",
-  "D343 \u2014 P-144 item 2: both sources gated, results in 24 hours (16 Sep 2026, 08:01)",
   "D344 \u2014 a fifth and a sixth instance of defect 150, one of them written by me after writ",
   "D345 \u2014 P-145 item 4: the depth threshold measured, and it is a GRADIENT not a threshold",
   "D346 \u2014 P-145 item 1: THE GRAIN FIX, PRE-REGISTERED IN FULL BEFORE ANY RE-RUN (16 Sep 20",
   "D347 \u2014 P-145 item 5: a failed number against a visible mechanism (16 Sep 2026, 09:07)",
   "D348 \u2014 P-145: recovery of 0 and 1 of 34 recorded as the finding, with its reason (16 Se",
   "D349 \u2014 P-146 preflight: the paste is CUT OFF, and it resolves the missing 51 (16 Sep 20",
-  "D350 \u2014 P-146 items 1\u20133: the roster enumerated, and two corrections made before spending"
+  "D350 \u2014 P-146 items 1\u20133: the roster enumerated, and two corrections made before spending",
+  "D351 \u2014 P-147 rulings A, B, C recorded (16 Sep 2026, 10:12)",
+  "D352 \u2014 P-147 item 1: the pipeline built and running, with what it will and will not ans",
+  "D353 \u2014 P-147 item 3: the literature track is background and gates nothing (16 Sep 2026,"
  ],
  "recent_ledger": [
   "144 \u2014 Every standard deviation the registry posts was silently dropped, because Clinic",

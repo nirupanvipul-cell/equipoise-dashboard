@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T12:02:10.448162+00:00",
- "commit": "6d0579e",
- "generation_file": "dashboard-73fce26d.html",
+ "generated": "2026-09-16T13:07:03.834296+00:00",
+ "commit": "cb53da7",
+ "generation_file": "dashboard-1e9c2e16.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,16 +37,16 @@
   }
  ],
  "recent_decisions": [
-  "D335 \u2014 P-143 item 2: the yield map was confirmatory and is re-labelled everywhere (16 S",
-  "D336 \u2014 P-143 item 3: the unit that survives derivation is the CRITIC (16 Sep 2026, 05:1",
-  "D337 \u2014 P-143 item 9: stratified-on is a genuine non-reproducing field (16 Sep 2026, 05:",
-  "D338 \u2014 P-143 item 10: what rested on the component retest (16 Sep 2026, 05:18)",
   "D339 \u2014 P-144 item 3: THE STABILITY FLOOR, fixed before any diff runs (16 Sep 2026, 05:4",
   "D340 \u2014 P-143 item 5: the blind Handbook derivation does NOT reproduce, and the reason i",
   "D341 \u2014 P-144 item 4: the stability distribution at n=132, and what it does to the criti",
   "D342 \u2014 P-144 items 1, 5 and 6: TWO INDEPENDENT DIFFS AGREE, and they agree on almost no",
   "D343 \u2014 P-144 item 2: both sources gated, results in 24 hours (16 Sep 2026, 08:01)",
-  "D344 \u2014 a fifth and a sixth instance of defect 150, one of them written by me after writ"
+  "D344 \u2014 a fifth and a sixth instance of defect 150, one of them written by me after writ",
+  "D345 \u2014 P-145 item 4: the depth threshold measured, and it is a GRADIENT not a threshold",
+  "D346 \u2014 P-145 item 1: THE GRAIN FIX, PRE-REGISTERED IN FULL BEFORE ANY RE-RUN (16 Sep 20",
+  "D347 \u2014 P-145 item 5: a failed number against a visible mechanism (16 Sep 2026, 09:07)",
+  "D348 \u2014 P-145: recovery of 0 and 1 of 34 recorded as the finding, with its reason (16 Se"
  ],
  "recent_ledger": [
   "144 \u2014 Every standard deviation the registry posts was silently dropped, because Clinic",

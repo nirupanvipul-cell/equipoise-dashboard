@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T20:32:47.830337+00:00",
- "commit": "b6a0284",
- "generation_file": "dashboard-689d6e18.html",
+ "generated": "2026-09-16T21:31:20.159732+00:00",
+ "commit": "c81497e",
+ "generation_file": "dashboard-c30c4a78.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D369 \u2014 THE ONE-QUESTION RULE ALSO FAILS. GRAIN CLOSES UNANSWERED (16 Sep 2026, 14:52)",
   "D370 \u2014 P-150 items 1\u20132: CA$99.98 WAS A BALANCE, NOT CONSUMPTION. Every downstream figur",
   "D371 \u2014 P-150 item 3: IT CANNOT BE ACCOUNTED FOR FROM THE LOGS, BECAUSE THERE ARE NO LOG",
   "D372 \u2014 P-150 item 4: thinking-token accounting is CORRECT, and that is the frightening ",
@@ -46,7 +45,8 @@
   "D375 \u2014 P-150 items 7\u20138: CA$49 DOES NOT COVER THE REMAINING WORK, and Anthropic does it ",
   "D376 \u2014 P-151: the dexmedetomidine anchor, started, with its forecast (16 Sep 2026, 15:5",
   "D377 \u2014 P-152: the dexmedetomidine run changes shape mid-run to a DRAFT (16 Sep 2026, 16",
-  "D378 \u2014 the draft is rendered, and the mechanism question HAS an answer (16 Sep 2026, 16"
+  "D378 \u2014 the draft is rendered, and the mechanism question HAS an answer (16 Sep 2026, 16",
+  "D379 \u2014 P-154: the draft re-rendered through the real renderer, and P-153 never arrived "
  ],
  "recent_ledger": [
   "145 \u2014 The registry parser invented a direction for every posted effect estimate.",

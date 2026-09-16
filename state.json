@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-16T19:12:21.482778+00:00",
- "commit": "abf7248",
- "generation_file": "dashboard-1442e34b.html",
+ "generated": "2026-09-16T19:53:00.684041+00:00",
+ "commit": "d05a90c",
+ "generation_file": "dashboard-fde9f5fa.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 73951,
+   "label": "anchor build EQ-DEX-REGIONAL",
+   "note": "",
+   "started": "2026-09-16 15:53"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

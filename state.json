@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T23:34:43.567840+00:00",
- "commit": "31207bb",
- "generation_file": "dashboard-2f53859d.html",
+ "generated": "2026-09-16T23:36:24.238799+00:00",
+ "commit": "7d6b7ec",
+ "generation_file": "dashboard-eee3aa47.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D376 \u2014 P-151: the dexmedetomidine anchor, started, with its forecast (16 Sep 2026, 15:5",
   "D377 \u2014 P-152: the dexmedetomidine run changes shape mid-run to a DRAFT (16 Sep 2026, 16",
   "D378 \u2014 the draft is rendered, and the mechanism question HAS an answer (16 Sep 2026, 16",
   "D379 \u2014 P-154: the draft re-rendered through the real renderer, and P-153 never arrived ",
@@ -46,7 +45,8 @@
   "D382 \u2014 the per-author derivation is BLOCKED on his routing ruling (16 Sep 2026, 18:27)",
   "D383 \u2014 what the axis derivation is actually worth, across every section built (16 Sep 2",
   "D384 \u2014 the Gemini accounting hole is CLOSED AND UNEXPLAINABLE (16 Sep 2026, 19:34)",
-  "D385 \u2014 the owner's Review ruling was right for a reason he did not have (16 Sep 2026, 1"
+  "D385 \u2014 the owner's Review ruling was right for a reason he did not have (16 Sep 2026, 1",
+  "D386 \u2014 P-155 item 7: the store contamination fixed, its blast radius measured, and it e"
  ],
  "recent_ledger": [
   "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",

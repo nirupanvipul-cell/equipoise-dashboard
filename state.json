@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T22:27:23.088925+00:00",
- "commit": "01d49b1",
- "generation_file": "dashboard-8110ce0e.html",
+ "generated": "2026-09-16T23:34:43.567840+00:00",
+ "commit": "31207bb",
+ "generation_file": "dashboard-2f53859d.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,16 +37,16 @@
   }
  ],
  "recent_decisions": [
-  "D373 \u2014 P-150 item 5: the rate was right and the LONG-CONTEXT TIER WAS NOT IMPLEMENTED (",
-  "D374 \u2014 P-150 item 6: auto-reload OFF, CA$49.06 is a hard stop, cap CA$360 (16 Sep 2026,",
-  "D375 \u2014 P-150 items 7\u20138: CA$49 DOES NOT COVER THE REMAINING WORK, and Anthropic does it ",
   "D376 \u2014 P-151: the dexmedetomidine anchor, started, with its forecast (16 Sep 2026, 15:5",
   "D377 \u2014 P-152: the dexmedetomidine run changes shape mid-run to a DRAFT (16 Sep 2026, 16",
   "D378 \u2014 the draft is rendered, and the mechanism question HAS an answer (16 Sep 2026, 16",
   "D379 \u2014 P-154: the draft re-rendered through the real renderer, and P-153 never arrived ",
   "D380 \u2014 P-147 item 7: the gate's keep-rate by document type, and REVIEW IS THE HIGHEST (",
   "D381 \u2014 P-147 item 3: the estimate missed by 40%, in the cheap direction (16 Sep 2026, 1",
-  "D382 \u2014 the per-author derivation is BLOCKED on his routing ruling (16 Sep 2026, 18:27)"
+  "D382 \u2014 the per-author derivation is BLOCKED on his routing ruling (16 Sep 2026, 18:27)",
+  "D383 \u2014 what the axis derivation is actually worth, across every section built (16 Sep 2",
+  "D384 \u2014 the Gemini accounting hole is CLOSED AND UNEXPLAINABLE (16 Sep 2026, 19:34)",
+  "D385 \u2014 the owner's Review ruling was right for a reason he did not have (16 Sep 2026, 1"
  ],
  "recent_ledger": [
   "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",

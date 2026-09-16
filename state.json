@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T21:31:20.159732+00:00",
- "commit": "c81497e",
- "generation_file": "dashboard-c30c4a78.html",
+ "generated": "2026-09-16T22:27:23.088925+00:00",
+ "commit": "01d49b1",
+ "generation_file": "dashboard-8110ce0e.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,19 +37,18 @@
   }
  ],
  "recent_decisions": [
-  "D370 \u2014 P-150 items 1\u20132: CA$99.98 WAS A BALANCE, NOT CONSUMPTION. Every downstream figur",
-  "D371 \u2014 P-150 item 3: IT CANNOT BE ACCOUNTED FOR FROM THE LOGS, BECAUSE THERE ARE NO LOG",
-  "D372 \u2014 P-150 item 4: thinking-token accounting is CORRECT, and that is the frightening ",
   "D373 \u2014 P-150 item 5: the rate was right and the LONG-CONTEXT TIER WAS NOT IMPLEMENTED (",
   "D374 \u2014 P-150 item 6: auto-reload OFF, CA$49.06 is a hard stop, cap CA$360 (16 Sep 2026,",
   "D375 \u2014 P-150 items 7\u20138: CA$49 DOES NOT COVER THE REMAINING WORK, and Anthropic does it ",
   "D376 \u2014 P-151: the dexmedetomidine anchor, started, with its forecast (16 Sep 2026, 15:5",
   "D377 \u2014 P-152: the dexmedetomidine run changes shape mid-run to a DRAFT (16 Sep 2026, 16",
   "D378 \u2014 the draft is rendered, and the mechanism question HAS an answer (16 Sep 2026, 16",
-  "D379 \u2014 P-154: the draft re-rendered through the real renderer, and P-153 never arrived "
+  "D379 \u2014 P-154: the draft re-rendered through the real renderer, and P-153 never arrived ",
+  "D380 \u2014 P-147 item 7: the gate's keep-rate by document type, and REVIEW IS THE HIGHEST (",
+  "D381 \u2014 P-147 item 3: the estimate missed by 40%, in the cheap direction (16 Sep 2026, 1",
+  "D382 \u2014 the per-author derivation is BLOCKED on his routing ruling (16 Sep 2026, 18:27)"
  ],
  "recent_ledger": [
-  "145 \u2014 The registry parser invented a direction for every posted effect estimate.",
   "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",
   "147 \u2014 Every proxied link on a sheet was percent-encoded, so EZproxy passed the request",
   "148 \u2014 An aggregation that grouped in chunks and never merged across them returned a nu",
@@ -58,7 +57,8 @@
   "151 \u2014 A fix that reported success and changed nothing: the rate correction swept 25 mo",
   "152 \u2014 Three long jobs died silently after I reported them as running, because a `nohup",
   "153 \u2014 I wrote up the reply-budget defect class as ledger 150 and then committed it twi",
-  "154 \u2014 The circuit breaker has a blind spot for batch APIs, and I submitted $78 of work"
+  "154 \u2014 The circuit breaker has a blind spot for batch APIs, and I submitted $78 of work",
+  "155 \u2014 A positional batch identifier was mapped back through the wrong list, silently a"
  ],
  "spend": {
   "rebuild_spend": 34.39,

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T02:13:51.319359+00:00",
- "commit": "5fe69b9",
- "generation_file": "dashboard-de409dab.html",
+ "generated": "2026-09-16T03:47:38.271539+00:00",
+ "commit": "8010808",
+ "generation_file": "dashboard-2dd9db81.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D316 \u2014 P-141 preflight: P-140 never arrived either, and the category counts do not repr",
   "D317 \u2014 P-141 item 1: the two-way split is retired (15 Sep 2026, 22:13)",
   "D318 \u2014 P-141 item 2: the owner's pre-registered expectation is withdrawn, not scored (1",
   "D319 \u2014 P-141 item 3: the validation stands as a finding about the harness (15 Sep 2026,",
@@ -46,7 +45,8 @@
   "D322 \u2014 P-140 B1: the re-validation REFUSES the move, and it refused it three times befo",
   "D323 \u2014 P-140 C1: verify only what changed, with the rule fixed before it runs (15 Sep 2",
   "D324 \u2014 P-140's three additions (15 Sep 2026, 22:13)",
-  "D325 \u2014 P-140 A1 recorded (15 Sep 2026, 22:13)"
+  "D325 \u2014 P-140 A1 recorded (15 Sep 2026, 22:13)",
+  "D326 \u2014 P-142 A3: the LAST run of the facts measurement, pre-registered before it runs ("
  ],
  "recent_ledger": [
   "142 \u2014 Only 3 of 120 \"no free copy\" verdicts rested on actually observing a paywall.",

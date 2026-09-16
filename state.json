@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T15:11:02.765360+00:00",
- "commit": "89bcb51",
- "generation_file": "dashboard-a685f7c5.html",
+ "generated": "2026-09-16T17:55:30.699440+00:00",
+ "commit": "e54734f",
+ "generation_file": "dashboard-43117454.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,16 +37,16 @@
   }
  ],
  "recent_decisions": [
-  "D350 \u2014 P-146 items 1\u20133: the roster enumerated, and two corrections made before spending",
-  "D351 \u2014 P-147 rulings A, B, C recorded (16 Sep 2026, 10:12)",
-  "D352 \u2014 P-147 item 1: the pipeline built and running, with what it will and will not ans",
-  "D353 \u2014 P-147 item 3: the literature track is background and gates nothing (16 Sep 2026,",
   "D354 \u2014 P-147 item 4: the emphasis layer's specification is NOT in this conversation (16",
   "D355 \u2014 the buried-versus-absent test, specified and pre-registered before it runs (16 S",
   "D356 \u2014 the buried-versus-absent test CLEARS, and more than half of these disagreements ",
   "D357 \u2014 what the emphasis layer still needs from him (16 Sep 2026, 10:44)",
   "D358 \u2014 the gate overshot the ceiling, was cancelled unspent, and resubmitted inside it ",
-  "D359 \u2014 \"Thomas J\" is very probably several people and the collision filter missed it (1"
+  "D359 \u2014 \"Thomas J\" is very probably several people and the collision filter missed it (1",
+  "D360 \u2014 P-148 items 1\u20134: the gate resubmitted, and the breaker's batch blind spot closed",
+  "D361 \u2014 P-148 items 6 and 11: THE GRAIN RULE, stated before any result is judged by it (",
+  "D362 \u2014 P-148 item 13: the prescriptive-versus-reactive question, recorded and NOT run (",
+  "D363 \u2014 P-148 items 7 and 8 (16 Sep 2026, 13:55)"
  ],
  "recent_ledger": [
   "145 \u2014 The registry parser invented a direction for every posted effect estimate.",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T18:52:51.744947+00:00",
- "commit": "379a985",
- "generation_file": "dashboard-9b5417f9.html",
+ "generated": "2026-09-16T19:12:21.482778+00:00",
+ "commit": "abf7248",
+ "generation_file": "dashboard-1442e34b.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,16 +37,16 @@
   }
  ],
  "recent_decisions": [
-  "D360 \u2014 P-148 items 1\u20134: the gate resubmitted, and the breaker's batch blind spot closed",
-  "D361 \u2014 P-148 items 6 and 11: THE GRAIN RULE, stated before any result is judged by it (",
-  "D362 \u2014 P-148 item 13: the prescriptive-versus-reactive question, recorded and NOT run (",
-  "D363 \u2014 P-148 items 7 and 8 (16 Sep 2026, 13:55)",
-  "D364 \u2014 THE GRAIN RULE FAILED ITS OWN CALIBRATION, and it is not tuned (16 Sep 2026, 13:",
-  "D365 \u2014 P-148 item 10: THE GRAIN FIX FAILED, and grain was not the whole story (16 Sep 2",
   "D366 \u2014 P-148 item 12: the RoB 2 confound is recorded and cannot yet be measured (16 Sep",
   "D367 \u2014 P-149 A1: the one-question grain rule, pre-registered before it runs (16 Sep 202",
   "D368 \u2014 P-149 B: THE HANDBOOK IS CLOSED (16 Sep 2026, 14:50)",
-  "D369 \u2014 THE ONE-QUESTION RULE ALSO FAILS. GRAIN CLOSES UNANSWERED (16 Sep 2026, 14:52)"
+  "D369 \u2014 THE ONE-QUESTION RULE ALSO FAILS. GRAIN CLOSES UNANSWERED (16 Sep 2026, 14:52)",
+  "D370 \u2014 P-150 items 1\u20132: CA$99.98 WAS A BALANCE, NOT CONSUMPTION. Every downstream figur",
+  "D371 \u2014 P-150 item 3: IT CANNOT BE ACCOUNTED FOR FROM THE LOGS, BECAUSE THERE ARE NO LOG",
+  "D372 \u2014 P-150 item 4: thinking-token accounting is CORRECT, and that is the frightening ",
+  "D373 \u2014 P-150 item 5: the rate was right and the LONG-CONTEXT TIER WAS NOT IMPLEMENTED (",
+  "D374 \u2014 P-150 item 6: auto-reload OFF, CA$49.06 is a hard stop, cap CA$360 (16 Sep 2026,",
+  "D375 \u2014 P-150 items 7\u20138: CA$49 DOES NOT COVER THE REMAINING WORK, and Anthropic does it "
  ],
  "recent_ledger": [
   "145 \u2014 The registry parser invented a direction for every posted effect estimate.",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T01:08:32.391204+00:00",
- "commit": "36ae7a2",
- "generation_file": "dashboard-551ee715.html",
+ "generated": "2026-09-16T01:21:18.362924+00:00",
+ "commit": "82e166e",
+ "generation_file": "dashboard-8afbdf05.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,16 +37,16 @@
   }
  ],
  "recent_decisions": [
-  "D298 \u2014 P-132 items 1 and 2: the ledger cannot be reconciled to provider billing, and sa",
-  "D299 \u2014 P-133 items 4 to 7: the baseline is 34, the yield map survives on it at 34 of 34",
-  "D300 \u2014 P-133 items 8 and 9: the measure is renamed and the reconciliation is built to t",
-  "D301 \u2014 P-134 items 1 and 2: what 34 of 34 rests on, and where that literature actually ",
-  "D302 \u2014 P-134 item 3: P-131's residue question re-framed before the run (15 Sep 2026, 16",
-  "D303 \u2014 P-134 item 4: the ingestion is scoped, and most of it is already built and prove",
-  "D304 \u2014 P-137 preflight: P-135 and P-136 never arrived, and two items rest on them (15 S",
-  "D305 \u2014 P-137 item 6: the separation validation, bar fixed before it runs (15 Sep 2026, ",
   "D306 \u2014 the separation validation ran three times, and only the third was a measurement ",
-  "D307 \u2014 and the error runs one way, which unmakes the refutation (15 Sep 2026, 21:08)"
+  "D307 \u2014 and the error runs one way, which unmakes the refutation (15 Sep 2026, 21:08)",
+  "D308 \u2014 P-138 withdrawn, never executed (15 Sep 2026, 21:20)",
+  "D309 \u2014 P-139 preflight (15 Sep 2026, 21:20)",
+  "D310 \u2014 P-139 item 2: four configured rates were wrong, and the largest error runs the w",
+  "D311 \u2014 P-139 item 3: the spike identified, and defect 140 ruled OUT (15 Sep 2026, 21:20",
+  "D312 \u2014 P-139 item 4: Sonnet is the Anthropic bill, and 84% of it buys no independence (",
+  "D313 \u2014 P-139 item 5: a circuit breaker, built and wired (15 Sep 2026, 21:20)",
+  "D314 \u2014 P-139 item 6: every open quote re-priced (15 Sep 2026, 21:20)",
+  "D315 \u2014 P-139 item 7: the routing audit, all three families (15 Sep 2026, 21:20)"
  ],
  "recent_ledger": [
   "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",

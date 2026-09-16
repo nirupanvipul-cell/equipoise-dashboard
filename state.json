@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T14:41:39.121711+00:00",
- "commit": "9cdf4db",
- "generation_file": "dashboard-2fb1a314.html",
+ "generated": "2026-09-16T14:44:58.827907+00:00",
+ "commit": "f7f5ccd",
+ "generation_file": "dashboard-7b5e42f6.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D346 \u2014 P-145 item 1: THE GRAIN FIX, PRE-REGISTERED IN FULL BEFORE ANY RE-RUN (16 Sep 20",
-  "D347 \u2014 P-145 item 5: a failed number against a visible mechanism (16 Sep 2026, 09:07)",
   "D348 \u2014 P-145: recovery of 0 and 1 of 34 recorded as the finding, with its reason (16 Se",
   "D349 \u2014 P-146 preflight: the paste is CUT OFF, and it resolves the missing 51 (16 Sep 20",
   "D350 \u2014 P-146 items 1\u20133: the roster enumerated, and two corrections made before spending",
@@ -46,7 +44,9 @@
   "D352 \u2014 P-147 item 1: the pipeline built and running, with what it will and will not ans",
   "D353 \u2014 P-147 item 3: the literature track is background and gates nothing (16 Sep 2026,",
   "D354 \u2014 P-147 item 4: the emphasis layer's specification is NOT in this conversation (16",
-  "D355 \u2014 the buried-versus-absent test, specified and pre-registered before it runs (16 S"
+  "D355 \u2014 the buried-versus-absent test, specified and pre-registered before it runs (16 S",
+  "D356 \u2014 the buried-versus-absent test CLEARS, and more than half of these disagreements ",
+  "D357 \u2014 what the emphasis layer still needs from him (16 Sep 2026, 10:44)"
  ],
  "recent_ledger": [
   "144 \u2014 Every standard deviation the registry posts was silently dropped, because Clinic",

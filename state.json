@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T14:45:21.700843+00:00",
- "commit": "a72d04e",
- "generation_file": "dashboard-3bf64302.html",
+ "generated": "2026-09-16T15:11:02.765360+00:00",
+ "commit": "89bcb51",
+ "generation_file": "dashboard-a685f7c5.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D348 \u2014 P-145: recovery of 0 and 1 of 34 recorded as the finding, with its reason (16 Se",
-  "D349 \u2014 P-146 preflight: the paste is CUT OFF, and it resolves the missing 51 (16 Sep 20",
   "D350 \u2014 P-146 items 1\u20133: the roster enumerated, and two corrections made before spending",
   "D351 \u2014 P-147 rulings A, B, C recorded (16 Sep 2026, 10:12)",
   "D352 \u2014 P-147 item 1: the pipeline built and running, with what it will and will not ans",
@@ -46,10 +44,11 @@
   "D354 \u2014 P-147 item 4: the emphasis layer's specification is NOT in this conversation (16",
   "D355 \u2014 the buried-versus-absent test, specified and pre-registered before it runs (16 S",
   "D356 \u2014 the buried-versus-absent test CLEARS, and more than half of these disagreements ",
-  "D357 \u2014 what the emphasis layer still needs from him (16 Sep 2026, 10:44)"
+  "D357 \u2014 what the emphasis layer still needs from him (16 Sep 2026, 10:44)",
+  "D358 \u2014 the gate overshot the ceiling, was cancelled unspent, and resubmitted inside it ",
+  "D359 \u2014 \"Thomas J\" is very probably several people and the collision filter missed it (1"
  ],
  "recent_ledger": [
-  "144 \u2014 Every standard deviation the registry posts was silently dropped, because Clinic",
   "145 \u2014 The registry parser invented a direction for every posted effect estimate.",
   "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",
   "147 \u2014 Every proxied link on a sheet was percent-encoded, so EZproxy passed the request",
@@ -58,7 +57,8 @@
   "150 \u2014 THE VALIDATION-HARNESS DEFECT CLASS: a reply budget too small to hold the reply ",
   "151 \u2014 A fix that reported success and changed nothing: the rate correction swept 25 mo",
   "152 \u2014 Three long jobs died silently after I reported them as running, because a `nohup",
-  "153 \u2014 I wrote up the reply-budget defect class as ledger 150 and then committed it twi"
+  "153 \u2014 I wrote up the reply-budget defect class as ledger 150 and then committed it twi",
+  "154 \u2014 The circuit breaker has a blind spot for batch APIs, and I submitted $78 of work"
  ],
  "spend": {
   "rebuild_spend": 34.39,

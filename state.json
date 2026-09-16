@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T19:53:00.684041+00:00",
+ "generated": "2026-09-16T19:53:43.742295+00:00",
  "commit": "d05a90c",
- "generation_file": "dashboard-fde9f5fa.html",
+ "generation_file": "dashboard-d6685eba.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -44,7 +44,6 @@
   }
  ],
  "recent_decisions": [
-  "D366 \u2014 P-148 item 12: the RoB 2 confound is recorded and cannot yet be measured (16 Sep",
   "D367 \u2014 P-149 A1: the one-question grain rule, pre-registered before it runs (16 Sep 202",
   "D368 \u2014 P-149 B: THE HANDBOOK IS CLOSED (16 Sep 2026, 14:50)",
   "D369 \u2014 THE ONE-QUESTION RULE ALSO FAILS. GRAIN CLOSES UNANSWERED (16 Sep 2026, 14:52)",
@@ -53,7 +52,8 @@
   "D372 \u2014 P-150 item 4: thinking-token accounting is CORRECT, and that is the frightening ",
   "D373 \u2014 P-150 item 5: the rate was right and the LONG-CONTEXT TIER WAS NOT IMPLEMENTED (",
   "D374 \u2014 P-150 item 6: auto-reload OFF, CA$49.06 is a hard stop, cap CA$360 (16 Sep 2026,",
-  "D375 \u2014 P-150 items 7\u20138: CA$49 DOES NOT COVER THE REMAINING WORK, and Anthropic does it "
+  "D375 \u2014 P-150 items 7\u20138: CA$49 DOES NOT COVER THE REMAINING WORK, and Anthropic does it ",
+  "D376 \u2014 P-151: the dexmedetomidine anchor, started, with its forecast (16 Sep 2026, 15:5"
  ],
  "recent_ledger": [
   "145 \u2014 The registry parser invented a direction for every posted effect estimate.",

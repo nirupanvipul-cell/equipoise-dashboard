@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-16T01:21:18.362924+00:00",
- "commit": "82e166e",
- "generation_file": "dashboard-8afbdf05.html",
+ "generated": "2026-09-16T02:13:51.319359+00:00",
+ "commit": "5fe69b9",
+ "generation_file": "dashboard-de409dab.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,20 +37,18 @@
   }
  ],
  "recent_decisions": [
-  "D306 \u2014 the separation validation ran three times, and only the third was a measurement ",
-  "D307 \u2014 and the error runs one way, which unmakes the refutation (15 Sep 2026, 21:08)",
-  "D308 \u2014 P-138 withdrawn, never executed (15 Sep 2026, 21:20)",
-  "D309 \u2014 P-139 preflight (15 Sep 2026, 21:20)",
-  "D310 \u2014 P-139 item 2: four configured rates were wrong, and the largest error runs the w",
-  "D311 \u2014 P-139 item 3: the spike identified, and defect 140 ruled OUT (15 Sep 2026, 21:20",
-  "D312 \u2014 P-139 item 4: Sonnet is the Anthropic bill, and 84% of it buys no independence (",
-  "D313 \u2014 P-139 item 5: a circuit breaker, built and wired (15 Sep 2026, 21:20)",
-  "D314 \u2014 P-139 item 6: every open quote re-priced (15 Sep 2026, 21:20)",
-  "D315 \u2014 P-139 item 7: the routing audit, all three families (15 Sep 2026, 21:20)"
+  "D316 \u2014 P-141 preflight: P-140 never arrived either, and the category counts do not repr",
+  "D317 \u2014 P-141 item 1: the two-way split is retired (15 Sep 2026, 22:13)",
+  "D318 \u2014 P-141 item 2: the owner's pre-registered expectation is withdrawn, not scored (1",
+  "D319 \u2014 P-141 item 3: the validation stands as a finding about the harness (15 Sep 2026,",
+  "D320 \u2014 P-141 items 4 and 5: the minimal difference, reported on its own (15 Sep 2026, 2",
+  "D321 \u2014 P-140 E: the facts re-score on fresh pairs DOES NOT CLEAR, and the failure is re",
+  "D322 \u2014 P-140 B1: the re-validation REFUSES the move, and it refused it three times befo",
+  "D323 \u2014 P-140 C1: verify only what changed, with the rule fixed before it runs (15 Sep 2",
+  "D324 \u2014 P-140's three additions (15 Sep 2026, 22:13)",
+  "D325 \u2014 P-140 A1 recorded (15 Sep 2026, 22:13)"
  ],
  "recent_ledger": [
-  "140 \u2014 Three duplicate copies of the same job ran concurrently because I diagnosed buff",
-  "141 \u2014 The kernel porting proof's reference implementation was kept in a session scratc",
   "142 \u2014 Only 3 of 120 \"no free copy\" verdicts rested on actually observing a paywall.",
   "143 \u2014 Two drills pinned a moment rather than an invariant and went red as the project ",
   "144 \u2014 Every standard deviation the registry posts was silently dropped, because Clinic",
@@ -58,7 +56,9 @@
   "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",
   "147 \u2014 Every proxied link on a sheet was percent-encoded, so EZproxy passed the request",
   "148 \u2014 An aggregation that grouped in chunks and never merged across them returned a nu",
-  "149 \u2014 A batch identifier built from content text collided and the whole batch was refu"
+  "149 \u2014 A batch identifier built from content text collided and the whole batch was refu",
+  "150 \u2014 THE VALIDATION-HARNESS DEFECT CLASS: a reply budget too small to hold the reply ",
+  "151 \u2014 A fix that reported success and changed nothing: the rate correction swept 25 mo"
  ],
  "spend": {
   "rebuild_spend": 34.39,

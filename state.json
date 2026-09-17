@@ -1,21 +1,14 @@
 {
- "generated": "2026-09-17T21:47:19.963480+00:00",
+ "generated": "2026-09-17T21:56:02.620177+00:00",
  "commit": "2473318",
- "generation_file": "dashboard-1a34c43d.html",
+ "generation_file": "dashboard-9f85759a.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 21375,
-   "label": "anchor build EQ-PREOP-IRON",
-   "note": "",
-   "started": "2026-09-17 17:47"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

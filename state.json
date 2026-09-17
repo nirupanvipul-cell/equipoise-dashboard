@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-17T00:30:28.126947+00:00",
- "commit": "44286c7",
- "generation_file": "dashboard-c311fe0f.html",
+ "generated": "2026-09-17T00:53:03.053257+00:00",
+ "commit": "8e3cc11",
+ "generation_file": "dashboard-93d06e0d.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D379 \u2014 P-154: the draft re-rendered through the real renderer, and P-153 never arrived ",
   "D380 \u2014 P-147 item 7: the gate's keep-rate by document type, and REVIEW IS THE HIGHEST (",
   "D381 \u2014 P-147 item 3: the estimate missed by 40%, in the cheap direction (16 Sep 2026, 1",
   "D382 \u2014 the per-author derivation is BLOCKED on his routing ruling (16 Sep 2026, 18:27)",
@@ -46,7 +45,8 @@
   "D385 \u2014 the owner's Review ruling was right for a reason he did not have (16 Sep 2026, 1",
   "D386 \u2014 P-155 item 7: the store contamination fixed, its blast radius measured, and it e",
   "D387 \u2014 P-156 item 1: the fourth source is WIRED TO THE WRONG STORE, which is neither of",
-  "D388 \u2014 P-156 item 3: the provenance claim is corrected, and nothing is re-issued (16 Se"
+  "D388 \u2014 P-156 item 3: the provenance claim is corrected, and nothing is re-issued (16 Se",
+  "D389 \u2014 P-157 items 1\u20133: the value-extractor validation, both bars fixed before either r"
  ],
  "recent_ledger": [
   "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",

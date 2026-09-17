@@ -1,27 +1,14 @@
 {
- "generated": "2026-09-17T21:03:06.206487+00:00",
+ "generated": "2026-09-17T21:43:51.933496+00:00",
  "commit": "2473318",
- "generation_file": "dashboard-84b3beb9.html",
+ "generation_file": "dashboard-505a7605.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [
-  {
-   "pid": 21375,
-   "label": "anchor build EQ-DOA-DELIRIUM",
-   "note": "",
-   "started": "2026-09-17 17:00"
-  },
-  {
-   "pid": 21375,
-   "label": "component extraction (166 trials)",
-   "note": "",
-   "started": "2026-09-17 17:03"
-  }
- ],
+ "running": [],
  "decisions_pending": [],
  "errors": [
   {

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-17T00:53:03.053257+00:00",
- "commit": "8e3cc11",
- "generation_file": "dashboard-93d06e0d.html",
+ "generated": "2026-09-17T00:57:12.994736+00:00",
+ "commit": "cdff5af",
+ "generation_file": "dashboard-ca0b2bbb.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D380 \u2014 P-147 item 7: the gate's keep-rate by document type, and REVIEW IS THE HIGHEST (",
-  "D381 \u2014 P-147 item 3: the estimate missed by 40%, in the cheap direction (16 Sep 2026, 1",
   "D382 \u2014 the per-author derivation is BLOCKED on his routing ruling (16 Sep 2026, 18:27)",
   "D383 \u2014 what the axis derivation is actually worth, across every section built (16 Sep 2",
   "D384 \u2014 the Gemini accounting hole is CLOSED AND UNEXPLAINABLE (16 Sep 2026, 19:34)",
@@ -46,7 +44,9 @@
   "D386 \u2014 P-155 item 7: the store contamination fixed, its blast radius measured, and it e",
   "D387 \u2014 P-156 item 1: the fourth source is WIRED TO THE WRONG STORE, which is neither of",
   "D388 \u2014 P-156 item 3: the provenance claim is corrected, and nothing is re-issued (16 Se",
-  "D389 \u2014 P-157 items 1\u20133: the value-extractor validation, both bars fixed before either r"
+  "D389 \u2014 P-157 items 1\u20133: the value-extractor validation, both bars fixed before either r",
+  "D390 \u2014 P-157 items 1\u20133: the validation ran, and NEITHER ARM CLEARS (16 Sep 2026, 20:57)",
+  "D391 \u2014 three wrong arm-matchers, each of which MANUFACTURED disagreements (16 Sep 2026,"
  ],
  "recent_ledger": [
   "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",

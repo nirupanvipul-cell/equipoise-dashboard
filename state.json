@@ -1,14 +1,21 @@
 {
- "generated": "2026-09-17T19:03:04.861438+00:00",
- "commit": "97e1c29",
- "generation_file": "dashboard-447392c6.html",
+ "generated": "2026-09-17T20:58:32.384311+00:00",
+ "commit": "2473318",
+ "generation_file": "dashboard-3fa258fe.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
   "technical_live": 90,
   "technical_total": 263
  },
- "running": [],
+ "running": [
+  {
+   "pid": 21375,
+   "label": "anchor build EQ-DEXAMETH-SSI",
+   "note": "",
+   "started": "2026-09-17 16:58"
+  }
+ ],
  "decisions_pending": [],
  "errors": [
   {

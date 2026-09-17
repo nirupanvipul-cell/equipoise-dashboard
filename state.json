@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-17T08:51:41.883376+00:00",
- "commit": "0cd23c4",
- "generation_file": "dashboard-531d4e28.html",
+ "generated": "2026-09-17T10:18:01.035140+00:00",
+ "commit": "fda7aad",
+ "generation_file": "dashboard-a1b131ff.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,16 +37,16 @@
   }
  ],
  "recent_decisions": [
-  "D390 \u2014 P-157 items 1\u20133: the validation ran, and NEITHER ARM CLEARS (16 Sep 2026, 20:57)",
-  "D391 \u2014 three wrong arm-matchers, each of which MANUFACTURED disagreements (16 Sep 2026,",
-  "D392 \u2014 P-158 item 4: THE ROUTE READING IS NOT WHAT BROKE. THE ABSENCE READING IS (17 Se",
-  "D393 \u2014 P-158 item 5: a FAILING validation is suspected of its own pairing first, and it",
   "D394 \u2014 P-158 item 6: raw second-reader answers are persisted, as standard (17 Sep 2026,",
   "D395 \u2014 P-159 item 1: NOTHING ESTABLISHES DEXMEDETOMIDINE DOSE-EQUIVALENCE BETWEEN ROUTE",
   "D396 \u2014 P-159 items 3\u20139: COMPARABILITY AS AN AXIS PROPERTY. Design only, nothing built (",
   "D397 \u2014 P-160: the methodologist derivation restarted, routed off Gemini, and capped to ",
   "D398 \u2014 P-161 item 1: WHY THE CORPUS ROUTE CANNOT WORK, recorded as the explanation of t",
-  "D399 \u2014 P-161 items 2\u20136, 8: the channel works, and THE INPUT LAYER IS THE WHOLE OF IT (1"
+  "D399 \u2014 P-161 items 2\u20136, 8: the channel works, and THE INPUT LAYER IS THE WHOLE OF IT (1",
+  "D400 \u2014 P-163: LAYER B DROPPED, and the reason is the generalisable part (17 Sep 2026, 0",
+  "D401 \u2014 P-163 items 2\u20134: THE YIELD CURVE, and it does NOT saturate (17 Sep 2026, 06:18)",
+  "D402 \u2014 P-163 item 6: a channel's output is READ before its yield is reported (17 Sep 20",
+  "D403 \u2014 and the clustering took four attempts, three of them my faults (17 Sep 2026, 06:"
  ],
  "recent_ledger": [
   "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",

@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-17T00:57:12.994736+00:00",
- "commit": "cdff5af",
- "generation_file": "dashboard-ca0b2bbb.html",
+ "generated": "2026-09-17T07:45:47.633142+00:00",
+ "commit": "0ddf31c",
+ "generation_file": "dashboard-7b383e47.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,16 +37,16 @@
   }
  ],
  "recent_decisions": [
-  "D382 \u2014 the per-author derivation is BLOCKED on his routing ruling (16 Sep 2026, 18:27)",
-  "D383 \u2014 what the axis derivation is actually worth, across every section built (16 Sep 2",
-  "D384 \u2014 the Gemini accounting hole is CLOSED AND UNEXPLAINABLE (16 Sep 2026, 19:34)",
   "D385 \u2014 the owner's Review ruling was right for a reason he did not have (16 Sep 2026, 1",
   "D386 \u2014 P-155 item 7: the store contamination fixed, its blast radius measured, and it e",
   "D387 \u2014 P-156 item 1: the fourth source is WIRED TO THE WRONG STORE, which is neither of",
   "D388 \u2014 P-156 item 3: the provenance claim is corrected, and nothing is re-issued (16 Se",
   "D389 \u2014 P-157 items 1\u20133: the value-extractor validation, both bars fixed before either r",
   "D390 \u2014 P-157 items 1\u20133: the validation ran, and NEITHER ARM CLEARS (16 Sep 2026, 20:57)",
-  "D391 \u2014 three wrong arm-matchers, each of which MANUFACTURED disagreements (16 Sep 2026,"
+  "D391 \u2014 three wrong arm-matchers, each of which MANUFACTURED disagreements (16 Sep 2026,",
+  "D392 \u2014 P-158 item 4: THE ROUTE READING IS NOT WHAT BROKE. THE ABSENCE READING IS (17 Se",
+  "D393 \u2014 P-158 item 5: a FAILING validation is suspected of its own pairing first, and it",
+  "D394 \u2014 P-158 item 6: raw second-reader answers are persisted, as standard (17 Sep 2026,"
  ],
  "recent_ledger": [
   "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",

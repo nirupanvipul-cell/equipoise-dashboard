@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-18T04:27:38.270286+00:00",
- "commit": "2473318",
- "generation_file": "dashboard-2b0ebf52.html",
+ "generated": "2026-09-20T06:05:04.103470+00:00",
+ "commit": "2dfbed8",
+ "generation_file": "dashboard-19202dd4.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,20 +37,18 @@
   }
  ],
  "recent_decisions": [
-  "D397 \u2014 P-160: the methodologist derivation restarted, routed off Gemini, and capped to ",
-  "D398 \u2014 P-161 item 1: WHY THE CORPUS ROUTE CANNOT WORK, recorded as the explanation of t",
-  "D399 \u2014 P-161 items 2\u20136, 8: the channel works, and THE INPUT LAYER IS THE WHOLE OF IT (1",
   "D400 \u2014 P-163: LAYER B DROPPED, and the reason is the generalisable part (17 Sep 2026, 0",
   "D401 \u2014 P-163 items 2\u20134: THE YIELD CURVE, and it does NOT saturate (17 Sep 2026, 06:18)",
   "D402 \u2014 P-163 item 6: a channel's output is READ before its yield is reported (17 Sep 20",
   "D403 \u2014 and the clustering took four attempts, three of them my faults (17 Sep 2026, 06:",
   "D404 \u2014 P-164 items 1\u20132: THE SPLIT IS BUILT, and the economics are on the record (17 Sep",
   "D405 \u2014 P-164 item 3 CANNOT RUN: THERE IS NO ANAESTHESIA ANCHOR LIST (17 Sep 2026, 15:03",
-  "D406 \u2014 P-170: the Ioannidis two-pass test, decision rule fixed BEFORE it runs (18 Sep 2"
+  "D406 \u2014 P-170: the Ioannidis two-pass test, decision rule fixed BEFORE it runs (18 Sep 2",
+  "D407 \u2014 P-176 item 1: the three 0.60 constants renamed, and 50 of 53 thresholds are bare",
+  "D408 \u2014 the threshold audit found a rate error the P-139 sweep missed and I had reported",
+  "D409 \u2014 P-176 item 2: the flattening is a HYPOTHESIS with its test, not a result (20 Sep"
  ],
  "recent_ledger": [
-  "146 \u2014 I created a module under a name already taken and silently replaced 473 lines of",
-  "147 \u2014 Every proxied link on a sheet was percent-encoded, so EZproxy passed the request",
   "148 \u2014 An aggregation that grouped in chunks and never merged across them returned a nu",
   "149 \u2014 A batch identifier built from content text collided and the whole batch was refu",
   "150 \u2014 THE VALIDATION-HARNESS DEFECT CLASS: a reply budget too small to hold the reply ",
@@ -58,7 +56,9 @@
   "152 \u2014 Three long jobs died silently after I reported them as running, because a `nohup",
   "153 \u2014 I wrote up the reply-budget defect class as ledger 150 and then committed it twi",
   "154 \u2014 The circuit breaker has a blind spot for batch APIs, and I submitted $78 of work",
-  "155 \u2014 A positional batch identifier was mapped back through the wrong list, silently a"
+  "155 \u2014 A positional batch identifier was mapped back through the wrong list, silently a",
+  "156 \u2014 A pre-registered threshold was bound to a WORD and not to a computation, and thr",
+  "157 \u2014 The P-139 rate sweep reported itself verified by absence, on a grep that could n"
  ],
  "spend": {
   "rebuild_spend": 34.39,

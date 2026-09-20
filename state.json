@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-20T17:43:56.007698+00:00",
- "commit": "fda9564",
- "generation_file": "dashboard-0ae06c68.html",
+ "generated": "2026-09-20T18:29:41.349098+00:00",
+ "commit": "a2b6175",
+ "generation_file": "dashboard-d573d64f.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,19 +37,18 @@
   }
  ],
  "recent_decisions": [
-  "D411 \u2014 the first run of the same test, kept because it is why the three-draw rule exist",
-  "D412 \u2014 what the run cost, from the call log, as modelled cost (20 Sep 2026, 02:28)",
-  "D413 \u2014 P-177 item 4: the composition economics recomputed, and D404's headline claim is",
-  "D414 \u2014 the store's own verifier records do not reconcile with their token counts, and I",
   "D415 \u2014 P-177 item 5: the withdrawn cap is out of the code and the fourth 0.60 is docume",
   "D416 \u2014 P-177 item 1: the Ioannidis priors table is built and is on his desk (20 Sep 202",
   "D417 \u2014 STANDING RULE: a magnitude is stored only as an exact span copied from source (2",
   "D418 \u2014 P-178 item 2: the verbal magnitudes are kept, in their own table, never converte",
   "D419 \u2014 P-178 item 3: four draws for the densest five, and every count is declared a FLO",
-  "D420 \u2014 two preflight findings that changed the run's shape, and one that changes what t"
+  "D420 \u2014 two preflight findings that changed the run's shape, and one that changes what t",
+  "D421 \u2014 P-179 item A: the run halted at the ceiling exactly as designed; 30 of 44 banked",
+  "D422 \u2014 an unplanned replication: the count reproduces, the membership does not (20 Sep ",
+  "D423 \u2014 P-179 item B: the table-only rate is 0.69%, and the 3-of-15 case was not represe",
+  "D424 \u2014 P-179 item C: the 20 spot-checks re-drawn across all 30 authors (20 Sep 2026, 14"
  ],
  "recent_ledger": [
-  "150 \u2014 THE VALIDATION-HARNESS DEFECT CLASS: a reply budget too small to hold the reply ",
   "151 \u2014 A fix that reported success and changed nothing: the rate correction swept 25 mo",
   "152 \u2014 Three long jobs died silently after I reported them as running, because a `nohup",
   "153 \u2014 I wrote up the reply-budget defect class as ledger 150 and then committed it twi",
@@ -58,7 +57,8 @@
   "156 \u2014 A pre-registered threshold was bound to a WORD and not to a computation, and thr",
   "157 \u2014 The P-139 rate sweep reported itself verified by absence, on a grep that could n",
   "158 \u2014 A read timeout raised out of the Anthropic transport before the circuit breaker ",
-  "159 \u2014 The unit test passed and the shape still failed two times in three."
+  "159 \u2014 The unit test passed and the shape still failed two times in three.",
+  "160 \u2014 The ledger recorded only work that was banked, so $4.00 spent on work thrown awa"
  ],
  "spend": {
   "rebuild_spend": 34.39,

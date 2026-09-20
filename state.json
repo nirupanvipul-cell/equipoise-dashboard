@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-20T11:27:17.047810+00:00",
- "commit": "64edffa",
- "generation_file": "dashboard-6dfd9106.html",
+ "generated": "2026-09-20T17:03:18.788756+00:00",
+ "commit": "e773c21",
+ "generation_file": "dashboard-49fea0f6.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,16 +37,16 @@
   }
  ],
  "recent_decisions": [
-  "D407 \u2014 P-176 item 1: the three 0.60 constants renamed, and 50 of 53 thresholds are bare",
-  "D408 \u2014 the threshold audit found a rate error the P-139 sweep missed and I had reported",
-  "D409 \u2014 P-176 item 2: the flattening is a HYPOTHESIS with its test, not a result (20 Sep",
-  "D410 \u2014 P-176 item 3: the prompt test answers its pre-registered question, and the answe",
   "D411 \u2014 the first run of the same test, kept because it is why the three-draw rule exist",
   "D412 \u2014 what the run cost, from the call log, as modelled cost (20 Sep 2026, 02:28)",
   "D413 \u2014 P-177 item 4: the composition economics recomputed, and D404's headline claim is",
   "D414 \u2014 the store's own verifier records do not reconcile with their token counts, and I",
   "D415 \u2014 P-177 item 5: the withdrawn cap is out of the code and the fourth 0.60 is docume",
-  "D416 \u2014 P-177 item 1: the Ioannidis priors table is built and is on his desk (20 Sep 202"
+  "D416 \u2014 P-177 item 1: the Ioannidis priors table is built and is on his desk (20 Sep 202",
+  "D417 \u2014 STANDING RULE: a magnitude is stored only as an exact span copied from source (2",
+  "D418 \u2014 P-178 item 2: the verbal magnitudes are kept, in their own table, never converte",
+  "D419 \u2014 P-178 item 3: four draws for the densest five, and every count is declared a FLO",
+  "D420 \u2014 two preflight findings that changed the run's shape, and one that changes what t"
  ],
  "recent_ledger": [
   "150 \u2014 THE VALIDATION-HARNESS DEFECT CLASS: a reply budget too small to hold the reply ",

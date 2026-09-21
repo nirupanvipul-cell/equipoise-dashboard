@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-21T18:29:30.358182+00:00",
- "commit": "0b8b8df",
- "generation_file": "dashboard-942e6d5a.html",
+ "generated": "2026-09-21T18:38:10.376809+00:00",
+ "commit": "b093402",
+ "generation_file": "dashboard-c90f2931.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D422 \u2014 an unplanned replication: the count reproduces, the membership does not (20 Sep ",
-  "D423 \u2014 P-179 item B: the table-only rate is 0.69%, and the 3-of-15 case was not represe",
   "D424 \u2014 P-179 item C: the 20 spot-checks re-drawn across all 30 authors (20 Sep 2026, 14",
   "D425 \u2014 STANDING RULE: a spend meter charges what LEFT, never what was banked (21 Sep 20",
   "D426 \u2014 the mechanism question was asked and the instrument answered with an empty strin",
@@ -46,7 +44,9 @@
   "D428 \u2014 STANDING RULE: a failed read returns a status naming why (21 Sep 2026, 01:20, ow",
   "D429 \u2014 P-182 item 1: THE DEFECT-SHAPE CENSUS, and the fixes do not hold (21 Sep 2026, 0",
   "D430 \u2014 P-180 item A closed: all 44 methodologists, and the small-author overhead is mea",
-  "D431 \u2014 P-183 item 1: C1 is wired and its saving is much smaller than the ledger implied"
+  "D431 \u2014 P-183 item 1: C1 is wired and its saving is much smaller than the ledger implied",
+  "D432 \u2014 P-184 item 3: the completeness rule is in CLAUDE.md (21 Sep 2026, 14:38)",
+  "D433 \u2014 P-184 item 4: A CORRECTION TO THE OWNER'S PREMISE \u2014 the six shapes are 37% of de"
  ],
  "recent_ledger": [
   "155 \u2014 A positional batch identifier was mapped back through the wrong list, silently a",

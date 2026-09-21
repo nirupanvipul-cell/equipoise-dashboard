@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-21T17:53:59.368749+00:00",
- "commit": "4ec3d4b",
- "generation_file": "dashboard-6bb5f0a2.html",
+ "generated": "2026-09-21T18:29:30.358182+00:00",
+ "commit": "0b8b8df",
+ "generation_file": "dashboard-942e6d5a.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,7 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D421 \u2014 P-179 item A: the run halted at the ceiling exactly as designed; 30 of 44 banked",
   "D422 \u2014 an unplanned replication: the count reproduces, the membership does not (20 Sep ",
   "D423 \u2014 P-179 item B: the table-only rate is 0.69%, and the 3-of-15 case was not represe",
   "D424 \u2014 P-179 item C: the 20 spot-checks re-drawn across all 30 authors (20 Sep 2026, 14",
@@ -46,19 +45,20 @@
   "D427 \u2014 P-181: the falsy-on-failure sweep, and the two sites that mattered (21 Sep 2026,",
   "D428 \u2014 STANDING RULE: a failed read returns a status naming why (21 Sep 2026, 01:20, ow",
   "D429 \u2014 P-182 item 1: THE DEFECT-SHAPE CENSUS, and the fixes do not hold (21 Sep 2026, 0",
-  "D430 \u2014 P-180 item A closed: all 44 methodologists, and the small-author overhead is mea"
+  "D430 \u2014 P-180 item A closed: all 44 methodologists, and the small-author overhead is mea",
+  "D431 \u2014 P-183 item 1: C1 is wired and its saving is much smaller than the ledger implied"
  ],
  "recent_ledger": [
-  "152 \u2014 Three long jobs died silently after I reported them as running, because a `nohup",
-  "153 \u2014 I wrote up the reply-budget defect class as ledger 150 and then committed it twi",
-  "154 \u2014 The circuit breaker has a blind spot for batch APIs, and I submitted $78 of work",
   "155 \u2014 A positional batch identifier was mapped back through the wrong list, silently a",
   "156 \u2014 A pre-registered threshold was bound to a WORD and not to a computation, and thr",
   "157 \u2014 The P-139 rate sweep reported itself verified by absence, on a grep that could n",
   "158 \u2014 A read timeout raised out of the Anthropic transport before the circuit breaker ",
   "159 \u2014 The unit test passed and the shape still failed two times in three.",
   "160 \u2014 The ledger recorded only work that was banked, so $4.00 spent on work thrown awa",
-  "161 \u2014 The falsy-on-failure shape, swept: 79 except clauses in `src/` yield a bare fals"
+  "161 \u2014 The falsy-on-failure shape, swept: 79 except clauses in `src/` yield a bare fals",
+  "162 \u2014 `verify.py` had been unable to make an OpenAI call since the P-142 migration, in",
+  "163 \u2014 The one OpenAI door charged the breaker calls but never dollars, so no dollar ce",
+  "164 \u2014 I recorded my own recompute in the ledger instead of what the meter charged, one"
  ],
  "spend": {
   "rebuild_spend": 34.39,

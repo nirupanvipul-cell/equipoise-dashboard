@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-20T18:30:07.387851+00:00",
- "commit": "08fb579",
- "generation_file": "dashboard-12f613d8.html",
+ "generated": "2026-09-21T04:55:44.539358+00:00",
+ "commit": "88d83ef",
+ "generation_file": "dashboard-d5f0b91e.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,8 +37,6 @@
   }
  ],
  "recent_decisions": [
-  "D415 \u2014 P-177 item 5: the withdrawn cap is out of the code and the fourth 0.60 is docume",
-  "D416 \u2014 P-177 item 1: the Ioannidis priors table is built and is on his desk (20 Sep 202",
   "D417 \u2014 STANDING RULE: a magnitude is stored only as an exact span copied from source (2",
   "D418 \u2014 P-178 item 2: the verbal magnitudes are kept, in their own table, never converte",
   "D419 \u2014 P-178 item 3: four draws for the densest five, and every count is declared a FLO",
@@ -46,7 +44,9 @@
   "D421 \u2014 P-179 item A: the run halted at the ceiling exactly as designed; 30 of 44 banked",
   "D422 \u2014 an unplanned replication: the count reproduces, the membership does not (20 Sep ",
   "D423 \u2014 P-179 item B: the table-only rate is 0.69%, and the 3-of-15 case was not represe",
-  "D424 \u2014 P-179 item C: the 20 spot-checks re-drawn across all 30 authors (20 Sep 2026, 14"
+  "D424 \u2014 P-179 item C: the 20 spot-checks re-drawn across all 30 authors (20 Sep 2026, 14",
+  "D425 \u2014 STANDING RULE: a spend meter charges what LEFT, never what was banked (21 Sep 20",
+  "D426 \u2014 the mechanism question was asked and the instrument answered with an empty strin"
  ],
  "recent_ledger": [
   "151 \u2014 A fix that reported success and changed nothing: the rate correction swept 25 mo",

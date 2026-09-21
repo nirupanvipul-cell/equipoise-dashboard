@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-21T05:13:47.594949+00:00",
- "commit": "a9c4da5",
- "generation_file": "dashboard-7c09a483.html",
+ "generated": "2026-09-21T05:20:44.597410+00:00",
+ "commit": "eddb734",
+ "generation_file": "dashboard-e88162fe.html",
  "coverage": {
   "owner_checklist_live": 1,
   "owner_checklist_total": 15,
@@ -37,19 +37,18 @@
   }
  ],
  "recent_decisions": [
-  "D417 \u2014 STANDING RULE: a magnitude is stored only as an exact span copied from source (2",
-  "D418 \u2014 P-178 item 2: the verbal magnitudes are kept, in their own table, never converte",
-  "D419 \u2014 P-178 item 3: four draws for the densest five, and every count is declared a FLO",
   "D420 \u2014 two preflight findings that changed the run's shape, and one that changes what t",
   "D421 \u2014 P-179 item A: the run halted at the ceiling exactly as designed; 30 of 44 banked",
   "D422 \u2014 an unplanned replication: the count reproduces, the membership does not (20 Sep ",
   "D423 \u2014 P-179 item B: the table-only rate is 0.69%, and the 3-of-15 case was not represe",
   "D424 \u2014 P-179 item C: the 20 spot-checks re-drawn across all 30 authors (20 Sep 2026, 14",
   "D425 \u2014 STANDING RULE: a spend meter charges what LEFT, never what was banked (21 Sep 20",
-  "D426 \u2014 the mechanism question was asked and the instrument answered with an empty strin"
+  "D426 \u2014 the mechanism question was asked and the instrument answered with an empty strin",
+  "D427 \u2014 P-181: the falsy-on-failure sweep, and the two sites that mattered (21 Sep 2026,",
+  "D428 \u2014 STANDING RULE: a failed read returns a status naming why (21 Sep 2026, 01:20, ow",
+  "D429 \u2014 P-182 item 1: THE DEFECT-SHAPE CENSUS, and the fixes do not hold (21 Sep 2026, 0"
  ],
  "recent_ledger": [
-  "151 \u2014 A fix that reported success and changed nothing: the rate correction swept 25 mo",
   "152 \u2014 Three long jobs died silently after I reported them as running, because a `nohup",
   "153 \u2014 I wrote up the reply-budget defect class as ledger 150 and then committed it twi",
   "154 \u2014 The circuit breaker has a blind spot for batch APIs, and I submitted $78 of work",
@@ -58,7 +57,8 @@
   "157 \u2014 The P-139 rate sweep reported itself verified by absence, on a grep that could n",
   "158 \u2014 A read timeout raised out of the Anthropic transport before the circuit breaker ",
   "159 \u2014 The unit test passed and the shape still failed two times in three.",
-  "160 \u2014 The ledger recorded only work that was banked, so $4.00 spent on work thrown awa"
+  "160 \u2014 The ledger recorded only work that was banked, so $4.00 spent on work thrown awa",
+  "161 \u2014 The falsy-on-failure shape, swept: 79 except clauses in `src/` yield a bare fals"
  ],
  "spend": {
   "rebuild_spend": 34.39,
